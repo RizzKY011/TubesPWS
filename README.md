@@ -18,7 +18,10 @@ Tim Pengembang: Kelompok 3
 7. Fatimah Az Zahra - 231402104
    Back-End
 ## Desc
-Gastronesia adalah situs web yang didedikasikan untuk memperkenalkan kekayaan kuliner Indonesia kepada masyarakat luas. Situs ini berfokus pada berbagai hidangan khas dari lima pulau utama Indonesia, yaitu Sumatera, Jawa, Kalimantan, Sulawesi, dan Papua yang mewakili keragaman cita rasa dan tradisi kuliner yang dimiliki oleh setiap daerah. Melalui artikel-artikel yang disajikan, Gastronesia mengupas asal-usul setiap hidangan, kisah budaya yang menyertainya, serta bahan-bahan unik yang menjadi ciri khas masakan tersebut. Meskipun tidak menyediakan resep, Gastronesia menekankan pemahaman dan apresiasi terhadap kuliner Indonesia, sehingga pembaca dapat lebih mengenal kekayaan rasa dan budaya di balik setiap hidangan.
+PIN (Pahlawan Indonesia) adalah situs web yang dirancang untuk menyediakan informasi terperinci tentang pahlawan Indonesia. Melalui "PIN", pengguna dapat menemukan data
+tentang para pahlawan yang telah berjuang untuk kemerdekaan dan pembangunan bangsa indonesia.  
+Situs ini menyajikan berbagai informasi seperti abstrak singkat tentang perjalanan hidup dan kontribusi pahlawan, serta identitas diri dari setiap pahlawan.  
+Dengan antarmuka yang sederhana dan informatif, "PIN" hadir untuk menginspirasi generasi muda dan meningkatkan apresiasi terhadap sejarah serta perjuangan para pahlawan Indonesia
 ## Features
 ###  Guest
 - Melihat daftar nama pahlawan berdasarkan kategori
