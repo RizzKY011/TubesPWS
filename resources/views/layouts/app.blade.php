@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>@yield('title', 'Pencarian Makanan')</title>
+    <title>@yield('title', 'Pencarian Pahlawan')</title>
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -13,12 +13,12 @@
         height: 100%;
         margin: 0;
         font-family: Arial, sans-serif;
-        background: url('{{ asset('images/background3.png') }}') no-repeat center center fixed;
+        background: url('{{ asset('images/pahlawan.jpg') }}') no-repeat center center fixed;
         background-size: cover;
     }
 
     nav {
-        background: linear-gradient(45deg, #ff6b6bd3, #fec957c5);
+        background: linear-gradient(45deg, #797676d3, #b7b7b7c5);
         padding: 15px 0;
         box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
         position: fixed;
@@ -26,12 +26,12 @@
         z-index: 1000;
     }
 
-    nav .logo {
+    /* nav .logo {
         color: white;
         font-size: 24px;
         font-weight: bold;
         margin-left: 20px;
-    }
+    } */
      .navbar {
         background-color: rgba(0, 0, 0, 0); /* Warna latar belakang lebih gelap untuk navbar */
         padding: 15px 30px; /* Padding di dalam navbar */
@@ -64,8 +64,8 @@
     }
 
     .navbar-link:hover {
-        background-color: #fff;
-        color: #000;
+        background-color: #a39f9f;
+        color: hsl(0, 0%, 100%);
         transform: scale(1.1);
         box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);
     }
@@ -113,7 +113,7 @@
                 <li>
                     <a href="{{ url('/map') }}" 
                        class="navbar-link {{ Request::is('map') ? 'active' : '' }}">
-                       Find a food
+                       Find a hero
                     </a>
                 </li>
                 <li>

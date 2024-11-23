@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'About - Pencarian Makanan')
+@section('title', 'About - Pencarian Pahlawan')
 
 @section('content')
     <div class="max-w-7xl mx-auto px-2 sm:px-6 lg:px-8 py-16 ">
@@ -15,13 +15,13 @@
             </p>
         </div>
         
-        <!-- Features Section -->
+        <!--    Features Section -->
         <div class="mb-8">
             <h2 class="text-2xl font-semibold text-center mb-6 text-white">Fitur Utama</h2>
             <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
                 <div class="bg-white p-6 rounded-lg shadow-lg">
-                    <h3 class="text-xl font-semibold mb-4 text-black">Pencarian Berdasarkan Wilayah</h3>
-                    <p class="text-gray-600">Cari makanan khas dari berbagai daerah di Indonesia dengan mudah dan cepat.</p>
+                    <h3 class="text-xl font-semibold mb-4 text-black">Pencarian Berdasarkan Nama Pahlawan</h3>
+                    <p class="text-gray-600">Cari pahlawan di Indonesia dengan mudah dan cepat.</p>
                 </div>
                 <div class="bg-white p-6 rounded-lg shadow-lg">
                     <h3 class="text-xl font-semibold mb-4 text-black">Web Semantik & RDF</h3>
@@ -38,12 +38,12 @@
         <div class="mb-8">
             <h2 class="text-2xl font-semibold text-center mb-6 text-white">Cara Kerja Aplikasi</h2>
             <div class="text-center text-lg text-white">
-                <p class="mb-4">Pencarian makanan kami bekerja dengan menghubungkan data yang berasal dari berbagai wilayah di Indonesia, memberikan Anda pilihan yang lebih luas.</p>
+                <p class="mb-4">Pencarian pahlawan kami bekerja dengan menghubungkan data yang berdasarkan nama dan yang berasal dari beberapa pulau di Indonesia, memberikan Anda pilihan yang lebih luas.</p>
                 <p>Langkah-langkah:</p>
                 <ul class="list-disc list-inside space-y-2 text-left max-w-lg mx-auto mt-4">
-                    <li>Cari wilayah atau kategori makanan yang Anda inginkan.</li>
-                    <li>Pilih hasil yang relevan dengan preferensi Anda.</li>
-                    <li>Dapatkan informasi detail tentang makanan tersebut, termasuk deskripsi dan gambar.</li>
+                    <li>Cari nama pahlawan yang Anda inginkan.</li>
+                    <li>Hasil dari pencarian anda akan muncul.</li>
+                    <li>Dapatkan informasi detail tentang pahlawan tersebut, termasuk deskripsi dan gambar.</li>
                 </ul>
             </div>
         </div>
@@ -74,7 +74,7 @@
         <div class="text-center mt-8">
             <h2 class="text-2xl font-semibold mb-6 text-white">Hubungi Kami</h2>
             <p class="text-lg text-white mb-4">Jika Anda memiliki pertanyaan atau saran, jangan ragu untuk menghubungi kami melalui email atau media sosial kami.</p>
-            <p class="text-lg font-semibold text-blue-500">Email: support@pencarianmakanan.com</p>
+            <p class="text-lg font-semibold text-blue-500">Email:</p>
         </div>
     </div>
 @endsection

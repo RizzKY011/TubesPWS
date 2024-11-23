@@ -3,83 +3,78 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>@yield('title', 'Pencarian Makanan')</title>
-    <script src="https://cdn.tailwindcss.com"></script>
-</head>
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <title>Pencarian Pahlawan</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js"></script>
+</head>
 <body>
-      <div class="main-container">
-        <!-- Carousel Section -->
+    <div class="main-container">
         <div id="foodCarousel" class="carousel slide mb-8" data-bs-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active" data-bs-interval="1500">
-                    <img id="home-carousel-img" src="{{ asset('images/background3.png') }}" alt="Indonesian Cuisine" class="carousel-img">
+                    <img id="home-carousel-img" src="{{ asset('images/pahlawan.jpg') }}" alt="Indonesian Hero" class="carousel-img">        
                 </div>
-            </div>            
+            </div>
 
             <!-- Navbar -->
             <div class="navbar-container">
                 <nav id="home-navbar" class="navbar">
                     <ul class="navbar-menu">
                         <li><a href="{{ url('/') }}" class="navbar-link">Home</a></li>
-                        <li><a href="{{ url('/map') }}" class="navbar-link" id="find-food-btn">Find a food</a></li>
+                        <li><a href="{{ url('/map') }}" class="navbar-link" id="find-food-btn">Find a hero</a></li>
                         <li><a href="{{ url('/about') }}" class="navbar-link">About</a></li>
                     </ul>
                 </nav>
             </div>
-            
 
-            <!-- Categories Section -->
-            <div class="category-box">
-                <div class="category-item">
-                    <span class="category-text">Kategori</span>
-                </div>
-                <div class="category-item">
-                    <span class="category-text">History</span>
-                </div>
-                <div class="category-item">
-                    <span class="category-text">Our Team</span>
-                </div>
-                <div class="category-item">
-                    <span class="category-text">Login</span>
+            <!-- Dropdown Section -->
+            <div class="dropdown-box">
+                <div class="dropdown">
+                    <button class="btn btn-dark dropdown-toggle" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-expanded="false">
+                    </button>
+                    <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                                <li><a class="dropdown-item" href="#pahlawan-nasional">Pahlawan Nasional</a></li>
+                                <li><a class="dropdown-item" href="#pahlawan-revolusi">Pahlawan Revolusi</a></li>
+                                <li><a class="dropdown-item" href="#tokoh-pemuda-pancasila">Tokoh Sumpah Pemuda</a></li>
+                            </ul>
+                        </li>
+                    </ul>
                 </div>
             </div>
 
-            <!-- Gastronesia Section -->
-            <div class="gastronesia-section">
-                <h2 class="gastronesia-title">Gastronesia</h2>
-                <p class="gastronesia-description">
-                    Gastronesia adalah situs web yang didedikasikan untuk memperkenalkan kekayaan kuliner Indonesia kepada masyarakat luas. Situs ini berfokus pada berbagai hidangan khas dari lima pulau utama Indonesia, yaitu Sumatera, Jawa, Kalimantan, Sulawesi, dan Papua yang mewakili keragaman cita rasa dan tradisi kuliner yang dimiliki oleh setiap daerah. Melalui artikel-artikel yang disajikan, Gastronesia mengupas asal-usul setiap hidangan, kisah budaya yang menyertainya, serta bahan-bahan unik yang menjadi ciri khas masakan tersebut. Meskipun tidak menyediakan resep, Gastronesia menekankan pemahaman dan apresiasi terhadap kuliner Indonesia, sehingga pembaca dapat lebih mengenal kekayaan rasa dan budaya di balik setiap hidangan.
+            <!-- pin Section -->
+            <div class="pin-section">
+                <h2 class="pin-title">PIN</h2>
+                <p class="pin-description">
+                    PIN adalah situs web yang dirancang untuk menyediakan informasi terperinci tentang pahlawan Indonesia. Melalui "PIN", pengguna dapat menemukan data tentang para pahlawan yang telah berjuang untuk kemerdekaan dan pembangunan bangsa indonesia. Situs ini menyajikan berbagai informasi seperti abstrak singkat tentang perjalanan hidup dan kontribusi pahlawan, serta identitas diri dari setiap pahlawan. Dengan antarmuka yang sederhana dan informatif, "PIN" hadir untuk menginspirasi generasi muda dan meningkatkan apresiasi terhadap sejarah serta perjuangan para pahlawan Indonesia.
                 </p>
             </div>
         </div>
     </div>
-</body>
+
     <style>
         /* Disable Scroll */
         body, html {
-            overflow: hidden; /* Menghilangkan scroll */
+            overflow: hidden;
             height: 100%;
         }
 
         .main-container {
-            height: 100vh; /* Menjaga agar container mengambil seluruh layar */
+            height: 100vh;
             position: relative;
-            overflow: hidden; /* Menghindari scroll */
+            overflow: hidden;
         }
 
         .carousel-inner {
             width: 100%;
-            height: 100vh; /* Tinggi penuh layar */
+            height: 100vh;
             position: relative;
         }
 
         .carousel-img {
             width: 100%;
             height: 100vh;
-            object-fit: cover; /* Menjaga gambar memenuhi area tanpa terdistorsi */
-
+            object-fit: cover;
         }
 
         .navbar-container {
@@ -91,10 +86,10 @@
         }
 
         .navbar {
-            background-color: rgba(0, 0, 0, 0.95); /* Warna latar belakang lebih gelap untuk navbar */
+            background-color: rgba(0, 0, 0, 0.95);
             border-radius: 20px;
             padding: 15px 30px;
-            box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.5); /* Tambahkan bayangan agar navbar lebih pop-up */
+            box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.5);
         }
 
         .navbar-menu {
@@ -108,125 +103,106 @@
 
         .navbar-link {
             text-decoration: none;
-            color: #fff;
+            color: #ffffff;
             font-size: 18px;
             font-weight: 600;
             letter-spacing: 1px;
-            padding: 8px 16px; /* Memberikan sedikit padding untuk kotak */
-            border-radius: 5px; /* Agar kotak sedikit melengkung */
-            transition: all 0.3s ease; /* Efek transisi untuk perubahan */
+            padding: 8px 16px;
+            border-radius: 5px;
+            transition: all 0.3s ease;
         }
 
         .navbar-link:hover {
-            background-color: #fff; /* Ubah latar belakang menjadi putih */
-            color: #000; /* Ubah warna teks menjadi hitam */
-            transform: scale(1.1); /* Efek membesar saat hover */
-            box-shadow: 0px 4px 8px rgba(0, 0, 0 , 0.3); /* Tambahkan bayangan untuk kesan tombol */
+            background-color: #000000;
+            color: #ffffff;
+            transform: scale(1.1);
+            box-shadow: 0px 4px 8px rgba(255, 255, 255, 0.8);
         }
 
-        .category-box {
-            display: flex;
-            justify-content: center;
+        /* Dropdown */
+        .dropdown-box {
             position: absolute;
-            bottom: 20px;
+            bottom: 25%;
             left: 50%;
             transform: translateX(-50%);
             z-index: 1000;
-            background: linear-gradient(to top, rgba(249, 171, 4, 0.711) 50%, rgba(0, 0, 0, 0) 50%); /* Gradien setengah warna hitam */
-            border-radius: 0px;
-            padding: 20px 40px;
-            gap: 20px;
+            background: transparent;
+            padding: 10px;
         }
 
-        .category-item {
-            display: flex;
-            align-items: center;
-            transition: transform 0.3s, color 0.3s, box-shadow 0.3s; /* Tambahkan transisi untuk bayangan */
-            cursor: pointer;
-            padding: 15px 20px; /* Tambahkan padding untuk kategori */
-            border-radius: 10px; /* Sudut membulat */
-            background: linear-gradient(135deg, rgba(0, 0, 0, 0.934), rgba(0, 0, 0, 0.94)); /* Gradien latar belakang */
-            color: white; /* Warna teks */
-            box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.3); /* Bayangan untuk kategori */
+        .dropdown-menu {
+            background: rgba(0, 0, 0, 0.9);
+            border-radius: 10px;
+            padding: 10px 0;
+            box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.5);
         }
 
-        .category-item:hover {
-            transform: scale(1.05); /* Efek membesar saat hover */
-            box-shadow: 0px 4px 16px rgb(252, 252, 252); /* Tambahkan bayangan saat hover */
-            background-color: #ffffff; /* Mengubah background menjadi putih saat hover */
-            color: #ffffff; /* Mengubah warna teks menjadi hitam agar kontras dengan background putih */
+        .dropdown-item {
+            color: white;
+            font-size: 20px;
+            font-weight: 600;
+            padding: 10px 20px;
+            transition: all 0.3s ease;
         }
 
-
-        .category-text {
-            font-weight: 700;
-            font-size: 18px; /* Ukuran font lebih besar */
-            letter-spacing: 1.2px;
-            margin-left: 10px; /* Jarak antara ikon dan teks */
+        .dropdown-item:hover {
+            background-color: rgba(255, 255, 255, 0.2);
+            color: #f9ab04;
+            border-radius: 5px;
+            transform: scale(1.05);
         }
 
-        .gastronesia-section {
+        .pin-section {
             position: absolute;
-            top: 45%;
-            left: 400px; /* Jarak dari sisi kiri */
-            right: 400px;
-            transform: translateY(-50%); /* Memusatkan secara vertikal */
-            color: rgb(255, 255, 255); /* Warna teks */
-            padding: 50px;
-            margin-top: 10px;
-            /* background-color: rgba(0, 0, 0, 0.246); 
-            border-radius: 60px; 
-            box-shadow: 0px 4px 12px rgba(0, 0, 0, 0);  */
+            top: 40%;
+            left: 10%;
+            right: 10%;
+            transform: translateY(-50%);
+            color: white;
+            text-shadow: 2px 2px 4px black;
         }
 
-        .gastronesia-title {
+        .pin-title {
             text-align: center;
-            font-size: 100px; /* Ukuran font untuk judul */
-            font-weight: bold; /* Membuat judul lebih tebal */
-            margin-bottom: 10px; /* Jarak antara judul dan deskripsi */
-            color: white; /* or any color that contrasts */
-            text-shadow: 2px 2px 4px rgb(0, 0, 0);
+            font-size: 70px;
+            font-weight: bold;
         }
 
-        .gastronesia-description {
+        .pin-description {
             text-align: center;
-            font-size: 20px; /* Ukuran font untuk deskripsi */
-            line-height: 1.5; /* Jarak antar baris */
-            text-shadow: 2px 2px 4px rgb(0, 0, 0);
-
+            font-size:33px;
+            font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
         }
 
-        /* Responsif untuk ukuran layar kecil */
+        /* Responsif */
         @media (max-width: 768px) {
-            .navbar-menu {
-                gap: 20px;
+            .pin-title {
+                font-size: 30px;
             }
 
-            .category-box {
-                gap: 15px;
-                padding: 10px 20px;
-            }
-
-            .category-item {
-                font-size: 16px; /* Ukuran font lebih kecil untuk layar kecil */
-            }
-
-            .navbar-link {
+            .pin-description {
                 font-size: 16px;
             }
 
-            .gastronesia-section {
-                left: 10px; /* Mengurangi jarak dari sisi kiri untuk layar kecil */
-                padding: 15px; /* Mengurangi padding untuk layar kecil */
-            }
-
-            .gastronesia-title {
-                font-size: 20px; /* Ukuran font lebih kecil untuk judul */
-            }
-
-            .gastronesia-description {
-                font-size: 14px; /* Ukuran font lebih kecil untuk deskripsi */
+            .dropdown-box {
+                bottom: 20%;
             }
         }
     </style>
+
+    <script>
+        // Aktifkan submenu dropdown
+        document.querySelectorAll('.dropdown-submenu > .dropdown-item').forEach(item => {
+            item.addEventListener('click', function (e) {
+                e.preventDefault();
+                e.stopPropagation();
+
+                const submenu = this.nextElementSibling;
+                if (submenu) {
+                    submenu.classList.toggle('show');
+                }
+            });
+        });
+    </script>
+</body>
 </html>

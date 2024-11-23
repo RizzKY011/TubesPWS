@@ -1,13 +1,17 @@
 @extends('layouts.app')
 
-@section('title', 'Find a Food - Pencarian Makanan')
+@section('title', 'Find a Hero - Pencarian Pahlawan')
 
 <style>
-    
+      body, html {
+            overflow: hidden;
+            height: 100%;
+        }
 
     .judul {
         text-align: center;
         margin: 100px 0 60px;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
         font-size: 36px;
         color: #ffffff;
         z-index: 2;
@@ -38,54 +42,20 @@
         border: 1px solid #ddd;
         box-sizing: border-box;
     }
+    
 
-    #map-container {
-        width: 100%;
-        text-align: center;
-        margin: 0 auto;
-        position: relative;
-        z-index: 1;
-    }
-
-    #indonesia-map {
-        width: 60%;
-        height: auto;
-        margin: 0 auto;
-        z-index: 2;
-        position: relative;
-        margin-left: 340px;
-    }
-
-    #city-image {
-        width: 300px;
-        height: auto;
-        margin: 20px auto;
-        display: block;
-        border-radius: 12px;
-        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-        z-index: 2;
-        position: relative;
-    }
 </style>
 
 <body>
 
     <!-- Judul Halaman -->
-    <h1 class="judul">Cari Makanan Berdasarkan Provinsinya</h1>
-
-    <!-- Kontainer untuk Peta -->
-    <div id="map-container">
-        <object id="indonesia-map" type="image/svg+xml" data="{{ asset('images/indonesia.svg') }}"></object>
-    </div>
+    <h1 class="judul">Cari Pahlawan Berdasarkan</h1>
 
     <!-- Kotak untuk menampilkan nama wilayah dan input pencarian -->
     <div id="info-box">
-        <div id="info-text">Pilih wilayah pada peta atau cari disini</div>
-        <input type="text" id="search-box" placeholder="Cari wilayah..." />
+        <div id="info-text">Cari pahlawan</div>
+        <input type="text" id="search-box" placeholder="Cari pahlawan..." />
     </div>
-
-    <!-- Gambar representasi kota -->
-    <img id="city-image" src="{{ asset('images/default-city.jpg') }}" alt="City Image" />
 
     <script>
         document.addEventListener('DOMContentLoaded', function () {
@@ -97,14 +67,6 @@
                 homeCarouselImg.style.opacity = '0.8';
             }
         });
-
-        document.getElementById('indonesia-map').addEventListener('load', function () {
-            const svgDoc = this.contentDocument;
-            const paths = svgDoc.querySelectorAll('path');
-            const infoBox = document.getElementById('info-box');
-            const infoText = document.getElementById('info-text');
-            const searchBox = document.getElementById('search-box');
-            const cityImage = document.getElementById('city-image');
 
             paths.forEach(function (path) {
                 path.addEventListener('mouseover', function () {
@@ -121,27 +83,25 @@
                     searchBox.value = title; // Tampilkan nama wilayah di kotak pencarian
 
                     // Ubah gambar kota
-                    switch (title) {
-                        case 'Sumatera Utara':
-                            cityImage.src = "{{ asset('images/sumatera-utara.jpg') }}";
-                            break;
-                        case 'Bali':
-                            cityImage.src = "{{ asset('images/bali.jpg') }}";
-                            break;
-                        case 'Bangka Belitung':
-                            cityImage.src = "{{ asset('images/bangka-belitung.jpg') }}";
-                            break;
-                        case 'Bengkulu':
-                            cityImage.src = "{{ asset('images/bengkulu.jpg') }}";
-                            break;
-                        case 'Banten':
-                            cityImage.src = "{{ asset('images/banten.jpg') }}";
-                            break;
-                        default:
-                            cityImage.src = "{{ asset('images/default-city.jpg') }}";
-                    }
+                //     switch (title) {
+                //         case 'Sumatera':
+                //             cityImage.src = "{{ asset('images/sumatera.jpg') }}";
+                //             break;
+                //         case 'Jawa':
+                //             cityImage.src = "{{ asset('images/jawa.jpg') }}";
+                //             break;
+                //         case 'Kalimantan':
+                //             cityImage.src = "{{ asset('images/kalimantan.jpg') }}";
+                //             break;
+                //         case 'Sulawesi':
+                //             cityImage.src = "{{ asset('images/sulawesi.jpg') }}";
+                //             break;
+                //         case 'Papua':
+                //             cityImage.src = "{{ asset('images/papua.jpg') }}";
+                //             break;
+                //     }
                 });
-
+                
                 path.addEventListener('mouseout', function () {
                     path.removeAttribute('fill');
                     path.style.transform = 'scale(1)';
@@ -154,31 +114,31 @@
                     cityImage.src = "{{ asset('images/default-city.jpg') }}";
                 });
 
-                path.addEventListener('click', function () {
-                    const title = path.getAttribute('title');
-                    console.log('Clicked island:', title);
+            //     path.addEventListener('click', function () {
+            //         const title = path.getAttribute('title');
+            //         console.log('Clicked island:', title);
 
-                    switch (title) {
-                        case 'Sumatera Utara':
-                            window.location.href = '/pulau-aceh';
-                            break;
-                        case 'Bali':
-                            window.location.href = '/pulau-bali';
-                            break;
-                        case 'Bangka Belitung':
-                            window.location.href = '/pulau-bangka-belitung';
-                            break;
-                        case 'Bengkulu':
-                            window.location.href = '/pulau-bengkulu';
-                            break;
-                        case 'Banten':
-                            window.location.href = '/pulau-banten';
-                            break;
-                        default:
-                            alert('Halaman untuk ' + title + ' belum tersedia.');
-                    }
-                });
-            });
+            //         switch (title) {
+            //             case 'Sumatera Utara':
+            //                 window.location.href = '/pulau-aceh';
+            //                 break;
+            //             case 'Bali':
+            //                 window.location.href = '/pulau-bali';
+            //                 break;
+            //             case 'Bangka Belitung':
+            //                 window.location.href = '/pulau-bangka-belitung';
+            //                 break;
+            //             case 'Bengkulu':
+            //                 window.location.href = '/pulau-bengkulu';
+            //                 break;
+            //             case 'Banten':
+            //                 window.location.href = '/pulau-banten';
+            //                 break;
+            //             default:
+            //                 alert('Halaman untuk ' + title + ' belum tersedia.');
+            //         }
+            //     });
+            // });
 
             // Fitur pencarian wilayah
             searchBox.addEventListener('keyup', function (event) {
@@ -206,25 +166,25 @@
                             path.style.transform = 'scale(1.02)';
 
                             // Update city image based on found title
-                            switch (title) {
-                                case 'sumatera utara':
-                                    cityImage.src = "{{ asset('images/sumatera-utara.jpg') }}";
-                                    break;
-                                case 'bali':
-                                    cityImage.src = "{{ asset('images/bali.jpg') }}";
-                                    break;
-                                case 'bangka belitung':
-                                    cityImage.src = "{{ asset('images/bangka-belitung.jpg') }}";
-                                    break;
-                                case 'bengkulu':
-                                    cityImage.src = "{{ asset('images/bengkulu.jpg') }}";
-                                    break;
-                                case 'banten':
-                                    cityImage.src = "{{ asset('images/banten.jpg') }}";
-                                    break;
-                                default:
-                                    cityImage.src = "{{ asset('images/default-city.jpg') }}";
-                            }
+                            // switch (title) {
+                            //     case 'sumatera utara':
+                            //         cityImage.src = "{{ asset('images/sumatera-utara.jpg') }}";
+                            //         break;
+                            //     case 'bali':
+                            //         cityImage.src = "{{ asset('images/bali.jpg') }}";
+                            //         break;
+                            //     case 'bangka belitung':
+                            //         cityImage.src = "{{ asset('images/bangka-belitung.jpg') }}";
+                            //         break;
+                            //     case 'bengkulu':
+                            //         cityImage.src = "{{ asset('images/bengkulu.jpg') }}";
+                            //         break;
+                            //     case 'banten':
+                            //         cityImage.src = "{{ asset('images/banten.jpg') }}";
+                            //         break;
+                            //     default:
+                            //         cityImage.src = "{{ asset('images/default-city.jpg') }}";
+                            // }
 
                             found = true;
                         } else {
