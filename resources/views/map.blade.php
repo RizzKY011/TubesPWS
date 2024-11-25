@@ -1,205 +1,136 @@
 @extends('layouts.app')
 
-@section('title', 'Find a Hero - Pencarian Pahlawan')
+@section('title', 'Cari Pahlawan')
+
+@section('content')
+<div class="container" style="margin-top: 100px; position: relative;">
+    <!-- Background Image -->
+    <div class="background-img"></div>
+
+    <h1 class="text-center mt-5" style="position: relative; z-index: 3;">Cari Pahlawan</h1>
+    
+    <!-- Kotak Pencarian -->
+    <form method="GET" action="{{ route('hero.search') }}" class="my-4" style="position: relative; z-index: 3;">
+        <div class="input-group custom-search-box">
+            <input type="text" name="keyword" class="form-control" placeholder="Masukkan nama pahlawan..." value="{{ request('keyword') }}">
+            <div class="input-group-append">
+                <button class="btn btn-primary" type="submit">Cari</button>
+            </div>
+        </div>
+    </form>
+
+    <!-- Hasil Pencarian -->
+    @if (!empty($heroesPaginated) && count($heroesPaginated) > 0)
+        <div class="row" style="position: relative; z-index: 3;">
+            @foreach ($heroesPaginated as $hero)
+                <div class="col-md-3 mb-4">
+                    <div class="card">
+                        <img src="{{ $hero['thumbnail'] }}" class="card-img-top" alt="{{ $hero['name'] }}">
+                        <div class="card-body text-center">
+                            <h5 class="card-title">{{ $hero['name'] }}</h5>
+                        </div>
+                    </div>
+                </div>
+            @endforeach
+        </div>
+
+        <!-- Pagination -->
+        <div class="d-flex justify-content-center mt-4">
+            <ul class="pagination">
+                @for ($i = 1; $i <= $totalPages; $i++)
+                    <li class="page-item {{ $i == $currentPage ? 'active' : '' }}">
+                        <a class="page-link" href="{{ route('hero.search', ['keyword' => request('keyword'), 'page' => $i]) }}">{{ $i }}</a>
+                    </li>
+                @endfor
+            </ul>
+        </div>
+    @else
+        <p class="text-center">Tidak ada pahlawan yang ditemukan.</p>
+    @endif
+</div>
+@endsection
 
 <style>
-      body, html {
-            overflow: hidden;
-            height: 100%;
-        }
-
-    .judul {
-        text-align: center;
-        margin: 100px 0 60px;
-        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-        font-size: 36px;
-        color: #ffffff;
-        z-index: 2;
-        position: relative;
-    }
-
-    #info-box {
-        margin: 20px auto;
-        padding: 10px;
-        width: 60%;
-        text-align: center;
-        background-color: #f9f9f9;
-        border: 1px solid #ddd;
-        border-radius: 12px;
-        font-size: 18px;
-        font-weight: bold;
-        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-        z-index: 2;
-        position: relative;
-    }
-
-    #info-box input {
+    /* Background image settings */
+    .background-img {
+        position: fixed;
+        top: 0;
+        left: 0;
         width: 100%;
-        padding: 10px;
-        font-size: 16px;
-        margin-top: 10px;
-        border-radius: 8px;
-        border: 1px solid #ddd;
-        box-sizing: border-box;
+        height: 100%;
+        background-image: url('{{ asset('images/2.png') }}');
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed; /* Ensure the background image doesn't move */
+        z-index: 1; /* Ensure it's behind content */
     }
-    
 
+    /* Ensure content is above background */
+    .container {
+        position: relative;
+        z-index: 3; /* Content above background */
+    }
+
+    /* Styling for form and cards */
+    h1, .input-group, .card, .card-body {
+        z-index: 3; /* Content above background */
+        position: relative;
+    }
+
+    .input-group {
+        margin-top: 20px;
+    }
+
+    /* Custom style for the search box */
+    .custom-search-box {
+        max-width: 600px;
+        margin: 0 auto;
+        border-radius: 50px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    .custom-search-box input {
+        border-radius: 50px;
+        padding-left: 20px;
+        font-size: 16px;
+        transition: all 0.3s ease;
+    }
+
+    .custom-search-box input:focus {
+        border-color: #007bff;
+        box-shadow: 0 0 8px rgba(0, 123, 255, 0.5);
+    }
+
+    .custom-search-box .input-group-append {
+        border-radius: 50px;
+        background-color: #007bff;
+    }
+
+    .custom-search-box .btn {
+        border-radius: 50px;
+        padding: 10px 20px;
+    }
+
+    /* Card image and content styling */
+    .card-img-top {
+        height: 200px;
+        object-fit: cover;
+    }
+
+    /* Styling for pagination */
+    .pagination {
+        display: flex;
+        justify-content: center;
+        list-style: none;
+        padding: 0;
+    }
+
+    .pagination .page-item {
+        margin: 0 5px;
+    }
+
+    .pagination .page-item.active .page-link {
+        background-color: #007bff;
+        border-color: #007bff;
+    }
 </style>
-
-<body>
-
-    <!-- Judul Halaman -->
-    <h1 class="judul">Cari Pahlawan Berdasarkan</h1>
-
-    <!-- Kotak untuk menampilkan nama wilayah dan input pencarian -->
-    <div id="info-box">
-        <div id="info-text">Cari pahlawan</div>
-        <input type="text" id="search-box" placeholder="Cari pahlawan..." />
-    </div>
-
-    <script>
-        document.addEventListener('DOMContentLoaded', function () {
-            const homeCarouselImg = parent.document.getElementById('home-carousel-img');
-            
-            if (homeCarouselImg) {
-                homeCarouselImg.style.transition = 'transform 0.8s ease, opacity 0.8s ease';
-                homeCarouselImg.style.transform = 'scale(0.6)';
-                homeCarouselImg.style.opacity = '0.8';
-            }
-        });
-
-            paths.forEach(function (path) {
-                path.addEventListener('mouseover', function () {
-                    path.setAttribute('fill', 'black');
-                    path.style.transform = 'scale(1.02)';
-
-                    paths.forEach(function (otherPath) {
-                        if (otherPath !== path) {
-                            otherPath.style.opacity = '0.2';
-                        }
-                    });
-
-                    const title = path.getAttribute('title');
-                    searchBox.value = title; // Tampilkan nama wilayah di kotak pencarian
-
-                    // Ubah gambar kota
-                //     switch (title) {
-                //         case 'Sumatera':
-                //             cityImage.src = "{{ asset('images/sumatera.jpg') }}";
-                //             break;
-                //         case 'Jawa':
-                //             cityImage.src = "{{ asset('images/jawa.jpg') }}";
-                //             break;
-                //         case 'Kalimantan':
-                //             cityImage.src = "{{ asset('images/kalimantan.jpg') }}";
-                //             break;
-                //         case 'Sulawesi':
-                //             cityImage.src = "{{ asset('images/sulawesi.jpg') }}";
-                //             break;
-                //         case 'Papua':
-                //             cityImage.src = "{{ asset('images/papua.jpg') }}";
-                //             break;
-                //     }
-                });
-                
-                path.addEventListener('mouseout', function () {
-                    path.removeAttribute('fill');
-                    path.style.transform = 'scale(1)';
-
-                    paths.forEach(function (otherPath) {
-                        otherPath.style.opacity = '1';
-                    });
-
-                    searchBox.value = ''; // Kosongkan kotak pencarian
-                    cityImage.src = "{{ asset('images/default-city.jpg') }}";
-                });
-
-            //     path.addEventListener('click', function () {
-            //         const title = path.getAttribute('title');
-            //         console.log('Clicked island:', title);
-
-            //         switch (title) {
-            //             case 'Sumatera Utara':
-            //                 window.location.href = '/pulau-aceh';
-            //                 break;
-            //             case 'Bali':
-            //                 window.location.href = '/pulau-bali';
-            //                 break;
-            //             case 'Bangka Belitung':
-            //                 window.location.href = '/pulau-bangka-belitung';
-            //                 break;
-            //             case 'Bengkulu':
-            //                 window.location.href = '/pulau-bengkulu';
-            //                 break;
-            //             case 'Banten':
-            //                 window.location.href = '/pulau-banten';
-            //                 break;
-            //             default:
-            //                 alert('Halaman untuk ' + title + ' belum tersedia.');
-            //         }
-            //     });
-            // });
-
-            // Fitur pencarian wilayah
-            searchBox.addEventListener('keyup', function (event) {
-                if (event.key === 'Enter') {
-                    const searchTerm = searchBox.value.toLowerCase();
-                    let found = false;
-
-                    // Reset message to "Pilih wilayah pada peta" before searching
-                    infoText.textContent = 'Pilih wilayah pada peta atau cari disini';
-
-                    // Reset opacity of all paths to default (visible state)
-                    paths.forEach(function (path) {
-                        path.style.opacity = '1';  // Pastikan semua wilayah terlihat normal
-                        path.removeAttribute('fill'); // Reset warna fill
-                        path.style.transform = 'scale(1)'; // Reset transform
-                    });
-
-                    // Loop through each path to check if it matches the search term
-                    paths.forEach(function (path) {
-                        const title = path.getAttribute('title').toLowerCase();
-
-                        // If the title includes the search term, highlight it
-                        if (title.includes(searchTerm)) {
-                            path.setAttribute('fill', 'black');
-                            path.style.transform = 'scale(1.02)';
-
-                            // Update city image based on found title
-                            // switch (title) {
-                            //     case 'sumatera utara':
-                            //         cityImage.src = "{{ asset('images/sumatera-utara.jpg') }}";
-                            //         break;
-                            //     case 'bali':
-                            //         cityImage.src = "{{ asset('images/bali.jpg') }}";
-                            //         break;
-                            //     case 'bangka belitung':
-                            //         cityImage.src = "{{ asset('images/bangka-belitung.jpg') }}";
-                            //         break;
-                            //     case 'bengkulu':
-                            //         cityImage.src = "{{ asset('images/bengkulu.jpg') }}";
-                            //         break;
-                            //     case 'banten':
-                            //         cityImage.src = "{{ asset('images/banten.jpg') }}";
-                            //         break;
-                            //     default:
-                            //         cityImage.src = "{{ asset('images/default-city.jpg') }}";
-                            // }
-
-                            found = true;
-                        } else {
-                            // Apply opacity reduction to non-matching paths (blur effect)
-                            path.style.opacity = '0.2';
-                        }
-                    });
-
-                    // If no match found, show the "Wilayah tidak ditemukan" message
-                    if (!found) {
-                        infoText.textContent = 'Wilayah tidak ditemukan.';
-                    }
-                }
-            });
-        });
-    </script>
-
-</body>

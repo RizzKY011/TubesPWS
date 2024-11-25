@@ -13,67 +13,107 @@
         height: 100%;
         margin: 0;
         font-family: Arial, sans-serif;
-        background: url('{{ asset('images/pahlawan.jpg') }}') no-repeat center center fixed;
+        background: url('{{ asset('images/2.png') }}') no-repeat center center fixed;
         background-size: cover;
     }
-
-    nav {
-        background: linear-gradient(45deg, #797676d3, #b7b7b7c5);
-        padding: 15px 0;
-        box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    .background-img {
         position: fixed;
+        top: 0;
+        left: 0;
         width: 100%;
-        z-index: 1000;
+        height: 100%;
+        background-image: url('{{ asset('images/2.png') }}');
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed; /* Ensure the background image doesn't move */
+        z-index: 1; /* Ensure it's behind content */
     }
 
-    /* nav .logo {
-        color: white;
-        font-size: 24px;
-        font-weight: bold;
-        margin-left: 20px;
-    } */
-     .navbar {
-        background-color: rgba(0, 0, 0, 0); /* Warna latar belakang lebih gelap untuk navbar */
-        padding: 15px 30px; /* Padding di dalam navbar */
-        box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.5); /* Bayangan untuk navbar */
-        position: fixed; /* Memperbaiki posisi navbar di atas */
-        width: 100%; /* Lebar penuh */
-        top: 0; /* Menempel di bagian atas */
-        z-index: 1000; /* Pastikan navbar berada di atas konten lainnya */
+    /* Ensure content is above background */
+    .container {
+        position: relative;
+        z-index: 3; /* Content above background */
     }
 
-    .navbar-menu {
-        list-style: none;
-        display: flex;
-        gap: 40px;
-        margin: 0;
-        padding: 0;
-        justify-content: center;
+    /* Styling for form and cards */
+    h1, .input-group, .card, .card-body {
+        z-index: 3; /* Content above background */
+        position: relative;
+    }
+
+.navbar-container {
+    position: absolute;
+    top: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 1000; /* Agar navbar selalu di atas gambar */
+}
+
+.navbar {
+    background: linear-gradient(90deg, rgba(255, 0, 0, 0.8), rgba(255, 255, 255, 0.8), rgba(255, 0, 0, 0.8));
+    background-size: 300% 300%; 
+    animation: movingGradient 6s infinite ease-in-out;
+    border-radius: 20px;
+    padding: 15px 30px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.5);
+}
+
+.navbar-menu {
+    list-style: none;
+    display: flex;
+    gap: 40px;
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+}
+
+.navbar-link {
+    text-decoration: none;
+    color: #000000;
+    font-size: 18px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    padding: 8px 16px;
+    border-radius: 5px;
+    transition: all 0.3s ease;
+}
+
+.navbar-link:hover {
+    background-color: #fff;
+    color: #000;
+    transform: scale(1.1);
+    box-shadow: 0px 4px 8px rgba(0, 0, 0 , 0.3);
+}
+
+@keyframes movingGradient {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+/* Menghilangkan scrollbar di tampilan web */
+::-webkit-scrollbar {
+    display: none;
+}
+
+
+        
+    @keyframes movingGradient {
+        0% {
+            background-position: 0% 50%;
         }
-
-    .navbar-link {
-        text-decoration: none;
-        color: #fff;
-        font-size: 18px;
-        font-weight: 600;
-        letter-spacing: 1px;
-        padding: 8px 16px;
-        border-radius: 5px;
-        transition: all 0.3s ease;
-        margin-left: 300px;
-    }
-
-    .navbar-link:hover {
-        background-color: #a39f9f;
-        color: hsl(0, 0%, 100%);
-        transform: scale(1.1);
-        box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);
-    }
-
-    .navbar-link.active {
-        background-color: #fff;
-        color: #000;
-        box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);
+        50% {
+            background-position: 100% 50%;
+        }
+        100% {
+            background-position: 0% 50%;
+        }
     }
 
 </style>
@@ -100,6 +140,8 @@
         </div>
     </nav> --}}
 
+    
+
     <!-- Navbar -->
     <div class="navbar-container">
         <nav class="navbar">
@@ -113,7 +155,7 @@
                 <li>
                     <a href="{{ url('/map') }}" 
                        class="navbar-link {{ Request::is('map') ? 'active' : '' }}">
-                       Find a hero
+                       Cari Pahlawan
                     </a>
                 </li>
                 <li>
