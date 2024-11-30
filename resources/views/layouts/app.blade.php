@@ -13,8 +13,9 @@
         height: 100%;
         margin: 0;
         font-family: Arial, sans-serif;
-        background: url('{{ asset('images/2.png') }}') no-repeat center center fixed;
+        background: url('{{ asset('images/background.webp') }}') no-repeat center center fixed;
         background-size: cover;
+
     }
     .background-img {
         position: fixed;
@@ -22,11 +23,12 @@
         left: 0;
         width: 100%;
         height: 100%;
-        background-image: url('{{ asset('images/2.png') }}');
+        background-image: url('{{ asset('images/background.webp') }}');
         background-size: cover;
         background-position: center;
         background-attachment: fixed; /* Ensure the background image doesn't move */
         z-index: 1; /* Ensure it's behind content */
+        
     }
 
     /* Ensure content is above background */
@@ -39,6 +41,10 @@
     h1, .input-group, .card, .card-body {
         z-index: 3; /* Content above background */
         position: relative;
+        color: rgb(42, 42, 42);
+        text-shadow: 2px 2px 5px rgb(254, 254, 254); /* Efek bayangan halus */  
+        font-size: 4rem;
+        font-weight: bold;
     }
 
 .navbar-container {
@@ -153,10 +159,8 @@
                     </a>
                 </li>
                 <li>
-                    <a href="{{ url('/map') }}" 
-                       class="navbar-link {{ Request::is('map') ? 'active' : '' }}">
-                       Cari Pahlawan
-                    </a>
+                    <li><a href="{{ route('hero.search', ['view' => 'map']) }}" class="navbar-link" id="find-hero-map-btn">Cari Pahlawan</a></li>
+
                 </li>
                 <li>
                     <a href="{{ url('/about') }}" 

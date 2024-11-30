@@ -1,22 +1,10 @@
 @extends('layouts.app')
 
-@section('title', 'Cari Pahlawan')
+@section('title', 'Pahlawan Kategori: ' . ucfirst($category))
 
 @section('content')
 <div class="container" style="margin-top: 100px; position: relative;">
-    <!-- Background Image -->
-    <div class="background-img"></div>
-
-    <h1 class="text-center mt-5" style="position: relative; z-index: 3; font-size: 30px;">Cari Pahlawan</h1>
-
-    <!-- Kotak Pencarian -->
-    <form method="GET" action="{{ route('hero.search') }}" class="my-4" style="position: relative; z-index: 3;">
-        <div class="custom-search-box">
-            <input type="text" name="keyword" class="form-control" placeholder="Masukkan nama pahlawan..." value="{{ request('keyword') }}">
-            <button type="submit">Cari</button>
-        </div>
-    </form>
-    
+    <h1 class="text-center mt-5" style="margin-bottom: 30px; font-size:40px; color: rgb(219, 219, 219);">Pahlawan Kategori {{ ucfirst($category) }}</h1>
 
     <!-- Hasil Pencarian -->
     @if (!empty($heroes) && count($heroes) > 0)
@@ -50,7 +38,7 @@
             @endforeach
         </div>
     @else
-        <p class="text-center" style="position: relative; z-index: 3; font-size:30px; margin-top:20px;" >Tidak ada pahlawan ditemukan</p>
+        <p class="text-center">Tidak ada pahlawan ditemukan dalam kategori ini.</p>
     @endif
 </div>
 @endsection
@@ -64,17 +52,17 @@
 }
     /* Background image settings */
     .background-img {
-        position: fixed;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
-        background-image: url('{{ asset('images/background.webp') }}');
-        background-size: cover;
-        background-position: center;
-        background-attachment: fixed;
-        z-index: -1;
-    }
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('{{ asset('images/background.webp') }}');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    z-index: -1;
+}
 
     /* Ensure content is above background */
     .container {
@@ -93,54 +81,6 @@
         letter-spacing: 2px;
         text-align: center;
     }
-
-    .custom-search-box {
-    max-width: 600px;
-    margin: 0 auto;
-    display: flex;
-    border-radius: 50px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    overflow: hidden;
-    background-color: white; /* Menambahkan background untuk keseluruhan search box */
-}
-
-.custom-search-box input {
-    flex-grow: 1; /* Input box mengisi ruang yang tersedia */
-    border: none;
-    border-radius: 50px;
-    padding-left: 20px;
-    font-size: 16px;
-    height: 45px; /* Menambah tinggi input */
-    outline: none;
-    transition: all 0.3s ease;
-}
-
-.custom-search-box input:focus {
-    border-color: #ff4800;
-    box-shadow: 0 0 8px rgba(255, 4, 4, 0.5);
-}
-
-.custom-search-box button {
-    border-radius: 50px;
-    background-color: red;
-    color: white;
-    border: none;
-    padding: 10px 20px;
-    height: 45px;
-    cursor: pointer;
-    transition: background-color 0.3s ease;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-.custom-search-box button:hover {
-    background-color: rgb(255, 0, 0);
-}
-
-.custom-search-box button:focus {
-    outline: none;
-}
 
     /* Card image and content styling */
     .card-img-top {
@@ -259,6 +199,7 @@
     width: 900px; /* Tentukan lebar info-card */
     padding: 20px;
     background-color: #ebebeb;
+    border: 1px solid #000000;
     border-radius: 10px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
     opacity: 0;
@@ -267,7 +208,6 @@
     height: auto;
     visibility: hidden; /* Pastikan info-card tidak terlihat secara default */
     overflow-y: auto; /* Allow scrolling if content exceeds height */
-    box-shadow: 0 0 10px rgba(255, 0, 0, 0.8); /* Glow effect */
 
 
 }
@@ -344,5 +284,3 @@ document.addEventListener("DOMContentLoaded", function() {
 
 
 </script>
-
-
