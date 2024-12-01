@@ -50,7 +50,7 @@
                 </div>
                 <div class="category-item" data-category="sumpahpemuda">
                     <a href="{{ route('hero.category', ['category' => 'sumpahpemuda']) }}" class="category-link">
-                        <span class="category-text">Sumpah Pemuda</span>
+                        <span class="category-text">SumpahPemuda</span>
                     </a>
                 </div>
                
