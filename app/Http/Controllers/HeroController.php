@@ -16,66 +16,70 @@ class HeroController extends Controller
 
     // Function to search heroes
     public function searchHero(Request $request)
-    {
-        $keyword = $request->input('keyword', ''); // Get search keyword
+{
+    $keyword = $request->input('keyword', ''); // Get search keyword
 
-        // Preprocess keyword to remove special characters and make it lowercase
-        $keyword = preg_replace('/[^a-zA-Z0-9\s]/', '', $keyword); // Remove non-alphanumeric characters
+    // Preprocess keyword to remove special characters and make it lowercase
+    $keyword = preg_replace('/[^a-zA-Z0-9\s]/', '', $keyword); // Remove non-alphanumeric characters
 
-        // SPARQL query to search heroes based on the keyword
-        $query = "
-            PREFIX pin: <https://example.org/schema/pin>
-            PREFIX foaf: <http://xmlns.com/foaf/0.1/>
-            PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+    // SPARQL query to search heroes based on the keyword in name or island
+    $query = "
+        PREFIX pin: <https://example.org/schema/pin>
+        PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+        PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 
-            SELECT ?person ?name ?birthPlace ?birthYear ?deathPlace ?deathYear ?island ?battle ?thumbnail ?homepage ?abstract
-            WHERE {
-                ?person a pin:hero ;
-                        rdfs:label ?name ;
-                        pin:birthPlace ?birthPlace ;
-                        pin:birthYear ?birthYear ;
-                        pin:deathPlace ?deathPlace ;
-                        pin:deathYear ?deathYear ;
-                        pin:island ?island ;
-                        pin:battle ?battle ;
-                        pin:thumbnail ?thumbnail ;
-                        foaf:homepage ?homepage ;
-                        pin:abstract ?abstract .
-                FILTER(CONTAINS(LCASE(str(?name)), LCASE('$keyword')))
-            }
-            "; 
-        $heroes = [];
-        try {
-            $results = $this->query($query);  // Call the query function from the controller
-
-            // Filter duplicate results based on the name and birth year
-            foreach ($results as $row) {
-                $heroName = (string)$row->name;
-                $heroBirthYear = (string)$row->birthYear;
-
-                // Check if hero already exists in the array using heroName and birthYear as the unique identifier
-                if (!in_array($heroName . '-' . $heroBirthYear, array_column($heroes, 'uniqueKey'))) {
-                    $heroes[] = [
-                        'uniqueKey'  => $heroName . '-' . $heroBirthYear, // Unique key for filtering duplicates
-                        'name'       => $heroName,
-                        'abstract'   => (string)$row->abstract ?? 'No abstract available',
-                        'birthPlace' => (string)$row->birthPlace ?? 'Unknown place',
-                        'birthYear'  => (string)$row->birthYear ?? 'Unknown year',
-                        'deathPlace' => (string)$row->deathPlace ?? 'Unknown place',
-                        'deathYear'  => (string)$row->deathYear ?? 'Unknown year',
-                        'island'     => (string)$row->island ?? 'Unknown island',
-                        'battle'     => (string)$row->battle ?? 'No battle info',
-                        'thumbnail'  => (string)$row->thumbnail ?? '',
-                        'homepage'   => (string)$row->homepage ?? '',
-                    ];
-                }
-            }
-        } catch (\Exception $e) {
-            \Log::error("SPARQL query failed: " . $e->getMessage());
+        SELECT ?person ?name ?birthPlace ?birthYear ?deathPlace ?deathYear ?island ?battle ?thumbnail ?homepage ?abstract
+        WHERE {
+            ?person a pin:hero ;
+                    rdfs:label ?name ;
+                    pin:birthPlace ?birthPlace ;
+                    pin:birthYear ?birthYear ;
+                    pin:deathPlace ?deathPlace ;
+                    pin:deathYear ?deathYear ;
+                    pin:island ?island ;
+                    pin:battle ?battle ;
+                    pin:thumbnail ?thumbnail ;
+                    foaf:homepage ?homepage ;
+                    pin:abstract ?abstract .
+            FILTER(
+                CONTAINS(LCASE(str(?name)), LCASE('$keyword')) ||
+                CONTAINS(LCASE(str(?island)), LCASE('$keyword'))
+            )
         }
+    "; 
+    $heroes = [];
+    try {
+        $results = $this->query($query);  // Call the query function from the controller
 
-        return view('cari', compact('heroes', 'keyword'));
+        // Filter duplicate results based on the name and birth year
+        foreach ($results as $row) {
+            $heroName = (string)$row->name;
+            $heroBirthYear = (string)$row->birthYear;
+
+            // Check if hero already exists in the array using heroName and birthYear as the unique identifier
+            if (!in_array($heroName . '-' . $heroBirthYear, array_column($heroes, 'uniqueKey'))) {
+                $heroes[] = [
+                    'uniqueKey'  => $heroName . '-' . $heroBirthYear, // Unique key for filtering duplicates
+                    'name'       => $heroName,
+                    'abstract'   => (string)$row->abstract ?? 'No abstract available',
+                    'birthPlace' => (string)$row->birthPlace ?? 'Unknown place',
+                    'birthYear'  => (string)$row->birthYear ?? 'Unknown year',
+                    'deathPlace' => (string)$row->deathPlace ?? 'Unknown place',
+                    'deathYear'  => (string)$row->deathYear ?? 'Unknown year',
+                    'island'     => (string)$row->island ?? 'Unknown island',
+                    'battle'     => (string)$row->battle ?? 'No battle info',
+                    'thumbnail'  => (string)$row->thumbnail ?? '',
+                    'homepage'   => (string)$row->homepage ?? '',
+                ];
+            }
+        }
+    } catch (\Exception $e) {
+        \Log::error("SPARQL query failed: " . $e->getMessage());
     }
+
+    return view('cari', compact('heroes', 'keyword'));
+}
+
     
     // HeroController.php
 
@@ -91,21 +95,27 @@ class HeroController extends Controller
                 'Pangeran Antasari', 'Basuki Rahmat', 'Tjilik Riwut', 'Sukarno'
             ],
             'revolusi' => [
-                'Iwa Koesoemasoemantri', 'Arie Frederik Lasut', 'Kusumah Atmaja',
-                'Nani Wartabone', 'Muhammad Mangundi Projo', 'Radjiman Wediodiningrat',
-                'Rasuna Said', 'Zainal Mustafa', 'Bagindo Azizchan'
+                'Ahmad Yani', 'Raden Suprapto', 'Mas Tirtodarmo haryono',
+                'Siswondo Parman', 'Donald Isaac Pandjaitan', 'Sutoyo Siswomiharjo',
+                'Pierre Andreas Tandean', 'Karel Satsuit Tubun', 'Katamso Darmokusumo',
+                'Sugiyono Mangunwiyoto','Katamso'
             ],
             'nasional' => [
-                'Dewi Sartika', 'Maria Walanda Maramis', 'Martha Christina Tiahahu',
-                'Pong Tiku', 'Tengku Amir Hamzah', 'Lafran Pane',
-                'Bernard Wilhelm Lapian', 'Usmar Ismail', 'Melanchton Siregar',
-                'Sahardjo', 'Said Soekanto Tjokrodiatmodjo', 'Tirto Adhi Soerjo',
-                'Sartono'
+		    'Sukarno', 'Mohammad Hatta', 'Sutan Sjahrir', 'Sudirman', 'Ki Hajar Dewantara', 'R.A. Kartini',
+            'Ernest Douwes Dekker', 'Muhammad Husni Thamrin', 'Ahmad Dahlan', 'Omar Said Tjokroaminoto', 
+            'Mohammad Natsir', 'Soepomo', 'Herman Yohannes', 'Abdul Haris Nasution', 'Bagoes Hadikusumo', 
+            'G.A. Siwabessy', 'Tengku Amir Hamzah','Sultan Syarif Kasim II', 'Sukarni', 'Muhammad Yasin', 
+            'Iwa Koesoemasoemantri','Arnoldus Isaac Zacharias', 'Dewi Sartika', 'Djuanda Kartawidjaja', 
+            'Maria Walanda Maramis', 'Radjiman Wediodiningrat', 'Rasuna Said', 'Lafran Pane', 'Basuki Prabowinoto',
+            'Bernard Wilhelm Lapian', 'Usmar Ismail', 'Melanchton Siregar', 'Sahardjo', 'Said Soekanto Tjokroadiatmodjo','Sartono',
             ],
             'sumpahpemuda' => [
-                'Johanes Abraham Dimara', 'Djuanda Kartawidjaja', 'SutanSjahrir','Diponegoro', 'Mohammad Yamin'
-            ],
-        ];
+            'Sugondo Djojopuspito', 'Wage Rudolf Supratman', 'Mohammad Yamin',
+            'Abdul Muis', 'Seonario Sastrowardoyo', 'Amir Sjarifuddin',
+            'Dolly Salim', 'Ki Sarmidi Mangunsarkoro', 'Johannes Leimena',
+            'Adnan Kapau Gani', 'Kasman Singodimedjo', 'Mohammad Yamin',
+            ]
+    ];
     
         $heroes = [];
         if (array_key_exists($category, $heroesByCategory)) {

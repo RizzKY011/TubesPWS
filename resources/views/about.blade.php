@@ -24,7 +24,7 @@
             <h2 class="text-3xl font-bold text-center mb-6 text-white">Fitur Utama</h2>
             <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
                 <div class="bg-white p-6 rounded-lg shadow-lg hover:shadow-2xl transition duration-300">
-                    <h3 class="text-xl font-semibold mb-4 text-black">Pencarian Berdasarkan Nama Pahlawan</h3>
+                    <h3 class="text-xl font-semibold mb-4 text-black">Pencarian Berdasarkan Nama Pahlawan, Pulau atau wilayah</h3>
                     <p class="text-gray-800">Cari pahlawan di Indonesia dengan mudah dan cepat.</p>
                 </div>
                 <div class="bg-white p-6 rounded-lg shadow-lg hover:shadow-2xl transition duration-300">
@@ -33,7 +33,7 @@
                 </div>
                 <div class="bg-white p-6 rounded-lg shadow-lg hover:shadow-2xl transition duration-300">
                     <h3 class="text-xl font-semibold mb-4 text-black">Kategori Pahlwan</h3>
-                    <p class="text-gray-800">Pneggolongan Pahlawan berdasarkan kategorinya.</p>
+                    <p class="text-gray-800">menggolongkan Pahlawan berdasarkan kategori yang ada.</p>
                 </div>
             </div>
         </div>
@@ -58,18 +58,38 @@
             <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
                 <div class="bg-white p-6 rounded-lg shadow-lg hover:shadow-2xl transition duration-300">
                     <img src="https://via.placeholder.com/150" alt="Tim Member" class="rounded-full mx-auto mb-4">
-                    <h3 class="text-xl font-semibold text-center text-black">Nama Pengembang 1</h3>
-                    <p class="text-center text-gray-800">Pengembang Backend</p>
+                    <h3 class="text-xl font-semibold text-center text-black">Jonathan Del Piero Manik</h3>
+                    <p class="text-center text-gray-800">231402095</p>
                 </div>
                 <div class="bg-white p-6 rounded-lg shadow-lg hover:shadow-2xl transition duration-300">
                     <img src="https://via.placeholder.com/150" alt="Tim Member" class="rounded-full mx-auto mb-4">
-                    <h3 class="text-xl font-semibold text-center text-black">Nama Pengembang 2</h3>
-                    <p class="text-center text-gray-800">Pengembang Frontend</p>
+                    <h3 class="text-xl font-semibold text-center text-black">Fatimah Az Zahra</h3>
+                    <p class="text-center text-gray-800">231402104</p>
                 </div>
                 <div class="bg-white p-6 rounded-lg shadow-lg hover:shadow-2xl transition duration-300">
                     <img src="https://via.placeholder.com/150" alt="Tim Member" class="rounded-full mx-auto mb-4">
-                    <h3 class="text-xl font-semibold text-center text-black">Nama Pengembang 3</h3>
-                    <p class="text-center text-gray-800">Pengembang UX/UI</p>
+                    <h3 class="text-xl font-semibold text-center text-black">Gladies Margareth</h3>
+                    <p class="text-center text-gray-800">231402034</p>
+                </div>
+                <div class="bg-white p-6 rounded-lg shadow-lg hover:shadow-2xl transition duration-300">
+                    <img src="https://via.placeholder.com/150" alt="Tim Member" class="rounded-full mx-auto mb-4">
+                    <h3 class="text-xl font-semibold text-center text-black">Rizna Inda Tafshila</h3>
+                    <p class="text-center text-gray-800">231402089</p>
+                </div>
+                <div class="bg-white p-6 rounded-lg shadow-lg hover:shadow-2xl transition duration-300">
+                    <img src="https://via.placeholder.com/150" alt="Tim Member" class="rounded-full mx-auto mb-4">
+                    <h3 class="text-xl font-semibold text-center text-black">Euprasia Enjelika</h3>
+                    <p class="text-center text-gray-800">231402013</p>
+                </div>
+                <div class="bg-white p-6 rounded-lg shadow-lg hover:shadow-2xl transition duration-300">
+                    <img src="https://via.placeholder.com/150" alt="Tim Member" class="rounded-full mx-auto mb-4">
+                    <h3 class="text-xl font-semibold text-center text-black">Jeremia Hasudungan Sitinjak</h3>
+                    <p class="text-center text-gray-800">231402010</p>
+                </div>
+                <div class="bg-white p-6 rounded-lg shadow-lg hover:shadow-2xl transition duration-300">
+                    <img src="https://via.placeholder.com/150" alt="Tim Member" class="rounded-full mx-auto mb-4">
+                    <h3 class="text-xl font-semibold text-center text-black">Rizky Valenti</h3>
+                    <p class="text-center text-gray-800">231402010</p>
                 </div>
             </div>
         </div>
@@ -78,7 +98,7 @@
         <div class="text-center mt-8 relative z-10">
             <h2 class="text-3xl font-bold mb-6 text-white">Hubungi Kami</h2>
             <p class="text-lg text-white mb-4">Jika Anda memiliki pertanyaan atau saran, jangan ragu untuk menghubungi kami melalui email atau media sosial kami.</p>
-            <p class="text-lg font-semibold text-blue-500">Email: support@pencarianpahlawan.com</p>
+            <p class="text-lg font-semibold text-blue-500">Email: pahlawanindonesia.id@gmail.com</p>
         </div>
     </div>
 @endsection

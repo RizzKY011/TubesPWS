@@ -258,15 +258,19 @@
         }
 
         .pin-description {
-            text-align: center;
-            font-size: 20px;
-            line-height: 1.5;
-            text-shadow: 2px 2px 4px rgb(255, 255, 255);
-            color: black;
-            margin-bottom: 60px;
-            font-weight: 600;
+        text-align: center;
+        font-size: 23px;
+        line-height: 1.5;
+        font-weight: 700;
+        margin-bottom: 60px;
 
-        }
+        /* Warna gradien */
+        background: linear-gradient(45deg, black, red);
+        -webkit-background-clip: text; /* Clip gradien ke teks */
+        -webkit-text-fill-color: transparent; /* Buat teks transparan untuk menampilkan gradien */
+}
+
+
 
         .animation-line {
             height: 2px;
