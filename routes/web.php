@@ -25,4 +25,7 @@ Route::get('/cari-pahlawan', [HeroController::class, 'searchHero'])->name('hero.
 // web.php
 
 Route::get('/hero/category/{category}', [HeroController::class, 'searchByCategory'])->name('hero.category');
+// routes/web.php
+
+Route::get('/hero/search/island', [HeroController::class, 'searchHeroByIsland'])->name('hero.search.island');
 

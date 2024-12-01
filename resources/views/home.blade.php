@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>@yield('title', 'Pencarian Pahlawan')</title>
+    <link rel="icon" href="{{ asset('images/logo.png') }}" type="image/png">
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js"></script>
@@ -24,6 +25,7 @@
                     <ul class="navbar-menu">
                         <li><a href="{{ url('/') }}" class="navbar-link">Home</a></li>
                         <li><a href="{{ route('hero.search', ['view' => 'map']) }}" class="navbar-link" id="find-hero-map-btn">Cari Pahlawan</a></li>
+                        <li><a href="{{ url('/map') }}" class="navbar-link">Map</a></li>
                         <li><a href="{{ url('/about') }}" class="navbar-link">About</a></li>
                     </ul>
                 </nav>
@@ -51,6 +53,7 @@
                         <span class="category-text">Sumpah Pemuda</span>
                     </a>
                 </div>
+               
             </div>
             
 

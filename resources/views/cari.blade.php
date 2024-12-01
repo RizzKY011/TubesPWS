@@ -1,6 +1,7 @@
 @extends('layouts.app')
 
 @section('title', 'Cari Pahlawan')
+<link rel="icon" href="{{ asset('images/logo.png') }}" type="image/png">
 
 @section('content')
 <div class="container" style="margin-top: 100px; position: relative;">

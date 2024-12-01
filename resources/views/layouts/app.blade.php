@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>@yield('title', 'Pencarian Pahlawan')</title>
+    <link rel="icon" href="{{ asset('images/logo.png') }}" type="image/png">
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -162,6 +163,10 @@
                     <li><a href="{{ route('hero.search', ['view' => 'map']) }}" class="navbar-link" id="find-hero-map-btn">Cari Pahlawan</a></li>
 
                 </li>
+
+                <li><a href="{{ url('/map') }}" class="navbar-link">Map</a></li>
+                
+
                 <li>
                     <a href="{{ url('/about') }}" 
                        class="navbar-link {{ Request::is('about') ? 'active' : '' }}">

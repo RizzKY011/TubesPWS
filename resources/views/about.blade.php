@@ -1,6 +1,7 @@
 @extends('layouts.app')
 
 @section('title', 'About - Pencarian Pahlawan')
+<link rel="icon" href="{{ asset('images/logo.png') }}" type="image/png">
 
 @section('content')
     <div class="relative max-w-7xl mx-auto px-2 sm:px-6 lg:px-8 py-16">

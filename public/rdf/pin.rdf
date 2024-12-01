@@ -15,7 +15,7 @@
         <pin:birthYear>06/06/1901</pin:birthYear>
         <pin:deathPlace>jakarta</pin:deathPlace>
         <pin:deathYear>06/21/1970</pin:deathYear>
-        <pin:island>Jawa</pin:island>
+        <pin:island>Bali</pin:island>
         <pin:thumbnail>https://esi.kemdikbud.go.id/images/thumb/c/c5/Medium_sized_JPEG.jpg/450px-Medium_sized_JPEG.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="https://esi.kemdikbud.go.id/wiki/Sukarno" />
     </pin:hero>
@@ -29,7 +29,7 @@
         <pin:birthYear>08/12/1902</pin:birthYear>
         <pin:deathPlace>jakarta</pin:deathPlace>
         <pin:deathYear>03/14/1980</pin:deathYear>
-        <pin:island>Sumatera</pin:island>
+        <pin:island>Sumatera Barat</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Mohammad_Hatta%2C_Pekan_Buku_Indonesia_1954%2C_p242.jpg/330px-Mohammad_Hatta%2C_Pekan_Buku_Indonesia_1954%2C_p242.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="http://id.wikipedia.org/wiki/Mohammad_Hatta" />
     </pin:hero>
@@ -42,7 +42,7 @@
         <pin:birthYear>03/5/1909</pin:birthYear>
         <pin:deathPlace>zurich</pin:deathPlace>
         <pin:deathYear>04/9/1966</pin:deathYear>
-        <pin:island>Sumatera</pin:island>
+        <pin:island>Sumatera Barat</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Soetan_Sjahrir_1948.jpg/330px-Soetan_Sjahrir_1948.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="http://id.wikipedia.org/wiki/Sutan_Sjahrir" />
     </pin:hero>
@@ -55,7 +55,7 @@
         <pin:birthYear>01/24/1916</pin:birthYear>
         <pin:deathPlace>magelang</pin:deathPlace>
         <pin:deathYear>01/29/1950</pin:deathYear>
-        <pin:island>Jawa</pin:island>
+        <pin:island>Jawa Tengah</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Sudirman.jpg/330px-Sudirman.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="http://id.wikipedia.org/wiki/Sudirman" />
     </pin:hero>
@@ -68,7 +68,7 @@
         <pin:birthYear>02/05/1889</pin:birthYear>
         <pin:deathPlace>yogyakarta</pin:deathPlace>
         <pin:deathYear>4/26/1959</pin:deathYear>
-        <pin:island>Jawa</pin:island>
+        <pin:island>Jawa Tengah</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/id/c/ca/Ki_hajar_dewantara.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="http://id.wikipedia.org/wiki/Ki_Hajar_Dewantara" />
     </pin:hero>
@@ -81,7 +81,7 @@
         <pin:birthYear>10/10/1907</pin:birthYear>
         <pin:deathPlace>jakarta</pin:deathPlace>
         <pin:deathYear>11/6/1962</pin:deathYear>
-        <pin:island>Jawa</pin:island>
+        <pin:island>Jawa Tengah</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Col_Gatot_Subroto%2C_Kenang-Kenangan_Pada_Panglima_Besar_Letnan_Djenderal_Soedirman%2C_p27.jpg/330px-Col_Gatot_Subroto%2C_Kenang-Kenangan_Pada_Panglima_Besar_Letnan_Djenderal_Soedirman%2C_p27.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="https://id.wikipedia.org/wiki/Gatot_Soebroto" />
     </pin:hero>
@@ -94,7 +94,7 @@
         <pin:birthYear>21/04/1879</pin:birthYear>
         <pin:deathPlace>rembang</pin:deathPlace>
         <pin:deathYear>17/09/1904</pin:deathYear>
-        <pin:island>Jawa</pin:island>
+        <pin:island>Jawa Tengah</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/COLLECTIE_TROPENMUSEUM_Portret_van_Raden_Ajeng_Kartini_TMnr_10018776.jpg/330px-COLLECTIE_TROPENMUSEUM_Portret_van_Raden_Ajeng_Kartini_TMnr_10018776.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="https://id.wikipedia.org/wiki/Kartini" />
     </pin:hero>
@@ -107,7 +107,7 @@
         <pin:birthYear>01/01/1879</pin:birthYear>
         <pin:deathPlace>bandung</pin:deathPlace>
         <pin:deathYear>28/08/1950</pin:deathYear>
-        <pin:island>Jawa</pin:island>
+        <pin:island>Jawa Barat</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/0/08/Douwes.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="https://id.wikipedia.org/wiki/Ernest_Douwes_Dekker" />
     </pin:hero>
@@ -120,7 +120,7 @@
         <pin:birthYear>11/11/1785</pin:birthYear>
         <pin:deathPlace>makassar</pin:deathPlace>
         <pin:deathYear>08/01/1855</pin:deathYear>
-        <pin:island>Jawa</pin:island>
+        <pin:island>Jawa Tengah</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Diponegoro.jpg/462px-Diponegoro.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="https://id.wikipedia.org/wiki/Diponegoro" />
     </pin:hero>
@@ -133,7 +133,7 @@
         <pin:birthYear>13/07/1913</pin:birthYear>
         <pin:deathPlace>bandung</pin:deathPlace>
         <pin:deathYear>29/09/1986</pin:deathYear>
-        <pin:island>Jawa</pin:island>
+        <pin:island>Sumatera Barat</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/en/f/f5/Moestopo.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="https://id.wikipedia.org/wiki/Moestopo" />
     </pin:hero>
@@ -146,7 +146,7 @@
         <pin:birthYear>03/10/1920</pin:birthYear>
         <pin:deathPlace>gunung arafat</pin:deathPlace>
         <pin:deathYear>07/10/1981</pin:deathYear>
-        <pin:island>Jawa</pin:island>
+        <pin:island>Sumatera Utara</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Bung_Tomo.jpg/330px-Bung_Tomo.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="https://id.wikipedia.org/wiki/Sutomo" />
     </pin:hero>
@@ -160,7 +160,7 @@
         <pin:birthYear>05/11/1890</pin:birthYear>
         <pin:deathPlace>jakarta</pin:deathPlace>
         <pin:deathYear>30/06/1949</pin:deathYear>
-        <pin:island>Sulawesi</pin:island>
+        <pin:island>Sulawesi Utara</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Sam_Ratulangi_IPPHOS.jpg/330px-Sam_Ratulangi_IPPHOS.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="https://id.wikipedia.org/wiki/Sam_Ratulangi" />
     </pin:hero>
@@ -186,7 +186,7 @@
         <pin:birthYear>16/02/1894</pin:birthYear>
         <pin:deathPlace>jakarta</pin:deathPlace>
         <pin:deathYear>11/01/1941</pin:deathYear>
-        <pin:island>Jawa</pin:island>
+        <pin:island>Jawa Barat</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Mohammad_Husni_Thamrin.jpg/330px-Mohammad_Husni_Thamrin.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="https://id.wikipedia.org/wiki/Mohammad_Husni_Thamrin" />
     </pin:hero>
@@ -199,7 +199,7 @@
         <pin:birthYear>02/06/1897</pin:birthYear>
         <pin:deathPlace>jakarta</pin:deathPlace>
         <pin:deathYear>21/02/1949</pin:deathYear>
-        <pin:island>Sumatera</pin:island>
+        <pin:island>Sumatera Barat</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tan_Malaka%2C_date_unknown.png/640px-Tan_Malaka%2C_date_unknown.png</pin:thumbnail>
         <foaf:homepage rdf:resource="https://id.wikipedia.org/wiki/Tan_Malaka" />
     </pin:hero>
@@ -213,7 +213,7 @@
         <pin:birthYear>01/08/1868</pin:birthYear>
         <pin:deathPlace>yogyakarta</pin:deathPlace>
         <pin:deathYear>01/08/1868</pin:deathYear>
-        <pin:island>Jawa</pin:island>
+        <pin:island>Jawa Tengah</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Ahmad_Dahlan.jpg/330px-Ahmad_Dahlan.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="https://id.wikipedia.org/wiki/Ahmad_Dahlan" />
     </pin:hero>
@@ -226,7 +226,7 @@
         <pin:birthYear>16/08/1882</pin:birthYear>
         <pin:deathPlace>yogyakarta</pin:deathPlace>
         <pin:deathYear>17/12/1934</pin:deathYear>
-        <pin:island>Jawa</pin:island>
+        <pin:island>Jawa Timur</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/HOS_Tjokroaminoto%2C_20_Mei_Pelopor_17_Agustus%2C_p43.jpg/330px-HOS_Tjokroaminoto%2C_20_Mei_Pelopor_17_Agustus%2C_p43.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="https://id.wikipedia.org/wiki/Omar_Said_Dahlan" />
     </pin:hero>
@@ -252,7 +252,7 @@
         <pin:birthYear>01/01/1772</pin:birthYear>
         <pin:deathPlace>manado</pin:deathPlace>
         <pin:deathYear>01/01/1864</pin:deathYear>
-        <pin:island>Sumatera</pin:island>
+        <pin:island>Sumatera Barat</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Portret_van_Tuanku_Imam_Bonjol.jpg/330px-Portret_van_Tuanku_Imam_Bonjol.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="https://id.wikipedia.org/wiki/Teuku_Umar" />
     </pin:hero>
@@ -265,7 +265,7 @@
         <pin:birthYear>12/01/1631</pin:birthYear>
         <pin:deathPlace>makassar</pin:deathPlace>
         <pin:deathYear>12/06/1670</pin:deathYear>
-        <pin:island>Sulawesi</pin:island>
+        <pin:island>Sulawesi Selatan</pin:island>
          <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sultan_Hasanuddin_di_The_Legend_Star_Batu.jpg/330px-Sultan_Hasanuddin_di_The_Legend_Star_Batu.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="https://id.wikipedia.org/wiki/Sultan_Hasanuddin" />
     </pin:hero>
@@ -278,7 +278,7 @@
         <pin:birthYear>01/08/1907</pin:birthYear>
         <pin:deathPlace>makassar</pin:deathPlace>
         <pin:deathYear>18/06/1985</pin:deathYear>
-        <pin:island>Sulawesi</pin:island>
+        <pin:island>Sulawesi Barat</pin:island>
         <pin:thumbnail>https://sulbarkita.com/news-560b66704cb6c.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="https://id.wikipedia.org/wiki/Andi_Depu" />
     </pin:hero>
@@ -291,7 +291,7 @@
         <pin:birthYear>30/04/1907</pin:birthYear>
         <pin:deathPlace>suwawa</pin:deathPlace>
         <pin:deathYear>03/01/1986</pin:deathYear>
-        <pin:island>Sulawesi</pin:island>
+        <pin:island>Sulawesi Utara</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Portrait_of_Nani_Wartabone%2C_Sulawesi_Utara_Bergolak%2C_p34.jpg/800px-Portrait_of_Nani_Wartabone%2C_Sulawesi_Utara_Bergolak%2C_p34.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="https://id.wikipedia.org/wiki/Nani_Wartabone" />
     </pin:hero>
@@ -304,7 +304,7 @@
         <pin:birthYear>15/02/1870</pin:birthYear>
         <pin:deathPlace>alue kurieng</pin:deathPlace>
         <pin:deathYear>24/10/1910</pin:deathYear>
-        <pin:island>Sumatera</pin:island>
+        <pin:island>Aceh</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/5/5a/Cut_Nyak_Meutia.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="https://id.wikipedia.org/wiki/Cut_Nyak_Meutia" />
     </pin:hero>
@@ -317,7 +317,7 @@
         <pin:birthYear>01/01/1899</pin:birthYear>
         <pin:deathPlace>jakarta</pin:deathPlace>
         <pin:deathYear>28/03/1944</pin:deathYear>
-        <pin:island>Jawa</pin:island>
+        <pin:island>Jawa Barat</pin:island>
         <pin:thumbnail>https://img.tempo.co/indonesiana/images/all/2021/02/21/f202102211026456.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="https://id.wikipedia.org/wiki/Zainal_Mustafa" />
     </pin:hero>
@@ -347,7 +347,7 @@
         <pin:birthYear>17/07/1908</pin:birthYear>
         <pin:deathPlace>jakarta</pin:deathPlace>
         <pin:deathYear>06/02/1993</pin:deathYear>
-        <pin:island>Sumatera</pin:island>
+        <pin:island>Sumatera Barat</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/4d/Mohammad_Natsir_1950s.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="https://id.wikipedia.org/wiki/Mohammad_Natsir" />
     </pin:hero>
@@ -364,7 +364,7 @@
         <pin:birthYear>14/05/1903</pin:birthYear>
         <pin:deathPlace>ujung pandang</pin:deathPlace>
         <pin:deathYear>12/08/1975</pin:deathYear>
-        <pin:island>Sulawesi</pin:island>
+        <pin:island>Sulawesi Selatan</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/A._Pangerang_Pt.Rani.jpg/800px-A._Pangerang_Pt.Rani.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="https://id.wikipedia.org/wiki/Andi_Pangerang_Petta_Rani" />
     </pin:hero>
@@ -380,7 +380,7 @@
         <pin:birthYear>22/01/1903</pin:birthYear>
         <pin:deathPlace>jakarta</pin:deathPlace>
         <pin:deathYear>12/09/1958</pin:deathYear>
-        <pin:island>Jawa</pin:island>
+        <pin:island>Jawa Tengah</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Supomo_%28Photographs_by_Daan_Noske%29.jpg/330px-Supomo_%28Photographs_by_Daan_Noske%29.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="https://id.wikipedia.org/wiki/Soepomo" />
     </pin:hero>
@@ -395,7 +395,7 @@
         <pin:birthYear>28/05/1912</pin:birthYear>
         <pin:deathPlace>yogyakarta</pin:deathPlace>
         <pin:deathYear>17/10/1992</pin:deathYear>
-        <pin:island>Jawa</pin:island>
+        <pin:island>Papua</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/c/cc/Herman_Johannes%2C_Kami_Perkenalkan_%281952%29%2C_p17.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="https://id.wikipedia.org/wiki/Herman_Johannes" />
     </pin:hero>
@@ -410,7 +410,7 @@
         <pin:birthYear>18/02/1845</pin:birthYear>
         <pin:deathPlace>aek sibulbolon</pin:deathPlace>
         <pin:deathYear>17/06/1907</pin:deathYear>
-        <pin:island>Sumatera</pin:island>
+        <pin:island>Sumatera Utara</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/3/3e/Sisingamangaraja_XII.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="http://id.dbpedia.org/resource/Sisingamangaraja_XII" />
     </pin:hero>
@@ -426,7 +426,7 @@
         <pin:birthYear>01/01/1927</pin:birthYear>
         <pin:deathPlace>bandung</pin:deathPlace>
         <pin:deathYear>01/07/1946</pin:deathYear>
-        <pin:island>Jawa</pin:island>
+        <pin:island>Jawa Barat</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Muhammad_Toha.jpg/300px-Muhammad_Toha.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="https://id.wikipedia.org/wiki/Muhammad_Toha" />
     </pin:hero>
@@ -442,7 +442,7 @@
         <pin:birthYear>03/12/1918</pin:birthYear>
         <pin:deathPlace>jakarta</pin:deathPlace>
         <pin:deathYear>06/09/2000</pin:deathYear>
-        <pin:island>Sumatera</pin:island>
+        <pin:island>Sumatera Utara</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Abdul_Haris_Nasution.jpg/330px-Abdul_Haris_Nasution.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="https://id.wikipedia.org/wiki/Abdul_Haris_Nasution" />
     </pin:hero>
@@ -458,7 +458,7 @@
         <pin:birthYear>24/11/1890</pin:birthYear>
         <pin:deathPlace>jakarta</pin:deathPlace>
         <pin:deathYear>04/11/1954</pin:deathYear>
-        <pin:island>Jawa</pin:island>
+        <pin:island>Jawa Timur</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Bagoes_Hadikoesoemo.jpg/300px-Bagoes_Hadikoesoemo.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="https://id.wikipedia.org/wiki/Bagoes_Hadikoesoemo" />
     </pin:hero>
@@ -484,7 +484,7 @@
         <pin:birthYear>19/06/1922</pin:birthYear>
         <pin:deathPlace>jakarta</pin:deathPlace>
         <pin:deathYear>01/10/1965</pin:deathYear>
-        <pin:island>Jawa</pin:island>
+        <pin:island>Jawa Tengah</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/3/3f/Ahmad_Yani.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="https://id.wikipedia.org/wiki/Ahmad_Yani" />
     </pin:hero>
@@ -497,7 +497,7 @@
         <pin:birthYear>20/06/1920</pin:birthYear>
         <pin:deathPlace>jakarta</pin:deathPlace>
         <pin:deathYear>01/10/1965</pin:deathYear>
-        <pin:island>Jawa</pin:island>
+        <pin:island>Jawa Tengah</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/5/57/Soeprapto.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="https://id.wikipedia.org/wiki/R._Soeprapto_(pahlawan_revolusi)" />
     </pin:hero>
@@ -510,7 +510,7 @@
         <pin:birthYear>20/06/1920</pin:birthYear>
         <pin:deathPlace>jakarta</pin:deathPlace>
         <pin:deathYear>01/10/1965</pin:deathYear>
-        <pin:island>Jawa</pin:island>
+        <pin:island>Jawa Tengah</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/9/9b/MT_Haryono.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="https://id.wikipedia.org/wiki/Mas_Tirtodarmo_Haryono" />
     </pin:hero>
@@ -523,7 +523,7 @@
         <pin:birthYear>04/8/1918</pin:birthYear>
         <pin:deathPlace>jakarta</pin:deathPlace>
         <pin:deathYear>01/10/1965</pin:deathYear>
-        <pin:island>Jawa</pin:island>
+        <pin:island>Jawa Tengah</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/1/12/S_Parman.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="https://id.wikipedia.org/wiki/Siswondo_Parman" />
     </pin:hero>
@@ -536,7 +536,7 @@
         <pin:birthYear>09/06/1925</pin:birthYear>
         <pin:deathPlace>jakarta</pin:deathPlace>
         <pin:deathYear>01/10/1965</pin:deathYear>
-        <pin:island>Sumatera</pin:island>
+        <pin:island>Sumatera Utara</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/D._I._Pandjaitan.jpg/330px-D._I._Pandjaitan.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="http://dbpedia.org/resource/D._I._Pandjaitan" />
     </pin:hero>
@@ -550,7 +550,7 @@
         <pin:birthYear>28/08/1922</pin:birthYear>
         <pin:deathPlace>jakarta</pin:deathPlace>
         <pin:deathYear>01/10/1965</pin:deathYear>
-        <pin:island>Jawa</pin:island>
+        <pin:island>Jawa Tengah</pin:island>
         <pin:thumbnail>https://asset-2.tstatic.net/medan/foto/bank/images/Profil-Pahlawan-Nasional-Indonesia-Sutoyo-Siswomiharjo.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="https://id.wikipedia.org/wiki/Sutoyo_Siswomiharjo" />
     </pin:hero>
@@ -563,7 +563,7 @@
         <pin:birthYear>21/02/1939</pin:birthYear>
         <pin:deathPlace>jakarta</pin:deathPlace>
         <pin:deathYear>01/10/1965</pin:deathYear>
-        <pin:island>Jawa</pin:island>
+        <pin:island>Sukawesi Utara</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Tendean.jpg/330px-Tendean.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="https://en.wikipedia.org/wiki/Pierre_Tendean" />
     </pin:hero>
