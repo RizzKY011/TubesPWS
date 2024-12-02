@@ -43,23 +43,24 @@ class HeroController extends Controller
                     pin:abstract ?abstract .
             FILTER(
                 CONTAINS(LCASE(str(?name)), LCASE('$keyword')) ||
-                CONTAINS(LCASE(str(?island)), LCASE('$keyword'))
+                CONTAINS(LCASE(str(?island)), LCASE('$keyword')) ||
+                CONTAINS(LCASE(str(?deathPlace)), LCASE('$keyword')) ||
+                CONTAINS(str(?birthYear), '$keyword')
             )
         }
+
     "; 
     $heroes = [];
     try {
-        $results = $this->query($query);  // Call the query function from the controller
+        $results = $this->query($query); 
 
-        // Filter duplicate results based on the name and birth year
         foreach ($results as $row) {
             $heroName = (string)$row->name;
             $heroBirthYear = (string)$row->birthYear;
 
-            // Check if hero already exists in the array using heroName and birthYear as the unique identifier
             if (!in_array($heroName . '-' . $heroBirthYear, array_column($heroes, 'uniqueKey'))) {
                 $heroes[] = [
-                    'uniqueKey'  => $heroName . '-' . $heroBirthYear, // Unique key for filtering duplicates
+                    'uniqueKey'  => $heroName . '-' . $heroBirthYear, 
                     'name'       => $heroName,
                     'abstract'   => (string)$row->abstract ?? 'No abstract available',
                     'birthPlace' => (string)$row->birthPlace ?? 'Unknown place',
@@ -81,19 +82,10 @@ class HeroController extends Controller
 }
 
     
-    // HeroController.php
 
     public function searchByCategory($category)
     {
-        // Define the mapping of categories to hero names
         $heroesByCategory = [
-            'kemerdekaan' => [
-                'Marthen Indey', 'Sultan Syarif Kasim II', 'Agustinus Adisutjipto',
-                'Abdulrahman Saleh', 'Sukarni', 'Andi Abdullah Bau Massepe',
-                'Slamet Rijadi', 'Eddy Martadinata', 'Iswahyudi',
-                'Djamin Ginting', 'Djatikusumo', 'Yos Sudarso',
-                'Pangeran Antasari', 'Basuki Rahmat', 'Tjilik Riwut', 'Sukarno'
-            ],
             'revolusi' => [
                 'Ahmad Yani', 'Raden Suprapto', 'Mas Tirtodarmo haryono',
                 'Siswondo Parman', 'Donald Isaac Pandjaitan', 'Sutoyo Siswomiharjo',
@@ -121,10 +113,8 @@ class HeroController extends Controller
         if (array_key_exists($category, $heroesByCategory)) {
             $heroNames = $heroesByCategory[$category];
     
-            // Prepare the SPARQL query to fetch heroes based on names
             $nameFilter = implode(' || ', array_map(function($name) {
-                // Encode the name properly for the query
-                $encodedName = str_replace("'", "\\'", $name); // Escape single quotes
+                $encodedName = str_replace("'", "\\'", $name); 
                 return "CONTAINS(LCASE(str(?name)), LCASE('$encodedName'))";
             }, $heroNames));
     

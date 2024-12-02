@@ -33,11 +33,6 @@
             
             <!-- Categories Section -->
             <div class="category-box">
-                <div class="category-item" data-category="kemerdekaan">
-                    <a href="{{ route('hero.category', ['category' => 'kemerdekaan']) }}" class="category-link">
-                        <span class="category-text">Kemerdekaan</span>
-                    </a>
-                </div>
                 <div class="category-item" data-category="revolusi">
                     <a href="{{ route('hero.category', ['category' => 'revolusi']) }}" class="category-link">
                         <span class="category-text">Revolusi</span>

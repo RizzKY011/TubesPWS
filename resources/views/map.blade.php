@@ -56,7 +56,7 @@
                             '</div>' +
                         '</div>';
                 });
-                $('#heroes-results').html(html);  // Menampilkan hasil pencarian di bawah peta
+                $('#heroes-results').html(html);  
             } else {
                 $('#heroes-results').html('<p class="text-center" style="position: relative; z-index: 3; font-size:30px; margin-top:20px;">Tidak ada pahlawan ditemukan</p>');
             }
@@ -67,7 +67,6 @@
     </script>
 </div>
 
-<!-- Cari Makanan Section -->
 <div class="container">
 
     <!-- Kontainer untuk Peta -->
