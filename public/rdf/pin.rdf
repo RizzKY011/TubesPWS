@@ -10,10 +10,10 @@
     <pin:hero rdf:about="https://example.org/hero/soekarno">
         <rdfs:label>Sukarno</rdfs:label>
         <pin:abstract>Sukarno (1901-1970) adalah Presiden pertama Indonesia dan pemimpin utama dalam perjuangan kemerdekaan Indonesia dari Belanda. Ia memproklamasikan kemerdekaan pada 17 Agustus 1945 bersama Mohammad Hatta. Sukarno kemudian memimpin perlawanan terhadap Belanda hingga kemerdekaan diakui pada 1949. Pada 1965, setelah peristiwa G30S, Sukarno kehilangan kekuasaan, dan Jenderal Suharto mengambil alih dengan dukungan militer Barat. Sukarno diturunkan pada 1967 dan meninggal pada 1970.</pin:abstract>
-        <pin:battle>pembunuhan massal di indonesia pada tahun 1965- 66, konfrontasi indonesia-malaysia, sengketa papua barat, pembrontakan darul islam, revolusi nasional indonesia.</pin:battle>
-        <pin:birthPlace>surabaya</pin:birthPlace>
+        <pin:battle>Pembunuhan massal di Indonesia pada tahun 1965-66, Konfrontasi Indonesia-Malaysia, Sengketa Papua Barat, pemberontakan Darul Islam, Revolusi Nasional Indonesia.</pin:battle>
+        <pin:birthPlace>Surabaya</pin:birthPlace>
         <pin:birthYear>06/06/1901</pin:birthYear>
-        <pin:deathPlace>jakarta</pin:deathPlace>
+        <pin:deathPlace>Jakarta</pin:deathPlace>
         <pin:deathYear>06/21/1970</pin:deathYear>
         <pin:island>Bali</pin:island>
         <pin:thumbnail>https://esi.kemdikbud.go.id/images/thumb/c/c5/Medium_sized_JPEG.jpg/450px-Medium_sized_JPEG.jpg</pin:thumbnail>
@@ -25,9 +25,9 @@
         <pin:abstract>Mohammad Hatta adalah negara dan nasionalis Indonesia yang menjabat sebagai wakil presiden pertama Indonesia. 
         Dikenal sebagai "The Proclamator", ia bersama Soekarno dan sejumlah tokoh lainnya berjuang untuk kemerdekaan Indonesia dari Belanda. Hatta lahir di Fort de Kock (sekarang Bukittinggi, Indonesia). Setelah pendidikan awal, ia melanjutkan studi di Belanda dari 1921 hingga 1932.</pin:abstract>
         <pin:battle>revolusi nasional indonesia (1945-1949), perlawanan terhadap komunisme, gerakan islam radikal.</pin:battle>
-        <pin:birthPlace>bukit tinggi</pin:birthPlace>
+        <pin:birthPlace>Bukittinggi</pin:birthPlace>
         <pin:birthYear>08/12/1902</pin:birthYear>
-        <pin:deathPlace>jakarta</pin:deathPlace>
+        <pin:deathPlace>Jakarta</pin:deathPlace>
         <pin:deathYear>03/14/1980</pin:deathYear>
         <pin:island>Sumatera Barat</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Mohammad_Hatta%2C_Pekan_Buku_Indonesia_1954%2C_p242.jpg/330px-Mohammad_Hatta%2C_Pekan_Buku_Indonesia_1954%2C_p242.jpg</pin:thumbnail>
@@ -37,10 +37,10 @@
     <pin:hero rdf:about="https://dbpedia.org/page/Sutan_Sjahrir">
         <rdfs:label>SutanSjahrir</rdfs:label>
         <pin:abstract>Sutan Sjahrir, lahir di Padang Panjang (Sumatra Barat) pada 5 Maret 1909 dan meninggal di Zurich (Swiss) pada 9 April 1966, adalah seorang pemimpin nasionalis dan negarawan Indonesia. Ia adalah Perdana Menteri pertama Indonesia (1945-1947) dan pendiri Partai Sosialis Indonesia (PSI) pada 1948. Orang Indonesia sering memanggilnya dengan sebutan "Bung Sjahrir".</pin:abstract>
-        <pin:battle>agresi militer belanda I dan II 1947-1948, pemberontakan dan perbedaan pendekatan, pertempuran dengan gerakan islam.</pin:battle>
-        <pin:birthPlace>padang panjang</pin:birthPlace>
+        <pin:battle>Agresi Militer Belanda I dan II 1947-1948, pemberontakan dan perbedaan pendekatan, pertempuran dengan gerakan Islam.</pin:battle>
+        <pin:birthPlace>Padang Panjang</pin:birthPlace>
         <pin:birthYear>03/5/1909</pin:birthYear>
-        <pin:deathPlace>zurich</pin:deathPlace>
+        <pin:deathPlace>Zurich</pin:deathPlace>
         <pin:deathYear>04/9/1966</pin:deathYear>
         <pin:island>Sumatera Barat</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Soetan_Sjahrir_1948.jpg/330px-Soetan_Sjahrir_1948.jpg</pin:thumbnail>
@@ -50,10 +50,10 @@
     <pin:hero rdf:about="https://dbpedia.org/page/Sudirman">
         <rdfs:label>Sudirman</rdfs:label>
         <pin:abstract>Jenderal Raden Sudirman (1916-1950) adalah komandan pertama Tentara Nasional Indonesia (TNI) dan pahlawan dalam Revolusi Nasional Indonesia. Ia memimpin perlawanan terhadap Belanda, termasuk dalam Pertempuran Ambarawa, meski menderita tuberkulosis. Sudirman terpilih sebagai komandan TNI setelah kemerdekaan Indonesia diproklamasikan pada 1945. Setelah kemerdekaan diakui pada 1949, ia meninggal pada 1950. Sudirman dihormati sebagai Pahlawan Nasional dan simbol semangat juang Indonesia.</pin:abstract>
-        <pin:battle>pertempuran ambarawa, revolusi nasional indonesia, operasi produk, perang dunia II .</pin:battle>
-        <pin:birthPlace>purbalingga</pin:birthPlace>
+        <pin:battle>Pertempuran Ambarawa, Revolusi Nasional Indonesia, Operasi Produk, Perang Dunia II .</pin:battle>
+        <pin:birthPlace>Purbalingga</pin:birthPlace>
         <pin:birthYear>01/24/1916</pin:birthYear>
-        <pin:deathPlace>magelang</pin:deathPlace>
+        <pin:deathPlace>Magelang</pin:deathPlace>
         <pin:deathYear>01/29/1950</pin:deathYear>
         <pin:island>Jawa Tengah</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Sudirman.jpg/330px-Sudirman.jpg</pin:thumbnail>
@@ -63,10 +63,10 @@
    <pin:hero rdf:about="https://dbpedia.org/page/Ki_Hadjar_Dewantara">
         <rdfs:label>Ki Hadjar Dewantara</rdfs:label>
         <pin:abstract>Ki Hajar Dewantara (2 Mei 1889 - 28 April 1959), lahir dengan nama Raden Mas Soewardi Soerjaningrat, adalah pionir dalam bidang pendidikan di Indonesia dan pendiri gerakan pendidikan Taman Siswa pada 1922. Pada 1949, ia diangkat menjadi Menteri Pendidikan dan Kebudayaan. Hari 2 Mei diperingati sebagai Hari Pendidikan Nasional untuk menghormatinya. Pada 1959, ia dianugerahi gelar Pahlawan Nasional. Soewardi, anak dari Pangeran Soerjaningrat, adalah orang Indonesia pertama yang secara resmi menggunakan nama "Indonesia", yang dipopulerkan oleh James Richardson Logan. Ia juga mendirikan Indonesisch Pers-bureau (Biro Pers Indonesia) di Belanda pada 1913.</pin:abstract>
-        <pin:battle>perjuangan pendidikan nasional, pendirian taman siswa, perjuangan melawan kolonialisme belanda.</pin:battle>
-        <pin:birthPlace>pakualaman</pin:birthPlace>
+        <pin:battle>Perjuangan pendidikan nasional, Pendirian Taman Siswa, Perjuangan melawan kolonialisme Belanda.</pin:battle>
+        <pin:birthPlace>Pakualaman</pin:birthPlace>
         <pin:birthYear>02/05/1889</pin:birthYear>
-        <pin:deathPlace>yogyakarta</pin:deathPlace>
+        <pin:deathPlace>Yogyakarta</pin:deathPlace>
         <pin:deathYear>4/26/1959</pin:deathYear>
         <pin:island>Jawa Tengah</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/id/c/ca/Ki_hajar_dewantara.jpg</pin:thumbnail>
@@ -76,10 +76,10 @@
     <pin:hero rdf:about="https://dbpedia.org/page/Gatot_Soebroto">
         <rdfs:label>Gatot Soebroto</rdfs:label>
         <pin:abstract>Gatot Soebroto (Ejaan yang Ditingkatkan: Gatot Subroto, 10 Oktober 1907 - 11 Juni 1962) adalah seorang jenderal Indonesia yang memulai karir militernya di Tentara Kerajaan Hindia Belanda (KNIL) dan kemudian menjadi wakil kepala staf Angkatan Darat.</pin:abstract>
-        <pin:battle>pertempuran ambarawa, revolusi nasional indonesia, perjuangan mempertahankan kemerdekaan</pin:battle>
-        <pin:birthPlace>purwokerto</pin:birthPlace>
+        <pin:battle>Pertempuran Ambarawa, Revolusi Nasional Indonesia, perjuangan mempertahankan kemerdekaan</pin:battle>
+        <pin:birthPlace>Purwokerto</pin:birthPlace>
         <pin:birthYear>10/10/1907</pin:birthYear>
-        <pin:deathPlace>jakarta</pin:deathPlace>
+        <pin:deathPlace>Jakarta</pin:deathPlace>
         <pin:deathYear>11/6/1962</pin:deathYear>
         <pin:island>Jawa Tengah</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Col_Gatot_Subroto%2C_Kenang-Kenangan_Pada_Panglima_Besar_Letnan_Djenderal_Soedirman%2C_p27.jpg/330px-Col_Gatot_Subroto%2C_Kenang-Kenangan_Pada_Panglima_Besar_Letnan_Djenderal_Soedirman%2C_p27.jpg</pin:thumbnail>
@@ -89,10 +89,10 @@
     <pin:hero rdf:about="https://dbpedia.org/page/Kartini">
         <rdfs:label>Kartini</rdfs:label>
         <pin:abstract>Raden Adjeng Kartini (21 April 1879 - 17 September 1904) adalah pejuang hak perempuan dan pendidikan di Indonesia. Lahir dalam keluarga bangsawan Jawa, Kartini menginginkan pendidikan lebih tinggi, namun perempuan saat itu dibatasi. Surat-suratnya yang diterbitkan setelah kematiannya menginspirasi perjuangan pendidikan perempuan. Hari kelahirannya, 21 April, diperingati sebagai Hari Kartini.</pin:abstract>
-        <pin:battle>perjuangan emansipasi wanita, pembaharuan pendidikan perempuan di indonesia</pin:battle>
-        <pin:birthPlace>jepara</pin:birthPlace>
+        <pin:battle>Perjuangan emansipasi wanita, pembaharuan pendidikan perempuan di Indonesia</pin:battle>
+        <pin:birthPlace>Jepara</pin:birthPlace>
         <pin:birthYear>21/04/1879</pin:birthYear>
-        <pin:deathPlace>rembang</pin:deathPlace>
+        <pin:deathPlace>Rembang</pin:deathPlace>
         <pin:deathYear>17/09/1904</pin:deathYear>
         <pin:island>Jawa Tengah</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/COLLECTIE_TROPENMUSEUM_Portret_van_Raden_Ajeng_Kartini_TMnr_10018776.jpg/330px-COLLECTIE_TROPENMUSEUM_Portret_van_Raden_Ajeng_Kartini_TMnr_10018776.jpg</pin:thumbnail>
@@ -102,10 +102,10 @@
      <pin:hero rdf:about="https://dbpedia.org/page/Ernest_Douwes_Dekker">
         <rdfs:label>Ernest Douwes Dekker</rdfs:label>
         <pin:abstract>Ernest François Eugène Douwes Dekker, juga dikenal sebagai Setyabudi atau Setiabudi (8 Oktober 1879 - 28 Agustus 1950), adalah seorang nasionalis dan politikus keturunan Indo(Belanda-Indonesia). Ia memiliki hubungan keluarga dengan Multatuli, penulis Belanda yang terkenal dengan tulisan anti-kolonialisme. Pada masa mudanya, ia ikut berperang dalam Perang Boer di Afrika Selatan di pihak Boer. Pemikirannya sangat berpengaruh dalam gerakan kemerdekaan Indonesia pada awalnya. Setelah Indonesia merdeka, ia mengadopsi nama Sunda Danoedirdja Setiaboedi.</pin:abstract>
-        <pin:battle>perjuangan anti-kolonialisme, pendirian indische partij, protes terhadap diskriminasi rasial belanda</pin:battle>
-        <pin:birthPlace>pasuruan</pin:birthPlace>
+        <pin:battle>Perjuangan anti-kolonialisme, pendirian Indische Partij, protes terhadap diskriminasi rasial Belanda</pin:battle>
+        <pin:birthPlace>Pasuruan</pin:birthPlace>
         <pin:birthYear>01/01/1879</pin:birthYear>
-        <pin:deathPlace>bandung</pin:deathPlace>
+        <pin:deathPlace>Bandung</pin:deathPlace>
         <pin:deathYear>28/08/1950</pin:deathYear>
         <pin:island>Jawa Barat</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/0/08/Douwes.jpg</pin:thumbnail>
@@ -115,10 +115,10 @@
     <pin:hero rdf:about="https://dbpedia.org/page/Diponegoro">
         <rdfs:label>Diponegoro</rdfs:label>
         <pin:abstract>Pangeran Diponegoro (Jawa: ꦢꦶꦥꦤꦼꦒꦫ; lahir sebagai Bendara Raden Mas Mustahar, ꦧꦼꦤ꧀ꦢꦫꦫꦢꦺꦤ꧀ꦩꦱ꧀ꦩꦸꦱ꧀ꦠꦲꦂ; kemudian Bendara Raden Mas Antawirya ꦧꦼꦤ꧀ꦢꦫꦫꦢꦺꦤ꧀ꦩꦱ꧀ꦲꦤ꧀ꦠꦮꦶꦂꦪ; 11 November 1785 - 8 Januari 1855), juga dikenal sebagai Dipanegara, adalah seorang pangeran Jawa yang menentang pemerintahan kolonial Belanda. Putra sulung Sultan Hamengkubuwono III Yogyakarta, ia memainkan peran penting dalam Perang Jawa antara tahun 1825 dan 1830. Setelah kekalahan dan penangkapannya, ia diasingkan ke Makassar, di mana ia meninggal pada usia 69 tahun. Perjuangannya selama lima tahun melawan kekuasaan Belanda di Jawa telah dirayakan oleh masyarakat Indonesia selama bertahun-tahun, antara lain menjadi sumber inspirasi bagi para pejuang Revolusi Nasional Indonesia dan nasionalisme di Indonesia modern. Beliau adalah pahlawan nasional di Indonesia.</pin:abstract>
-        <pin:battle>perang diponegoro, perjuangan melawan penjajahan belanda, perlawanan rakyat jawa terhadap kolonialisme</pin:battle>
-        <pin:birthPlace>yogyakarta</pin:birthPlace>
+        <pin:battle>Perang Diponegoro, perjuangan melawan penjajahan belanda, perlawanan rakyat jawa terhadap kolonialisme</pin:battle>
+        <pin:birthPlace>Yogyakarta</pin:birthPlace>
         <pin:birthYear>11/11/1785</pin:birthYear>
-        <pin:deathPlace>makassar</pin:deathPlace>
+        <pin:deathPlace>Makassar</pin:deathPlace>
         <pin:deathYear>08/01/1855</pin:deathYear>
         <pin:island>Jawa Tengah</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Diponegoro.jpg/462px-Diponegoro.jpg</pin:thumbnail>
@@ -128,10 +128,10 @@
      <pin:hero rdf:about="https://dbpedia.org/page/Moestopo">
         <rdfs:label>Moestopo</rdfs:label>
         <pin:abstract>Mayor Jenderal Profesor Moestopo (13 Juli 1913 - 29 September 1986) adalah seorang dokter gigi, pejuang kemerdekaan, dan pendidik Indonesia. Ia dinyatakan sebagai Pahlawan Nasional Indonesia pada 10 November 2007. Lahir di Kediri, Jawa Timur, Moestopo pindah ke Surabaya untuk bersekolah di Sekolah Kedokteran Gigi di sana. Pada awalnya menjadi seorang praktisi, pekerjaannya terhenti pada tahun 1942 ketika Jepang menduduki Indonesia dan Moestopo ditangkap oleh Kempeitai karena terlihat mencurigakan. Setelah dibebaskan, ia menjadi dokter gigi untuk Jepang namun akhirnya memutuskan untuk berlatih sebagai perwira militer. Setelah lulus dengan pujian, Moestopo diberi komando pasukan PETA (Pembela Tanah Air) di Sidoarjo; ia kemudian dipromosikan menjadi panglima pasukan di Gresik. Selama di Surabaya, pada masa Revolusi Nasional Indonesia Moestopo melakukan perundingan dengan pasukan ekspedisi Inggris yang dipimpin oleh Brigadir Aubertin Walter Sothern Mallaby. Ketika hubungan memburuk dan Presiden Sukarno dipanggil ke Surabaya untuk memperbaikinya, Moestopo ditawari pekerjaan sebagai penasihat namun menolak. Selama perang ia memegang beberapa posisi lain, termasuk memimpin satu skuadron tentara reguler, pencopet, dan pelacur untuk menyebarkan kebingungan di barisan pasukan musuh Belanda. Setelah perang usai, Moestopo terus bekerja sebagai dokter gigi, dan pada tahun 1961 ia mendirikan Universitas Moestopo. Beliau meninggal di Bandung pada tahun 1986.</pin:abstract>
-        <pin:battle>peperangan surabaya, revolusi nasional indonesia</pin:battle>
-        <pin:birthPlace>kediri</pin:birthPlace>
+        <pin:battle>Pertempuran Surabaya, Revolusi Nasional Indonesia</pin:battle>
+        <pin:birthPlace>Kediri</pin:birthPlace>
         <pin:birthYear>13/07/1913</pin:birthYear>
-        <pin:deathPlace>bandung</pin:deathPlace>
+        <pin:deathPlace>Bandung</pin:deathPlace>
         <pin:deathYear>29/09/1986</pin:deathYear>
         <pin:island>Sumatera Barat</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/en/f/f5/Moestopo.jpg</pin:thumbnail>
@@ -141,10 +141,10 @@
       <pin:hero rdf:about="https://dbpedia.org/page/Sutomo">
         <rdfs:label>Sutomo</rdfs:label>
         <pin:abstract>Mayor Jenderal Profesor Moestopo (13 Juli 1913 - 29 September 1986) adalah seorang dokter gigi, pejuang kemerdekaan, dan pendidik Indonesia. Ia dinyatakan sebagai Pahlawan Nasional Indonesia pada 10 November 2007. Lahir di Kediri, Jawa Timur, Moestopo pindah ke Surabaya untuk bersekolah di Sekolah Kedokteran Gigi di sana. Pada awalnya menjadi seorang praktisi, pekerjaannya terhenti pada tahun 1942 ketika Jepang menduduki Indonesia dan Moestopo ditangkap oleh Kempeitai karena terlihat mencurigakan. Setelah dibebaskan, ia menjadi dokter gigi untuk Jepang namun akhirnya memutuskan untuk berlatih sebagai perwira militer. Setelah lulus dengan pujian, Moestopo diberi komando pasukan PETA (Pembela Tanah Air) di Sidoarjo; ia kemudian dipromosikan menjadi panglima pasukan di Gresik. Selama di Surabaya, pada masa Revolusi Nasional Indonesia Moestopo melakukan perundingan dengan pasukan ekspedisi Inggris yang dipimpin oleh Brigadir Aubertin Walter Sothern Mallaby. Ketika hubungan memburuk dan Presiden Sukarno dipanggil ke Surabaya untuk memperbaikinya, Moestopo ditawari pekerjaan sebagai penasihat namun menolak. Selama perang ia memegang beberapa posisi lain, termasuk memimpin satu skuadron tentara reguler, pencopet, dan pelacur untuk menyebarkan kebingungan di barisan pasukan musuh Belanda. Setelah perang usai, Moestopo terus bekerja sebagai dokter gigi, dan pada tahun 1961 ia mendirikan Universitas Moestopo. Beliau meninggal di Bandung pada tahun 1986.</pin:abstract>
-        <pin:battle>peperangan surabaya, revolusi nasional indonesia</pin:battle>
-        <pin:birthPlace>surabaya</pin:birthPlace>
+        <pin:battle>Pertempuran Surabaya, Revolusi Nasional Indonesia</pin:battle>
+        <pin:birthPlace>Surabaya</pin:birthPlace>
         <pin:birthYear>03/10/1920</pin:birthYear>
-        <pin:deathPlace>gunung arafat</pin:deathPlace>
+        <pin:deathPlace>Gunung Arafat</pin:deathPlace>
         <pin:deathYear>07/10/1981</pin:deathYear>
         <pin:island>Sumatera Utara</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Bung_Tomo.jpg/330px-Bung_Tomo.jpg</pin:thumbnail>
@@ -155,10 +155,10 @@
         <rdfs:label>Sam Ratulangi</rdfs:label>
         <pin:abstract>Gerungan Saul Samuel Jacob Ratulangi (juga ditulis sebagai Ratu Langie;5 November 1890 - 30 Juni 1949) adalah 
         seorang guru, jurnalis, politikus, dan pahlawan nasional Minahasa dari Sulawesi Utara, Indonesia. Ia adalah bagian dari komite yang meratifikasi Konstitusi Indonesia dan menjabat sebagai Gubernur Sulawesi yang pertama.</pin:abstract>
-        <pin:battle>perjuangan kemerdekaan indonesia, perlawanan terhadap penjajahan jepang dan belanda</pin:battle>
-        <pin:birthPlace>tondano</pin:birthPlace>
+        <pin:battle>Perjuangan kemerdekaan Indonesia, Perlawanan terhadap penjajahan Jepang dan Belanda</pin:battle>
+        <pin:birthPlace>Tondano</pin:birthPlace>
         <pin:birthYear>05/11/1890</pin:birthYear>
-        <pin:deathPlace>jakarta</pin:deathPlace>
+        <pin:deathPlace>Jakarta</pin:deathPlace>
         <pin:deathYear>30/06/1949</pin:deathYear>
         <pin:island>Sulawesi Utara</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Sam_Ratulangi_IPPHOS.jpg/330px-Sam_Ratulangi_IPPHOS.jpg</pin:thumbnail>
@@ -168,10 +168,10 @@
     <pin:hero rdf:about="https://dbpedia.org/page/Frans_Kaisiepo">
         <rdfs:label>Frans Kaisiepo</rdfs:label>
         <pin:abstract>Frans Kaisiepo (10 Oktober 1921 - 10 April 1979) adalah seorang politikus Papua dan nasionalis Indonesia.Ia menjabat sebagai Gubernur Provinsi Papua yang keempat.Pada tahun 1993, Kaisiepo secara anumerta dinyatakan sebagai Pahlawan Nasional Indonesia (Bahasa Indonesia: Pahlawan Nasional Indonesia) atas upaya seumur hidupnya untuk menyatukan Irian Barat dengan Indonesia.Sebagai wakil provinsi Papua, ia terlibat dalam Konferensi Malino yang membahas pembentukan Negara Indonesia Serikat. </pin:abstract>
-        <pin:battle>perjuangan kemerdekan papua, pengakuan kedaulatan indonesia di papua, proklamasi kemerdekaan indonesia di papua</pin:battle>
-        <pin:birthPlace>biak</pin:birthPlace>
+        <pin:battle>perjuangan kemerdekan Papua, pengakuan kedaulatan Indonesia di Papua, proklamasi kemerdekaan Indonesia di Papua</pin:battle>
+        <pin:birthPlace>Biak</pin:birthPlace>
         <pin:birthYear>10/10/1921</pin:birthYear>
-        <pin:deathPlace>jayapura</pin:deathPlace>
+        <pin:deathPlace>Jayapura</pin:deathPlace>
         <pin:deathYear>10/04/1979</pin:deathYear>
         <pin:island>Papua</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Frans_Kaisiepo_1977.jpg/640px-Frans_Kaisiepo_1977.jpg</pin:thumbnail>
@@ -181,10 +181,10 @@
    <pin:hero rdf:about="https://dbpedia.org/page/Mohammad_Husni_Thamrin">
         <rdfs:label>Mohammad Husni Thamrin</rdfs:label>
         <pin:abstract>Mohammad Husni Thamrin (16 Februari 1894 - 11 Januari 1941) adalah seorang pemikir politik dan nasionalis Indonesia pada masa sebelum kemerdekaan,yang setelah meninggalnya dianugerahi gelar Pahlawan Nasional.</pin:abstract>
-        <pin:battle>perjuangan kemerdekaan indonesia, anggota volksraad, perlawanan terhadap kebijakan kolonial belanda, pembela hak-hak pribumi</pin:battle>
-        <pin:birthPlace>jakarta</pin:birthPlace>
+        <pin:battle>perjuangan kemerdekaan Indonesia, anggota Volksraad, perlawanan terhadap kebijakan kolonial Belanda, pembela hak-hak pribumi</pin:battle>
+        <pin:birthPlace>Jakarta</pin:birthPlace>
         <pin:birthYear>16/02/1894</pin:birthYear>
-        <pin:deathPlace>jakarta</pin:deathPlace>
+        <pin:deathPlace>Jakarta</pin:deathPlace>
         <pin:deathYear>11/01/1941</pin:deathYear>
         <pin:island>Jawa Barat</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Mohammad_Husni_Thamrin.jpg/330px-Mohammad_Husni_Thamrin.jpg</pin:thumbnail>
@@ -194,10 +194,10 @@
       <pin:hero rdf:about="https://dbpedia.org/page/Tan_Malaka">
         <rdfs:label>Tan Malaka</rdfs:label>
         <pin:abstract>Tan Malaka (2 Juni 1897 - 21 Februari 1949) adalah seorang guru, Marxis, filsuf, pendiri Persatuan Perjuangan dan Partai Murba, gerilyawan independen, pejuang Indonesia, serta pahlawan nasional. Tempo memberikan gelar kepadanya sebagai Bapak Republik Indonesia.</pin:abstract>
-        <pin:battle>peperangan surabaya</pin:battle>
-        <pin:birthPlace>lima puluh </pin:birthPlace>
+        <pin:battle>Pertempuran Surabaya</pin:battle>
+        <pin:birthPlace>Lima Puluh </pin:birthPlace>
         <pin:birthYear>02/06/1897</pin:birthYear>
-        <pin:deathPlace>jakarta</pin:deathPlace>
+        <pin:deathPlace>Jakarta</pin:deathPlace>
         <pin:deathYear>21/02/1949</pin:deathYear>
         <pin:island>Sumatera Barat</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tan_Malaka%2C_date_unknown.png/640px-Tan_Malaka%2C_date_unknown.png</pin:thumbnail>
@@ -207,11 +207,10 @@
      <pin:hero rdf:about="https://dbpedia.org/page/Ahmad_Dahlan">
         <rdfs:label>Ahmad Dahlan</rdfs:label>
         <pin:abstract>Kyai Haji Ahmad Dahlan (1868-1923) adalah pendiri Muhammadiyah, salah satu organisasi Islam terbesar di Indonesia. Lahir di Yogyakarta, ia menunaikan haji dan tinggal di Mekkah, di mana ia terpengaruh oleh pemikiran reformis Islam. Setelah kembali ke Indonesia, ia mendirikan Muhammadiyah pada 1912 untuk mewujudkan ide-ide reformisnya. Ia juga mendirikan Aisyiyah untuk memperjuangkan peran wanita.Muhammadiyah berkembang pesat dan menjadi bagian penting dari kebangkitan nasional Indonesia. Ahmad Dahlan meninggal pada 1923 dan diangkat sebagai Pahlawan Nasional pada 1961.</pin:abstract>
-        <pin:battle>Pendiri Muhammadiyah, perjuangan pembaruan pendidikan Islam, 
-        pergerakan sosial dan dakwah modern di Indonesia</pin:battle>
-        <pin:birthPlace>yogyakarta </pin:birthPlace>
+        <pin:battle>Pendiri Muhammadiyah, perjuangan pembaruan pendidikan Islam, pergerakan sosial dan dakwah modern di Indonesia</pin:battle>
+        <pin:birthPlace>Yogyakarta</pin:birthPlace>
         <pin:birthYear>01/08/1868</pin:birthYear>
-        <pin:deathPlace>yogyakarta</pin:deathPlace>
+        <pin:deathPlace>Yogyakarta</pin:deathPlace>
         <pin:deathYear>01/08/1868</pin:deathYear>
         <pin:island>Jawa Tengah</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Ahmad_Dahlan.jpg/330px-Ahmad_Dahlan.jpg</pin:thumbnail>
@@ -221,10 +220,10 @@
       <pin:hero rdf:about="https://dbpedia.org/page/Omar_Said_Tjokroaminoto">
         <rdfs:label>Omar Said Tjokroaminoto</rdfs:label>
         <pin:abstract>Raden Mas Hadji Oemar Said Tjokroaminoto (16 Agustus 1882 - 17 Desember 1934), lebih dikenal di Indonesia dengan nama H.O.S.Tjokroaminoto, adalah seorang nasionalis Indonesia. Ia menjadi salah satu pemimpin Serikat Buruh Islam (Bahasa Indonesia: Syarekat Dagang Islam), yang didirikan oleh Samanhudi, yang menjadi Sarekat Islam, yang keduanya didirikan bersama.</pin:abstract>
-        <pin:battle>perpecahan antara kelompok moderat, perlawanan terhadap penjajahan Belanda </pin:battle>
-        <pin:birthPlace>ponorogo</pin:birthPlace>
+        <pin:battle>Perpecahan antara kelompok moderat, perlawanan terhadap penjajahan Belanda </pin:battle>
+        <pin:birthPlace>Ponorogo</pin:birthPlace>
         <pin:birthYear>16/08/1882</pin:birthYear>
-        <pin:deathPlace>yogyakarta</pin:deathPlace>
+        <pin:deathPlace>Yogyakarta</pin:deathPlace>
         <pin:deathYear>17/12/1934</pin:deathYear>
         <pin:island>Jawa Timur</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/HOS_Tjokroaminoto%2C_20_Mei_Pelopor_17_Agustus%2C_p43.jpg/330px-HOS_Tjokroaminoto%2C_20_Mei_Pelopor_17_Agustus%2C_p43.jpg</pin:thumbnail>
@@ -234,10 +233,10 @@
       <pin:hero rdf:about="https://dbpedia.org/page/Pattimura">
         <rdfs:label>Pattimura</rdfs:label>
         <pin:abstract>Pattimura, atau Thomas Matulessy, adalah pahlawan nasional Indonesia yang memimpin perlawanan rakyat Maluku terhadap penjajahan Belanda pada tahun 1817. Ia berhasil merebut benteng Belanda di Saparua, namun akhirnya tertangkap dan dihukum mati. Perjuangannya menjadi simbol keberanian dan semangat juang dalam merebut kemerdekaan Indonesia.</pin:abstract>
-        <pin:battle>perlawanan bersenjata melawan Belanda dalam Perang Pattimura (1817)</pin:battle>
-        <pin:birthPlace>maluku</pin:birthPlace>
+        <pin:battle>Perlawanan bersenjata melawan Belanda dalam Perang Pattimura (1817)</pin:battle>
+        <pin:birthPlace>Maluku</pin:birthPlace>
         <pin:birthYear>08/06/1783</pin:birthYear>
-        <pin:deathPlace>maluku</pin:deathPlace>
+        <pin:deathPlace>Maluku</pin:deathPlace>
         <pin:deathYear>16/12/1817</pin:deathYear>
         <pin:island>Maluku</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/6/64/Pattimura_on_1000_rupiah_bill.png</pin:thumbnail>
@@ -247,10 +246,10 @@
       <pin:hero rdf:about="https://dbpedia.org/page/Tuanku_Imam_Bonjol">
         <rdfs:label>Tuanku imam Bonjol</rdfs:label>
         <pin:abstract>Teuku Umar (1854 - 11 Februari 1899) adalah seorang pemimpin dalam kampanye gerilya melawan Belanda di Aceh selama Perang Aceh. Ia gugur ketika pasukan Belanda melancarkan serangan mendadak di Meulaboh. Jenazahnya dimakamkan di daerah Mugo. Setelah kematian Teuku Umar, istrinya Cut Nyak Dhien melanjutkan perjuangan gerilya melawan Belanda. Ia kemudian dianugerahi gelar Pahlawan Nasional Indonesia.</pin:abstract>
-        <pin:battle>perjuangan melawan penjajahan Belanda dalam Perang Aceh, Peralihan aliansi dengan Belanda </pin:battle>
-        <pin:birthPlace>pagaruyung</pin:birthPlace>
+        <pin:battle>Perang Aceh, Peralihan aliansi dengan Belanda </pin:battle>
+        <pin:birthPlace>Pagaruyung</pin:birthPlace>
         <pin:birthYear>01/01/1772</pin:birthYear>
-        <pin:deathPlace>manado</pin:deathPlace>
+        <pin:deathPlace>Manado</pin:deathPlace>
         <pin:deathYear>01/01/1864</pin:deathYear>
         <pin:island>Sumatera Barat</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Portret_van_Tuanku_Imam_Bonjol.jpg/330px-Portret_van_Tuanku_Imam_Bonjol.jpg</pin:thumbnail>
@@ -260,10 +259,10 @@
     <pin:hero rdf:about="https://example.org/hero/sultan_hasanudin, ">
         <rdfs:label>Sultan Hasanudin</rdfs:label>
         <pin:abstract> Sultan Hasanuddin (Sultan Hasanuddin Tumenanga Ri Balla Pangkana; 12 Januari 1631 - 12 Juni 1670) adalah penguasa ke-16 Kesultanan Gowa sebagai Sombaya Ri Gowa XVI dari tahun 1653 hingga 1669.Ia dinyatakan sebagai Pahlawan Nasional Indonesia pada 6 November 1973. Belanda menjuluki Sultan Hasanuddin sebagai "Ayam Jantan dari Timur" karena ia dikenal agresif dalam pertempuran. </pin:abstract>
-        <pin:battle>perang makassar, perlawanan terhadap penjajahan belanda, perjuangan mempertahankan kerajaan gowa </pin:battle>
-        <pin:birthPlace>makassar</pin:birthPlace>
+        <pin:battle>Perang Makassar, Perlawanan terhadap penjajahan Belanda, Perjuangan mempertahankan Kerajaan Gowa </pin:battle>
+        <pin:birthPlace>Makassar</pin:birthPlace>
         <pin:birthYear>12/01/1631</pin:birthYear>
-        <pin:deathPlace>makassar</pin:deathPlace>
+        <pin:deathPlace>Makassar</pin:deathPlace>
         <pin:deathYear>12/06/1670</pin:deathYear>
         <pin:island>Sulawesi Selatan</pin:island>
          <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sultan_Hasanuddin_di_The_Legend_Star_Batu.jpg/330px-Sultan_Hasanuddin_di_The_Legend_Star_Batu.jpg</pin:thumbnail>
@@ -273,10 +272,10 @@
       <pin:hero rdf:about="https://dbpedia.org/page/Andi_Depu">
         <rdfs:label>Andi Depu</rdfs:label>
         <pin:abstract>Andi Depu Maraddia Balanipa, Puang Depu Maraddia Balanipa atau Ibu Agung (1 Agustus 1907 - 18 Juni 1985) adalah seorang pejuang wanita asal Indonesia. Ia berhasil mempertahankan Tinambung, Afdeling Polewali dari penaklukan Belanda. Pada 1942, ia mengibarkan bendera Merah Putih pada awal kedatangan pasukan Jepang di Tanah Mandar. Ia mendapatkan anugerah Bintang Mahaputra Tingkat IV dari Presiden Soekarno.</pin:abstract>
-        <pin:battle>perjuangan melawan penjajahan Belanda dalam Perang Aceh, Perlawanan Fisik terhadap Pasukan Belanda, Pengibaran Bendera Merah Putih di Tanah Mandar </pin:battle>
-        <pin:birthPlace>tinambung</pin:birthPlace>
+        <pin:battle>Perjuangan melawan penjajahan Belanda dalam Perang Aceh, Perlawanan Fisik terhadap Pasukan Belanda, Pengibaran Bendera Merah Putih di Tanah Mandar </pin:battle>
+        <pin:birthPlace>Tinambung</pin:birthPlace>
         <pin:birthYear>01/08/1907</pin:birthYear>
-        <pin:deathPlace>makassar</pin:deathPlace>
+        <pin:deathPlace>Makassar</pin:deathPlace>
         <pin:deathYear>18/06/1985</pin:deathYear>
         <pin:island>Sulawesi Barat</pin:island>
         <pin:thumbnail>https://sulbarkita.com/news-560b66704cb6c.jpg</pin:thumbnail>
@@ -284,12 +283,12 @@
     </pin:hero>
 
       <pin:hero rdf:about="https://example.org/hero/nani_wartabone, ">
-        <rdfs:label>nani wartabone</rdfs:label>
+        <rdfs:label>Nani Wartabone</rdfs:label>
         <pin:abstract> Nani Wartabone (30 April 1907 - 3 Januari 1986) adalah seorang politikus dan nasionalis Indonesia dari Gorontalo. Ia dinyatakan sebagai Pahlawan Nasional Indonesia oleh Presiden Megawati Sukarnoputri pada 6 November 2003. Wartabone terlibat dalam pekerjaan sosial sebagai sekretaris Jong Gorontalo di Surabaya pada tahun 1923. Lima tahun kemudian, ia menjadi ketua Partai Nasional Indonesia cabang Gorontalo. (PNI). Ia mendeklarasikan "kemerdekaan Indonesia" pada tanggal 23 Januari 1942, tiga tahun sebelum proklamasi kemerdekaan Indonesia pada tanggal 17 Agustus 1945. Setelah kemerdekaan, ia menjadi bagian dari kekuatan yang mengakhiri pemberontakan Permesta yang dilakukan beberapa perwira militer pada tahun 1958.</pin:abstract>
         <pin:battle>Melawan Propaganda dan Kekuasaan Jepang, Proklamasi Kemerdekaan Gorontalo (23 Januari 1942), Penggulingan Kekuasaan Kolonial Belanda di Gorontalo </pin:battle>
-        <pin:birthPlace>suwawa</pin:birthPlace>
+        <pin:birthPlace>Suwawa</pin:birthPlace>
         <pin:birthYear>30/04/1907</pin:birthYear>
-        <pin:deathPlace>suwawa</pin:deathPlace>
+        <pin:deathPlace>Suwawa</pin:deathPlace>
         <pin:deathYear>03/01/1986</pin:deathYear>
         <pin:island>Sulawesi Utara</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Portrait_of_Nani_Wartabone%2C_Sulawesi_Utara_Bergolak%2C_p34.jpg/800px-Portrait_of_Nani_Wartabone%2C_Sulawesi_Utara_Bergolak%2C_p34.jpg</pin:thumbnail>
@@ -297,12 +296,12 @@
     </pin:hero>
 
       <pin:hero rdf:about="https://example.org/hero/cut_nyak_meutia, ">
-        <rdfs:label>cut nyak meutia</rdfs:label>
+        <rdfs:label>Cut Nyak Meutia</rdfs:label>
         <pin:abstract>Cut Nyak Meutia adalah pahlawan nasional Indonesia yang berasal dari Aceh, terkenal karena peranannya dalam perlawanan terhadap penjajahan Belanda pada masa Perang Aceh. Lahir pada 1870, Cut Nyak Meutia merupakan salah satu pemimpin wanita yang tangguh dalam perjuangan kemerdekaan. Setelah suaminya, Teuku Muhammad, gugur dalam pertempuran, ia mengambil alih kepemimpinan dan terus memimpin pasukan Aceh untuk melawan penjajah. Keberaniannya dan keteguhannya dalam membela tanah air menjadikannya simbol perjuangan wanita Indonesia. Cut Nyak Meutia gugur dalam pertempuran pada 1908, namun jasanya tetap dikenang sebagai pahlawan yang gigih melawan penjajahan.</pin:abstract>
-        <pin:battle>perlawanan Aceh, perang Aceh, pertempuran melawan kolonialisme belanda</pin:battle>
-        <pin:birthPlace>keureutoe</pin:birthPlace>
+        <pin:battle>Perlawanan Aceh, Perang Aceh, Pertempuran melawan kolonialisme belanda</pin:battle>
+        <pin:birthPlace>Keureutoe</pin:birthPlace>
         <pin:birthYear>15/02/1870</pin:birthYear>
-        <pin:deathPlace>alue kurieng</pin:deathPlace>
+        <pin:deathPlace>Alue Kurieng</pin:deathPlace>
         <pin:deathYear>24/10/1910</pin:deathYear>
         <pin:island>Aceh</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/5/5a/Cut_Nyak_Meutia.jpg</pin:thumbnail>
@@ -312,10 +311,10 @@
       <pin:hero rdf:about="https://example.org/hero/zainal_mustafa, ">
         <rdfs:label>Zainal Mustafa</rdfs:label>
         <pin:abstract>Zainal Mustafa adalah pahlawan nasional Indonesia asal Aceh yang memimpin perlawanan melawan penjajahan Belanda pada Perang Aceh. Sebagai pemimpin militer, ia berjuang dengan gagah berani hingga akhirnya tertangkap dan diasingkan. Zainal Mustafa dikenang sebagai simbol semangat juang rakyat Aceh dalam mempertahankan kemerdekaan.</pin:abstract>
-        <pin:battle>perlawanan rakyat Maluku, perang kemerdekaan, perjuangan melawan penjajahan Belanda</pin:battle>
-        <pin:birthPlace>singaparna</pin:birthPlace>
+        <pin:battle>Perlawanan rakyat Maluku, Perang kemerdekaan, perjuangan melawan penjajahan Belanda</pin:battle>
+        <pin:birthPlace>Singaparna</pin:birthPlace>
         <pin:birthYear>01/01/1899</pin:birthYear>
-        <pin:deathPlace>jakarta</pin:deathPlace>
+        <pin:deathPlace>Jakarta</pin:deathPlace>
         <pin:deathYear>28/03/1944</pin:deathYear>
         <pin:island>Jawa Barat</pin:island>
         <pin:thumbnail>https://img.tempo.co/indonesiana/images/all/2021/02/21/f202102211026456.jpg</pin:thumbnail>
@@ -324,12 +323,11 @@
 
      <pin:hero rdf:about="https://example.org/hero/i_gusti_ngurah_rai, ">
         <rdfs:label>I Gusti Ngurah Rai</rdfs:label>
-        <pin:abstract>I Gusti Ngurah Rai (30 Januari 1917 - 20 November 1946) adalah seorang tokoh militer Indonesia, yang berjasa dalam Perang Kemerdekaan. Ia merupakan pendiri dan panglima pertama satuan angkatan bersenjata Republik Indonesia di Kepulauan Sunda Kecil, 
-        yang memimpin langsung perlawanan bersenjata anti-Belanda di Bali. Ia gugur pada bulan November 1946 dalam pertempuran dengan pasukan Belanda di dekat desa Marga, Bali tengah. </pin:abstract>
-        <pin:battle>perlawanan rakyat Maluku, perang kemerdekaan, perjuangan melawan penjajahan Belanda</pin:battle>
-        <pin:birthPlace>badung</pin:birthPlace>
+        <pin:abstract>I Gusti Ngurah Rai (30 Januari 1917 - 20 November 1946) adalah seorang tokoh militer Indonesia, yang berjasa dalam Perang Kemerdekaan. Ia merupakan pendiri dan panglima pertama satuan angkatan bersenjata Republik Indonesia di Kepulauan Sunda Kecil, yang memimpin langsung perlawanan bersenjata anti-Belanda di Bali. Ia gugur pada bulan November 1946 dalam pertempuran dengan pasukan Belanda di dekat desa Marga, Bali tengah. </pin:abstract>
+        <pin:battle>Perlawanan rakyat Maluku, Perang kemerdekaan, Perjuangan melawan penjajahan Belanda</pin:battle>
+        <pin:birthPlace>Badung</pin:birthPlace>
         <pin:birthYear>01/01/1899</pin:birthYear>
-        <pin:deathPlace>jakarta</pin:deathPlace>
+        <pin:deathPlace>Jakarta</pin:deathPlace>
         <pin:deathYear>28/03/1944</pin:deathYear>
         <pin:island>Bali</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/1/1a/Lukisan_I_Gusti_Ngurah.jpg</pin:thumbnail>
@@ -337,15 +335,12 @@
     </pin:hero>
       
       <pin:hero rdf:about="https://example.org/hero/mohammad_natsir, ">
-        <rdfs:label>mohammad natsir</rdfs:label>
-        <pin:abstract>Dr. (H.C.) H. Mohammad Natsir (17 Juli 1908 – 6 Februari 1993) adalah seorang ulama, politikus, dan pejuang kemerdekaan Indonesia. 
-        Ia merupakan pendiri sekaligus pemimpin partai politik Masyumi, dan tokoh Islam terkemuka Indonesia. 
-        Di dalam negeri, ia pernah menjabat menteri dan Perdana Menteri Indonesia, sedangkan di kancah internasional, 
-        ia pernah menjabat sebagai presiden Liga Muslim Dunia (World Muslim League) dan ketua Dewan Masjid se-Dunia.  </pin:abstract>
+        <rdfs:label>Mohammad Natsir</rdfs:label>
+        <pin:abstract>Dr. (H.C.) H. Mohammad Natsir (17 Juli 1908 – 6 Februari 1993) adalah seorang ulama, politikus, dan pejuang kemerdekaan Indonesia. Ia merupakan pendiri sekaligus pemimpin partai politik Masyumi, dan tokoh Islam terkemuka Indonesia. Di dalam negeri, ia pernah menjabat menteri dan Perdana Menteri Indonesia, sedangkan di kancah internasional, ia pernah menjabat sebagai presiden Liga Muslim Dunia (World Muslim League) dan ketua Dewan Masjid se-Dunia.  </pin:abstract>
         <pin:battle>perdamaian Indonesia, perdana menteri, tokoh politik, pendiri Masyumi, perjuangan kemerdekaan, pemikir Islam Indonesia</pin:battle>
-        <pin:birthPlace>alahan panjang</pin:birthPlace>
+        <pin:birthPlace>Alahan Panjang</pin:birthPlace>
         <pin:birthYear>17/07/1908</pin:birthYear>
-        <pin:deathPlace>jakarta</pin:deathPlace>
+        <pin:deathPlace>Jakarta</pin:deathPlace>
         <pin:deathYear>06/02/1993</pin:deathYear>
         <pin:island>Sumatera Barat</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/4d/Mohammad_Natsir_1950s.jpg</pin:thumbnail>
@@ -354,15 +349,11 @@
 
        <pin:hero rdf:about="https://example.org/hero/andi_pangeran_pettarani, ">
         <rdfs:label>Andi Pangeran Pettarani</rdfs:label>
-        <pin:abstract>Andi Pangerang Petta Rani Karaeng Bontonompo Arung Macege Matinroe ri Panaikang (14 Mei 1903 – 12 Agustus 1975)adalah birokrat, politikus, dan pejuang kemerdekaan Indonesia 
-        yang berasal dari bangsawan Suku Makassar dan Bugis serta menjadi Gubernur Sulawesi terakhir. Andi Pangerang Petta Rani Karaeng Bontonompo Arung Macege Matinroe Ri Panaikang adalah putra dari 
-        Raja Kesultanan Bone ke-32 yang bernama Andi Mappanyukki dan ibunya adalah seorang ningrat yang bernama I Batasai Daeng Taco. Ia juga merupakan cucu dari Kesultanan Gowa ke-34,I Makkulau Daeng Serang Karaengta Lembang Parang.
-        Ia adalah saudara tiri dari Andi Abdullah Bau Massepe Pahlawan Nasional Republik Indonesia yang juga Datu Suppa ke-25 dari Kerajaan Suppa.
-         Sebagai bentuk penghargaan kepada Indonesia, Andi Pangerang Pettarani dimakamkan di Taman Makam Pahlawan Panaikang Makassar. Atas jasanya pula pemerintah setempat mengabadikan namanya sebagai nama jalan.  </pin:abstract>
-        <pin:battle>perlawanan terhadap penjajahan Belanda, tokoh adat Bugis, perjuangan kemerdekaan Indonesia, pertempuran Makassar</pin:battle>
-        <pin:birthPlace>mangasa</pin:birthPlace>
+        <pin:abstract>Andi Pangerang Petta Rani Karaeng Bontonompo Arung Macege Matinroe ri Panaikang (14 Mei 1903 – 12 Agustus 1975)adalah birokrat, politikus, dan pejuang kemerdekaan Indonesia yang berasal dari bangsawan Suku Makassar dan Bugis serta menjadi Gubernur Sulawesi terakhir. Andi Pangerang Petta Rani Karaeng Bontonompo Arung Macege Matinroe Ri Panaikang adalah putra dari Raja Kesultanan Bone ke-32 yang bernama Andi Mappanyukki dan ibunya adalah seorang ningrat yang bernama I Batasai Daeng Taco. Ia juga merupakan cucu dari Kesultanan Gowa ke-34,I Makkulau Daeng Serang Karaengta Lembang Parang. Ia adalah saudara tiri dari Andi Abdullah Bau Massepe Pahlawan Nasional Republik Indonesia yang juga Datu Suppa ke-25 dari Kerajaan Suppa. Sebagai bentuk penghargaan kepada Indonesia, Andi Pangerang Pettarani dimakamkan di Taman Makam Pahlawan Panaikang Makassar. Atas jasanya pula pemerintah setempat mengabadikan namanya sebagai nama jalan.  </pin:abstract>
+        <pin:battle>Perlawanan terhadap penjajahan Belanda, Tokoh adat Bugis, perjuangan kemerdekaan Indonesia, Pertempuran Makassar</pin:battle>
+        <pin:birthPlace>Mangasa</pin:birthPlace>
         <pin:birthYear>14/05/1903</pin:birthYear>
-        <pin:deathPlace>ujung pandang</pin:deathPlace>
+        <pin:deathPlace>Ujung Pandang</pin:deathPlace>
         <pin:deathYear>12/08/1975</pin:deathYear>
         <pin:island>Sulawesi Selatan</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/A._Pangerang_Pt.Rani.jpg/800px-A._Pangerang_Pt.Rani.jpg</pin:thumbnail>
@@ -371,14 +362,11 @@
 
        <pin:hero rdf:about="https://example.org/hero/Soepomo, ">
         <rdfs:label>Soepomo</rdfs:label>
-        <pin:abstract>Prof. Dr. Mr. Soepomo (Ejaan Soewandi: Supomo; 22 Januari 1903 – 12 September 1958) adalah seorang politikus dan pengacara Indonesia 
-        yang menjabat sebagai Menteri Kehakiman pertama negara itu dari Agustus hingga November 1945 dan lagi dari Desember 1949 hingga 6 September 1950. 
-        Dikenal sebagai bapak konstitusi Indonesia,ia secara anumerta dinyatakan sebagai Pahlawan Nasional Indonesia oleh Presiden Soekarno pada tahun 1965. 
-        Soepomo dikenal sebagai perancang Undang-undang Dasar 1945, bersama dengan Muhammad Yamin dan Soekarno.</pin:abstract>
-        <pin:battle>perumus dasar negara Indonesia, tokoh hukum, Menteri Kehakiman, Pancasila, Konstitusi 1945, pemikir nasionalisme Indonesia</pin:battle>
-        <pin:birthPlace>sukoharjo</pin:birthPlace>
+        <pin:abstract>Prof. Dr. Mr. Soepomo (Ejaan Soewandi: Supomo; 22 Januari 1903 – 12 September 1958) adalah seorang politikus dan pengacara Indonesia yang menjabat sebagai Menteri Kehakiman pertama negara itu dari Agustus hingga November 1945 dan lagi dari Desember 1949 hingga 6 September 1950. Dikenal sebagai bapak konstitusi Indonesia,ia secara anumerta dinyatakan sebagai Pahlawan Nasional Indonesia oleh Presiden Soekarno pada tahun 1965. Soepomo dikenal sebagai perancang Undang-undang Dasar 1945, bersama dengan Muhammad Yamin dan Soekarno.</pin:abstract>
+        <pin:battle>Perumus dasar negara Indonesia, tokoh hukum, Menteri Kehakiman, Pancasila, Konstitusi 1945, pemikir nasionalisme Indonesia</pin:battle>
+        <pin:birthPlace>Sukoharjo</pin:birthPlace>
         <pin:birthYear>22/01/1903</pin:birthYear>
-        <pin:deathPlace>jakarta</pin:deathPlace>
+        <pin:deathPlace>Jakarta</pin:deathPlace>
         <pin:deathYear>12/09/1958</pin:deathYear>
         <pin:island>Jawa Tengah</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Supomo_%28Photographs_by_Daan_Noske%29.jpg/330px-Supomo_%28Photographs_by_Daan_Noske%29.jpg</pin:thumbnail>
@@ -386,14 +374,12 @@
     </pin:hero>
    
       <pin:hero rdf:about="https://example.org/hero/herman_yohannes, ">
-        <rdfs:label>herman yohannes</rdfs:label>
-        <pin:abstract>Herman Yohannes adalah seorang pahlawan nasional Indonesia yang dikenal karena perjuangannya dalam merebut kemerdekaan di wilayah Papua. 
-        Sebagai seorang pejuang kemerdekaan, ia terlibat dalam perlawanan melawan penjajahan Belanda di Papua. 
-        Keberanian dan dedikasinya dalam memperjuangkan kemerdekaan Indonesia menjadikannya simbol semangat juang bagi rakyat Papua.</pin:abstract>
+        <rdfs:label>Herman Yohannes</rdfs:label>
+        <pin:abstract>Herman Yohannes adalah seorang pahlawan nasional Indonesia yang dikenal karena perjuangannya dalam merebut kemerdekaan di wilayah Papua. Sebagai seorang pejuang kemerdekaan, ia terlibat dalam perlawanan melawan penjajahan Belanda di Papua. Keberanian dan dedikasinya dalam memperjuangkan kemerdekaan Indonesia menjadikannya simbol semangat juang bagi rakyat Papua.</pin:abstract>
         <pin:battle>pahlawan perlawanan Papua, perjuangan kemerdekaan Indonesia, pertempuran melawan Belanda, pejuang kebebasan</pin:battle>
-        <pin:birthPlace>rote</pin:birthPlace>
+        <pin:birthPlace>Rote</pin:birthPlace>
         <pin:birthYear>28/05/1912</pin:birthYear>
-        <pin:deathPlace>yogyakarta</pin:deathPlace>
+        <pin:deathPlace>Yogyakarta</pin:deathPlace>
         <pin:deathYear>17/10/1992</pin:deathYear>
         <pin:island>Papua</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/c/cc/Herman_Johannes%2C_Kami_Perkenalkan_%281952%29%2C_p17.jpg</pin:thumbnail>
@@ -402,13 +388,11 @@
 
        <pin:hero rdf:about="https://dbpedia.org/page/Sisingamangaraja_XII, ">
         <rdfs:label>SiSingamangaraja XII</rdfs:label>
-        <pin:abstract> Si Singamangaraja XII dengan nama lengkap Patuan Bosar Sinambela ginoar Ompu Pulo Batu (18 Februari 1845 – 17 Juni 1907) adalah seorang raja di Negeri Toba dan pejuang 
-        yang berperang melawan Belanda. Ia diangkat oleh pemerintah Indonesia sebagai Pahlawan Nasional Indonesia pada tanggal 9 November 1961 berdasarkan SK Presiden RI No 590/1961. 
-        Semula, ia dimakamkan di Tarutung, Tapanuli Utara, lalu dipindahkan ke Soposurung, Balige, Toba pada tahun 1953.</pin:abstract>
-        <pin:battle>perlawanan Batak, perang melawan Belanda, pahlawan nasional, tokoh perjuangan, simbol perlawanan Sumatra Utara</pin:battle>
-        <pin:birthPlace>bakkara</pin:birthPlace>
+        <pin:abstract> Si Singamangaraja XII dengan nama lengkap Patuan Bosar Sinambela ginoar Ompu Pulo Batu (18 Februari 1845 – 17 Juni 1907) adalah seorang raja di Negeri Toba dan pejuang yang berperang melawan Belanda. Ia diangkat oleh pemerintah Indonesia sebagai Pahlawan Nasional Indonesia pada tanggal 9 November 1961 berdasarkan SK Presiden RI No 590/1961. Semula, ia dimakamkan di Tarutung, Tapanuli Utara, lalu dipindahkan ke Soposurung, Balige, Toba pada tahun 1953.</pin:abstract>
+        <pin:battle>Perlawanan Batak, perang melawan Belanda, pahlawan nasional, tokoh perjuangan, simbol perlawanan Sumatra Utara</pin:battle>
+        <pin:birthPlace>Bakkara</pin:birthPlace>
         <pin:birthYear>18/02/1845</pin:birthYear>
-        <pin:deathPlace>aek sibulbolon</pin:deathPlace>
+        <pin:deathPlace>Aek Sibulbolon</pin:deathPlace>
         <pin:deathYear>17/06/1907</pin:deathYear>
         <pin:island>Sumatera Utara</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/3/3e/Sisingamangaraja_XII.jpg</pin:thumbnail>
@@ -416,15 +400,12 @@
     </pin:hero>
 
       <pin:hero rdf:about="https://example.org/hero/mohammad toha, ">
-        <rdfs:label>mohammad toha</rdfs:label>
-        <pin:abstract>Mohammad Toha atau Muhammad Toha (Bandung, 1927 - Bandung, 11 Juli 1946) adalah seorang komandan Barisan Rakjat Indonesia, 
-        sebuah kelompok milisi pejuang yang aktif dalam masa Perang Kemerdekaan Indonesia. 
-        Toha gugur dalam kebakaran misi penghancuran gudang amunisi milik Tentara Sekutu bersama rekannya, 
-        setelah meledakkan dinamit dalam gudang amunisi tersebut. </pin:abstract>
-        <pin:battle>pejuang kemerdekaan, perlawanan terhadap Belanda, pahlawan Bandung, tokoh militer, peristiwa Bandung Lautan Api</pin:battle>
-        <pin:birthPlace>bandung</pin:birthPlace>
+        <rdfs:label>Mohammad Toha</rdfs:label>
+        <pin:abstract>Mohammad Toha atau Muhammad Toha (Bandung, 1927 - Bandung, 11 Juli 1946) adalah seorang komandan Barisan Rakjat Indonesia, sebuah kelompok milisi pejuang yang aktif dalam masa Perang Kemerdekaan Indonesia. Toha gugur dalam kebakaran misi penghancuran gudang amunisi milik Tentara Sekutu bersama rekannya, setelah meledakkan dinamit dalam gudang amunisi tersebut. </pin:abstract>
+        <pin:battle>Pejuang kemerdekaan, perlawanan terhadap Belanda, pahlawan Bandung, tokoh militer, peristiwa Bandung Lautan Api</pin:battle>
+        <pin:birthPlace>Bandung</pin:birthPlace>
         <pin:birthYear>01/01/1927</pin:birthYear>
-        <pin:deathPlace>bandung</pin:deathPlace>
+        <pin:deathPlace>Bandung</pin:deathPlace>
         <pin:deathYear>01/07/1946</pin:deathYear>
         <pin:island>Jawa Barat</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Muhammad_Toha.jpg/300px-Muhammad_Toha.jpg</pin:thumbnail>
@@ -432,13 +413,10 @@
     </pin:hero>
 
       <pin:hero rdf:about="https://example.org/hero/abdul_haris_nasution, ">
-        <rdfs:label>abdul haris nasution</rdfs:label>
-        <pin:abstract>Jenderal Besar TNI (Purn.) Dr. (H.C.)Abdul Haris Nasution (3 Desember 1918 – 6 September 2000) adalah seorang jenderal berpangkat tinggi dan politikus Indonesia. 
-        Ia bertugas di militer selama Revolusi Nasional Indonesia dan ia tetap di militer selama gejolak berikutnya dari demokrasi Parlementer dan Demokrasi Terpimpin. 
-        Setelah jatuhnya Presiden Soekarno dari kekuasaan, ia menjadi Ketua Majelis Permusyawaratan Rakyat Sementara (MPRS) di bawah presiden Soeharto. 
-        Lahir dari keluarga Batak Mandailing, di desa Hutapungkut, ia belajar mengajar dan mendaftar di akademi militer di Bandung.</pin:abstract>
-        <pin:battle>peristiwa 17 Oktober 1952, strategi perang, reformasi militer</pin:battle>
-        <pin:birthPlace>koetanopan</pin:birthPlace>
+        <rdfs:label>Abdul Haris Nasution</rdfs:label>
+        <pin:abstract>Jenderal Besar TNI (Purn.) Dr. (H.C.)Abdul Haris Nasution (3 Desember 1918 – 6 September 2000) adalah seorang jenderal berpangkat tinggi dan politikus Indonesia. Ia bertugas di militer selama Revolusi Nasional Indonesia dan ia tetap di militer selama gejolak berikutnya dari demokrasi Parlementer dan Demokrasi Terpimpin. Setelah jatuhnya Presiden Soekarno dari kekuasaan, ia menjadi Ketua Majelis Permusyawaratan Rakyat Sementara (MPRS) di bawah presiden Soeharto. Lahir dari keluarga Batak Mandailing, di desa Hutapungkut, ia belajar mengajar dan mendaftar di akademi militer di Bandung.</pin:abstract>
+        <pin:battle>Peristiwa 17 Oktober 1952, strategi perang, reformasi militer</pin:battle>
+        <pin:birthPlace>Koetanopan</pin:birthPlace>
         <pin:birthYear>03/12/1918</pin:birthYear>
         <pin:deathPlace>jakarta</pin:deathPlace>
         <pin:deathYear>06/09/2000</pin:deathYear>
@@ -448,15 +426,12 @@
     </pin:hero>
 
       <pin:hero rdf:about="https://example.org/hero/bagoes_hadikoesoemo, ">
-        <rdfs:label>bagoes hadikoesoemo</rdfs:label>
-        <pin:abstract>Ki Bagus Hadikusumo adalah seorang tokoh pergerakan kemerdekaan Indonesia yang berperan dalam perjuangan melawan penjajahan Belanda. 
-        Ia dikenal sebagai ulama dan pemimpin Muhammadiyah yang aktif dalam membangkitkan semangat nasionalisme melalui pendidikan dan dakwah. 
-        Ki Bagus Hadikusumo turut berperan dalam mempersiapkan lahirnya negara Indonesia dengan mengajarkan pentingnya persatuan dan kesatuan umat. 
-        Jasa-jasanya dalam memperjuangkan kemerdekaan dan membangun dasar moral bangsa menjadikannya salah satu tokoh penting dalam sejarah Indonesia.</pin:abstract>
-        <pin:battle>tokoh pendidikan Indonesia, perintis pendidikan nasional, guru besar, tokoh Islam, peran dalam pergerakan kemerdekaan</pin:battle>
-        <pin:birthPlace>yogyakarta</pin:birthPlace>
+        <rdfs:label>Bagoes Hadikoesoemo</rdfs:label>
+        <pin:abstract>Ki Bagus Hadikusumo adalah seorang tokoh pergerakan kemerdekaan Indonesia yang berperan dalam perjuangan melawan penjajahan Belanda. Ia dikenal sebagai ulama dan pemimpin Muhammadiyah yang aktif dalam membangkitkan semangat nasionalisme melalui pendidikan dan dakwah. Ki Bagus Hadikusumo turut berperan dalam mempersiapkan lahirnya negara Indonesia dengan mengajarkan pentingnya persatuan dan kesatuan umat. Jasa-jasanya dalam memperjuangkan kemerdekaan dan membangun dasar moral bangsa menjadikannya salah satu tokoh penting dalam sejarah Indonesia.</pin:abstract>
+        <pin:battle>Tokoh pendidikan Indonesia, perintis pendidikan nasional, guru besar, tokoh Islam, peran dalam pergerakan kemerdekaan</pin:battle>
+        <pin:birthPlace>Yogyakarta</pin:birthPlace>
         <pin:birthYear>24/11/1890</pin:birthYear>
-        <pin:deathPlace>jakarta</pin:deathPlace>
+        <pin:deathPlace>Jakarta</pin:deathPlace>
         <pin:deathYear>04/11/1954</pin:deathYear>
         <pin:island>Jawa Timur</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Bagoes_Hadikoesoemo.jpg/300px-Bagoes_Hadikoesoemo.jpg</pin:thumbnail>
@@ -464,12 +439,12 @@
     </pin:hero>
       
       <pin:hero rdf:about="https://example.org/hero/g.a._siwabessy, ">
-        <rdfs:label>g.a. siwabessy</rdfs:label>
+        <rdfs:label>G.A. Siwabessy</rdfs:label>
         <pin:abstract>Gerrit Augustinus Siwabessy (19 Agustus 1914 – 11 November 1982) adalah seorang politikus Indonesia yang menjabat sebagai menteri kesehatan kesembilan dari Juli 1966 hingga Maret 1978, pada masa kepresidenan Sukarno dan Suharto.</pin:abstract>
         <pin:battle>perintis sistem kesehatan, pengembangan vaksin, pahlawan kesehatan nasional</pin:battle>
-        <pin:birthPlace>ullath</pin:birthPlace>
+        <pin:birthPlace>Ullath</pin:birthPlace>
         <pin:birthYear>19/08/1914</pin:birthYear>
-        <pin:deathPlace>jakarta</pin:deathPlace>
+        <pin:deathPlace>Jakarta</pin:deathPlace>
         <pin:deathYear>1/11/1982</pin:deathYear>
         <pin:island>Maluku</pin:island>
         <pin:thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQpa5sGtQqu-KOLnDbqaT6g2K36xVN0UBGxUuAITtfvT9x-m4IUzME69aoOKSqTYuFUc6RkFHJ04YEv0Vl756zheOGggmsaCP94dQ1buQ</pin:thumbnail>
@@ -477,12 +452,12 @@
     </pin:hero>      
 
       <pin:hero rdf:about="https://example.org/hero/ahmad_yani, ">
-        <rdfs:label>ahmad yani</rdfs:label>
+        <rdfs:label>Ahmad Yani</rdfs:label>
         <pin:abstract> Jenderal Ahmad Yani adalah pahlawan nasional Indonesia yang gugur dalam peristiwa G30S/PKI pada 1965.Sebagai komandan TNI, beliau berperan penting dalam mempertahankan kemerdekaan Indonesia Keberanian dan pengorbanannya menjadikannya simbol kepemimpinan dan dedikasi untuk bangsa.</pin:abstract>
         <pin:battle>Melawan Penjajahan Belanda di Mandar, Perang Dunia II dan Pembentukan PETA</pin:battle>
-        <pin:birthPlace>purworejo</pin:birthPlace>
+        <pin:birthPlace>Purworejo</pin:birthPlace>
         <pin:birthYear>19/06/1922</pin:birthYear>
-        <pin:deathPlace>jakarta</pin:deathPlace>
+        <pin:deathPlace>Jakarta</pin:deathPlace>
         <pin:deathYear>01/10/1965</pin:deathYear>
         <pin:island>Jawa Tengah</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/3/3f/Ahmad_Yani.jpg</pin:thumbnail>
@@ -490,12 +465,12 @@
     </pin:hero>
 
       <pin:hero rdf:about="https://example.org/hero/raden_suprapto, ">
-        <rdfs:label>raden suprapto</rdfs:label>
+        <rdfs:label>Raden Suprapto</rdfs:label>
         <pin:abstract> Raden Suprapto adalah tokoh pejuang kemerdekaan Indonesia yang dianugerahi gelar pahlawan nasional anumerta.Beliau berperan penting dalam perlawanan terhadap penjajahan Belanda, khususnya di Yogyakarta, selama Revolusi Nasional Indonesia. Raden Suprapto memimpin pertempuran dan gerilya melawan Belanda, hingga akhirnya gugur dalam tugas. Gelar pahlawan anumerta diberikan untuk menghormati perjuangan dan pengorbanannya dalam memperjuangkan kemerdekaan Indonesia.</pin:abstract>
-         <pin:battle>revolusi nasional indonesia,  pertempuran besar melawan Belanda, Perlawanan terhadap Penjajahan Jepang</pin:battle>
-        <pin:birthPlace>purwokerto</pin:birthPlace>
+         <pin:battle>Revolusi Nasional Indonesia, Peperangan melawan Belanda, Perlawanan terhadap Penjajahan Jepang</pin:battle>
+        <pin:birthPlace>Purwokerto</pin:birthPlace>
         <pin:birthYear>20/06/1920</pin:birthYear>
-        <pin:deathPlace>jakarta</pin:deathPlace>
+        <pin:deathPlace>Jakarta</pin:deathPlace>
         <pin:deathYear>01/10/1965</pin:deathYear>
         <pin:island>Jawa Tengah</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/5/57/Soeprapto.jpg</pin:thumbnail>
@@ -503,12 +478,12 @@
     </pin:hero>
  
       <pin:hero rdf:about="https://example.org/hero/mas_tirtodarmo_haryono, ">
-        <rdfs:label>mas tirtodarmo haryono</rdfs:label>
+        <rdfs:label>Mas Tirtodarmo Haryono</rdfs:label>
         <pin:abstract> Mas Tirtodarmo Haryono (20 Januari 1924 - 1 Oktober 1965) adalah seorang perwira jenderal Angkatan Darat Indonesia yang terbunuh dalam upaya penculikan dari rumahnya oleh anggota Gerakan 30 September dini hari tanggal 1 Oktober 1965.</pin:abstract>
-         <pin:battle>revolusi nasional indonesia, Perlawanan terhadap Penjajahan Jepang, Pemberontakan PETA dan Keinginan untuk Kemerdekaan</pin:battle>
-        <pin:birthPlace>surabaya</pin:birthPlace>
+         <pin:battle>Revolusi nasional Indonesia, Perlawanan terhadap Penjajahan Jepang, Pemberontakan PETA dan keinginan untuk Kemerdekaan</pin:battle>
+        <pin:birthPlace>Surabaya</pin:birthPlace>
         <pin:birthYear>20/06/1920</pin:birthYear>
-        <pin:deathPlace>jakarta</pin:deathPlace>
+        <pin:deathPlace>Jakarta</pin:deathPlace>
         <pin:deathYear>01/10/1965</pin:deathYear>
         <pin:island>Jawa Tengah</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/9/9b/MT_Haryono.jpg</pin:thumbnail>
@@ -518,10 +493,10 @@
       <pin:hero rdf:about="https://example.org/hero/siswondo_parman, ">
         <rdfs:label>Siswondo Parman</rdfs:label>
         <pin:abstract> Siswondo Parman (4 Agustus 1918 - 1 Oktober 1965) atau lebih dikenal dengan nama jalan S. Parman, adalah seorang prajurit TNI Angkatan Darat, dan diculik dari rumahnya di Jakarta oleh anggota Gerakan 30 September di dini hari tanggal 1 Oktober. Dia kemudian dibunuh di Lubang Buaya.</pin:abstract>
-        <pin:battle>revolusi nasional indonesia, Perlawanan terhadap Penjajahan Jepang, Pemberontakan PETA dan Keinginan untuk Kemerdekaan,  Konflik di Masa Perang Dunia II dan PETA</pin:battle>
-        <pin:birthPlace>wonosobo</pin:birthPlace>
+        <pin:battle>Revolusi nasional Indonesia, Perlawanan terhadap Penjajahan Jepang, Pemberontakan PETA dan Keinginan untuk Kemerdekaan, Konflik di Masa Perang Dunia II dan PETA</pin:battle>
+        <pin:birthPlace>Wonosobo</pin:birthPlace>
         <pin:birthYear>04/8/1918</pin:birthYear>
-        <pin:deathPlace>jakarta</pin:deathPlace>
+        <pin:deathPlace>Jakarta</pin:deathPlace>
         <pin:deathYear>01/10/1965</pin:deathYear>
         <pin:island>Jawa Tengah</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/1/12/S_Parman.jpg</pin:thumbnail>
@@ -529,12 +504,12 @@
     </pin:hero>
       
       <pin:hero rdf:about="https://dbpedia.org/page/D._I._Pandjaitan ">
-        <rdfs:label>donald isaac pandjaitan</rdfs:label>
+        <rdfs:label>Donald isaac Pandjaitan</rdfs:label>
         <pin:abstract> Donald Isaac Pandjaitan (9 Juni 1925 - 1 Oktober 1965) adalah seorang Jenderal Indonesia yang terbunuh dalam upaya penculikan oleh anggota Gerakan 30 September. Di antara 6 Jenderal Angkatan Darat yang tewas dalam upaya kudeta, dia adalah satu-satunya orang Kristen.</pin:abstract>
-        <pin:battle>revolusi nasional indonesia, operasi kaai</pin:battle>
-        <pin:birthPlace>balige</pin:birthPlace>
+        <pin:battle>Revolusi nasional Indonesia, operasi Kaai</pin:battle>
+        <pin:birthPlace>Balige</pin:birthPlace>
         <pin:birthYear>09/06/1925</pin:birthYear>
-        <pin:deathPlace>jakarta</pin:deathPlace>
+        <pin:deathPlace>Jakarta</pin:deathPlace>
         <pin:deathYear>01/10/1965</pin:deathYear>
         <pin:island>Sumatera Utara</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/D._I._Pandjaitan.jpg/330px-D._I._Pandjaitan.jpg</pin:thumbnail>
@@ -544,11 +519,10 @@
       <pin:hero rdf:about="https://example.org/hero/sutoyo_siswomiharjo, ">
         <rdfs:label>Sutoyo Siswomiharjo</rdfs:label>
         <pin:abstract> Kehidupan awalSutoyo lahir di Kebumen, Keresidenan Kedu. Ia menyelesaikan sekolahnya sebelum invasi Jepang pada tahun 1942, dan selama masa pendudukan Jepang, ia belajar tentang penyelenggaraan pemerintahan di Jakarta. Dia kemudian bekerja sebagai pegawai pemerintah di Purworejo, namun mengundurkan diri pada tahun 1944</pin:abstract>
-        <pin:battle>revolusi nasional indonesia, Pemberontakan 3 Juli 1944 (Pemberontakan PETA di Blitar), 
-        Perlawanan Terhadap Jepang di Masa Pendudukan, </pin:battle>
-        <pin:birthPlace>kebumen</pin:birthPlace>
+        <pin:battle>revolusi nasional indonesia, Pemberontakan 3 Juli 1944 (Pemberontakan PETA di Blitar), Perlawanan Terhadap Jepang di Masa Pendudukan, </pin:battle>
+        <pin:birthPlace>Kebumen</pin:birthPlace>
         <pin:birthYear>28/08/1922</pin:birthYear>
-        <pin:deathPlace>jakarta</pin:deathPlace>
+        <pin:deathPlace>Jakarta</pin:deathPlace>
         <pin:deathYear>01/10/1965</pin:deathYear>
         <pin:island>Jawa Tengah</pin:island>
         <pin:thumbnail>https://asset-2.tstatic.net/medan/foto/bank/images/Profil-Pahlawan-Nasional-Indonesia-Sutoyo-Siswomiharjo.jpg</pin:thumbnail>
@@ -556,12 +530,12 @@
     </pin:hero>
 
       <pin:hero rdf:about="https://example.org/hero/pierre_andreas_tandean, ">
-        <rdfs:label>pierre andreas tandean</rdfs:label>
+        <rdfs:label>Pierre Andreas Tandean</rdfs:label>
         <pin:abstract>Pierre Andreas Tandean adalah pahlawan nasional Indonesia yang dikenal karena perjuangannya dalam memperjuangkan kemerdekaan. Sebagai anggota Tentara Nasional Indonesia (TNI), beliau terlibat dalam berbagai operasi militer dan perlawanan terhadap penjajahan. Tandean gugur dalam peristiwa G30S/PKI pada 1965, dan dihormati sebagai pahlawan nasional atas dedikasi, keberanian, serta pengorbanannya untuk bangsa dan negara.</pin:abstract>
-        <pin:battle>revolusi nasional indonesia, Perlawanan terhadap Penjajahan Jepang </pin:battle>
-        <pin:birthPlace>jakarta</pin:birthPlace>
+        <pin:battle>Revolusi nasional Indonesia, Perlawanan terhadap Penjajahan Jepang </pin:battle>
+        <pin:birthPlace>Jakarta</pin:birthPlace>
         <pin:birthYear>21/02/1939</pin:birthYear>
-        <pin:deathPlace>jakarta</pin:deathPlace>
+        <pin:deathPlace>Jakarta</pin:deathPlace>
         <pin:deathYear>01/10/1965</pin:deathYear>
         <pin:island>Sukawesi Utara</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Tendean.jpg/330px-Tendean.jpg</pin:thumbnail>
@@ -571,10 +545,10 @@
       <pin:hero rdf:about="https://dbpedia.org/page/Karel_Satsuit_Tubun">
         <rdfs:label>Karel Satsuit Tubun</rdfs:label>
         <pin:abstract>Karel Satsuit Tubun (14 Oktober 1928 - 1 Oktober 1965) adalah pahlawan nasional Indonesia yang tewas saat melawan pemberontak komunis dalam percobaan kudeta 30 September 1965. Sebagai pengawal pribadi Wakil Perdana Menteri Johannes Leimena,Tubun ditembak mati saat mencoba mencegah penculikan tokoh militer. Setelah gugur, ia dianugerahi gelar pahlawan nasional dan dipromosikan anumerta. Beberapa fasilitas, termasuk kapal perang KRI Karel Satsuitubun, dinamai untuk menghormatinya.</pin:abstract>
-        <pin:battle>revolusi nasional indonesia, Penentangan terhadap Penjajahan Belanda, Perang Kemerdekaan Lokal</pin:battle>
-        <pin:birthPlace>maluku</pin:birthPlace>
+        <pin:battle>Revolusi nasional Indonesia, Penentangan terhadap Penjajahan Belanda, Perang Kemerdekaan Lokal</pin:battle>
+        <pin:birthPlace>Maluku</pin:birthPlace>
         <pin:birthYear>14/10/19285</pin:birthYear>
-        <pin:deathPlace>jakarta</pin:deathPlace>
+        <pin:deathPlace>Jakarta</pin:deathPlace>
         <pin:deathYear>01/10/1965</pin:deathYear>
         <pin:island>Maluku</pin:island>
         <pin:thumbnail>https://statik.tempo.co/data/2021/10/04/id_1055930/1055930_720.jpg</pin:thumbnail>
@@ -582,28 +556,27 @@
     </pin:hero>
      
       <pin:hero rdf:about="https://example.org/hero/katamso_darmokusumo, ">
-        <rdfs:label>katamso darmokusum</rdfs:label>
+        <rdfs:label>Katamso Darmokusum</rdfs:label>
         <pin:abstract> Katamso Darmokusumo adalah pahlawan nasional Indonesia yang dikenal atas perjuangannya dalam mempertahankan kemerdekaan Indonesia. Sebagai seorang pemimpin militer, beliau terlibat dalam berbagai operasi perlawanan terhadap penjajahan Belanda dan Jepang. Katamso adalah salah satu tokoh penting dalam perjuangan gerilya di Jawa Tengah. Ia gugur dalam pertempuran dan dihormati sebagai pahlawan nasional atas dedikasi dan pengorbanannya bagi bangsa Indonesia.</pin:abstract>
-        <pin:battle>revolusi nasional indonesia, melawan penjajahan Belanda</pin:battle>
-        <pin:birthPlace>sragen</pin:birthPlace>
+        <pin:battle>Revolusi nasional Indonesia, melawan penjajahan Belanda</pin:battle>
+        <pin:birthPlace>Sragen</pin:birthPlace>
         <pin:birthYear>05/02/1923</pin:birthYear>
-        <pin:deathPlace>yogyakarta</pin:deathPlace>
+        <pin:deathPlace>Yogyakarta</pin:deathPlace>
         <pin:deathYear>01/10/1965</pin:deathYear>
-        <pin:island>Jawa Tengah</pin:island>
+        <pin:island>Jawa</pin:island>
         <pin:thumbnail>https://statik.tempo.co/data/2021/10/06/id_1056433/1056433_720.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="https://id.wikipedia.org/wiki/Katamso_Darmokusumo" />
     </pin:hero>
 
       <pin:hero rdf:about="https://example.org/hero/sugiyono_mangunwiyoto, ">
-        <rdfs:label>sugiyono mangunwiyoto</rdfs:label>
-        <pin:abstract> Sugiyono Mangunwiyoto adalah pahlawan nasional Indonesia yang berperan penting dalam perjuangan kemerdekaan, 
-        khususnya di daerah Yogyakarta. Sebagai seorang pemimpin militer, ia terlibat dalam perlawanan terhadap penjajahan Belanda dan Jepang. Dedikasi dan keberaniannya dalam memimpin pasukan gerilya menjadikannya salah satu tokoh penting dalam sejarah kemerdekaan Indonesia. Sugiyono Mangunwiyoto dihormati atas pengorbanannya yang besar bagi bangsa dan negara.</pin:abstract>
-        <pin:battle>revolusi nasional indonesia, Perlawanan terhadap Penjajahan Belanda, enghadapi taktik Belanda yang menggunakan pembantaian, penahanan terhadap pemimpin perlawanan, dan pemburuan gerilyawan.</pin:battle>
-        <pin:birthPlace>gedaren</pin:birthPlace>
+        <rdfs:label>Sugiyono Mangunwiyoto</rdfs:label>
+        <pin:abstract> Sugiyono Mangunwiyoto adalah pahlawan nasional Indonesia yang berperan penting dalam perjuangan kemerdekaan, khususnya di daerah Yogyakarta. Sebagai seorang pemimpin militer, ia terlibat dalam perlawanan terhadap penjajahan Belanda dan Jepang. Dedikasi dan keberaniannya dalam memimpin pasukan gerilya menjadikannya salah satu tokoh penting dalam sejarah kemerdekaan Indonesia. Sugiyono Mangunwiyoto dihormati atas pengorbanannya yang besar bagi bangsa dan negara.</pin:abstract>
+        <pin:battle>Revolusi nasional Indonesia, Perlawanan terhadap Penjajahan Belanda, menghadapi taktik Belanda yang menggunakan pembantaian, penahanan terhadap pemimpin perlawanan, dan pemburuan gerilyawan.</pin:battle>
+        <pin:birthPlace>Gedaren</pin:birthPlace>
         <pin:birthYear>12/08/1926</pin:birthYear>
-        <pin:deathPlace>yogyakarta</pin:deathPlace>
+        <pin:deathPlace>Yogyakarta</pin:deathPlace>
         <pin:deathYear>01/10/1965</pin:deathYear>
-        <pin:island>Jawa Tengah</pin:island>
+        <pin:island>Jawa</pin:island>
         <pin:thumbnail>https://mmc.tirto.id/image/otf/970x0/2017/09/20/kolonel-sugiono_ratio-16x9.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="https://id.wikipedia.org/wiki/Sugiyono_Mangunwiyoto" />
     </pin:hero>
@@ -611,12 +584,12 @@
       <pin:hero rdf:about="https://dbpedia.org/page/Wage_Rudolf_Supratman ">
         <rdfs:label>Wage Rudolf Supratman </rdfs:label>
         <pin:abstract>Wage Rudolf Soepratman (Wage Soepratman dalam ortografi lama atau biasa dikenal dengan W.R. Supratman) (9 Maret 1903 - 17 Agustus 1938) adalah seorang jurnalis dan pencipta lagu Indonesia yang menulis lirik dan melodi lagu kebangsaan Indonesia - "Indonesia Raya" . Beliau adalah Pahlawan Nasional Indonesia.</pin:abstract>
-        <pin:battle> pencipta "indonesia raya", perjuangan melalui seni musik, simbol pergerakan nasional</pin:battle>
-        <pin:birthPlace>purworejo</pin:birthPlace>
+        <pin:battle>Pencipta lagu "Indonesia Raya", perjuangan melalui seni musik, simbol pergerakan nasional</pin:battle>
+        <pin:birthPlace>Purworejo</pin:birthPlace>
         <pin:birthYear>09/02/1903</pin:birthYear>
-        <pin:deathPlace>surabaya</pin:deathPlace>
+        <pin:deathPlace>Surabaya</pin:deathPlace>
         <pin:deathYear>17/08/1938</pin:deathYear>
-        <pin:island>Jawa Timur</pin:island>
+        <pin:island>Jawa</pin:island>
         <pin:thumbnail>https://akcdn.detik.net.id/community/media/visual/2022/03/09/wage-rudolf-soepratman_169.jpeg?w=700q=90</pin:thumbnail>
         <foaf:homepage rdf:resource="http://dbpedia.org/resource/Wage_Rudolf_Supratman" />
     </pin:hero>
@@ -625,40 +598,37 @@
         <rdfs:label>Mohammad Yamin</rdfs:label>
         <pin:abstract>Mohammad Yamin (24 Agustus 1903 - 17 Oktober 1962) adalah seorang penyair, politikus, dan pahlawan nasional Indonesia yang berperan penting dalam penulisan rancangan pembukaan UUD 1945.</pin:abstract>
         <pin:battle>Penyusun naskah Proklamasi Kemerdekaan, perjuangan dalam bidang hukum dan sastra, pengaruh besar dalam pembentukan dasar negara Indonesia</pin:battle>
-        <pin:birthPlace>sawahlunto</pin:birthPlace>
+        <pin:birthPlace>Sawahlunto</pin:birthPlace>
         <pin:birthYear>24/08/1903</pin:birthYear>
-        <pin:deathPlace>jakarta</pin:deathPlace>
+        <pin:deathPlace>Jakarta</pin:deathPlace>
         <pin:deathYear>17/10/1926</pin:deathYear>
-        <pin:island>Sumatera Barat</pin:island>
+        <pin:island>Sumatera</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/6/62/Mohammad_Yamin%2C_Pekan_Buku_Indonesia_1954%2C_p251.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="http://dbpedia.org/resource/Mohammad_Yamin" />
     </pin:hero>
 
       <pin:hero rdf:about="https://example.org/hero/abdul_moeis, ">
-        <rdfs:label>abdul moeis</rdfs:label>
-        <pin:abstract>Abdul Muiis (juga dieja Abdoel Moeis; 1886 - 17 Juli 1959), adalah seorang penulis, jurnalis, dan nasionalis Indonesia. 
-        Ia menganjurkan kemerdekaan Indonesia dari Belanda. Ia merupakan orang pertama yang dinobatkan sebagai pahlawan nasional 
-        oleh Presiden Sukarno.</pin:abstract>
-        <pin:battle>penulis dan sastrawan, penggerak kebangkitan nasional melalui karya-karya literasi dan pendidikan</pin:battle>
-        <pin:birthPlace>sungai puar</pin:birthPlace>
+        <rdfs:label>Abdul Moeis</rdfs:label>
+        <pin:abstract>Abdul Muiis (juga dieja Abdoel Moeis; 1886 - 17 Juli 1959), adalah seorang penulis, jurnalis, dan nasionalis Indonesia. Ia menganjurkan kemerdekaan Indonesia dari Belanda. Ia merupakan orang pertama yang dinobatkan sebagai pahlawan nasional oleh Presiden Sukarno.</pin:abstract>
+        <pin:battle>Penulis dan sastrawan, penggerak kebangkitan nasional melalui karya-karya literasi dan pendidikan</pin:battle>
+        <pin:birthPlace>Sungai Puar</pin:birthPlace>
         <pin:birthYear>03/07/1886</pin:birthYear>
-        <pin:deathPlace>bandung</pin:deathPlace>
+        <pin:deathPlace>Bandung</pin:deathPlace>
         <pin:deathYear>17/06/1959</pin:deathYear>
-         <pin:island>Sumatera Barat</pin:island>
+         <pin:island>Sumatera</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/d/de/Abdul_Muis%2C_Pekan_Buku_Indonesia_1954%2C_p211.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="https://id.wikipedia.org/wiki/Abdoel_Moeis" />
     </pin:hero>
 
       <pin:hero rdf:about="https://dbpedia.org/page/Soenario ">
-        <rdfs:label>seonario sastrowardoyo </rdfs:label>
-        <pin:abstract>Soenario Sastrowardoyo (1902-1997) adalah politisi dan diplomat Indonesia, yang menjabat sebagai Menteri Luar Negeri ke-7 (1953-1955) dalam Kabinet Ali Sastroamidjojo. Ia aktif dalam pergerakan kemerdekaan Indonesia dan organisasi Perhimpoenan Indonesia di Belanda. Setelah meraih pendidikan di Belanda, ia kembali ke Indonesia, menjadi pengacara, dan bergabung dengan perjuangan kemerdekaan. Soenario juga pernah menjabat sebagai Duta Besar untuk Inggris (1956-1961) dan profesor di Universitas Diponegoro. 
-        Ia meninggal pada 18 Mei 1997.</pin:abstract>
-        <pin:battle>diplomat dan tokoh pergerakan, peran dalam perundingan internasional dan perjuangan politik Indonesia</pin:battle>
-        <pin:birthPlace>madiun</pin:birthPlace>
+        <rdfs:label>Soenario Sastrowardoyo </rdfs:label>
+        <pin:abstract>Soenario Sastrowardoyo (1902-1997) adalah politisi dan diplomat Indonesia, yang menjabat sebagai Menteri Luar Negeri ke-7 (1953-1955) dalam Kabinet Ali Sastroamidjojo. Ia aktif dalam pergerakan kemerdekaan Indonesia dan organisasi Perhimpoenan Indonesia di Belanda. Setelah meraih pendidikan di Belanda, ia kembali ke Indonesia, menjadi pengacara, dan bergabung dengan perjuangan kemerdekaan. Soenario juga pernah menjabat sebagai Duta Besar untuk Inggris (1956-1961) dan profesor di Universitas Diponegoro. Ia meninggal pada 18 Mei 1997.</pin:abstract>
+        <pin:battle>Diplomat dan tokoh pergerakan, peran dalam perundingan internasional dan perjuangan politik Indonesia</pin:battle>
+        <pin:birthPlace>Madiun</pin:birthPlace>
         <pin:birthYear>28/08/1902</pin:birthYear>
-        <pin:deathPlace>jakarta</pin:deathPlace>
+        <pin:deathPlace>Jakarta</pin:deathPlace>
         <pin:deathYear>18/05/19976</pin:deathYear>
-        <pin:island>Jawa Tengah</pin:island>
+        <pin:island>Jawa</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/id/thumb/c/c2/Soenario.jpg/330px-Soenario.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="http://dbpedia.org/resource/Soenario" />
     </pin:hero>
@@ -666,50 +636,50 @@
        <pin:hero rdf:about="https://dbpedia.org/page/Amir_Sjarifuddin ">
         <rdfs:label>Amir Sjarifuddin</rdfs:label>
         <pin:abstract>Amir Sjarifuddin Harahap (1907-1948) adalah politikus dan jurnalis Indonesia yang menjabat sebagai Perdana Menteri ke-2 (1947-1948). Ia juga pernah menjadi Menteri Penerangan dan Menteri Pertahanan. Lahir dari keluarga bangsawan, Amir aktif dalam pergerakan kiri dan memimpin Gerindo. Setelah kemerdekaan, ia menjadi Perdana Menteri, namun mengundurkan diri akibat penolakan terhadap Perjanjian Renville. Ia kemudian terlibat dalam Peristiwa Madiun, ditangkap, dan dieksekusi pada 1948.</pin:abstract>
-        <pin:battle>revolusi nasional indonesia, perjuangan kemerdekaan indonesia</pin:battle>
-        <pin:birthPlace>medan</pin:birthPlace>
+        <pin:battle>Revolusi nasional Indonesia, perjuangan kemerdekaan Indonesia</pin:battle>
+        <pin:birthPlace>Medan</pin:birthPlace>
         <pin:birthYear>27/04/1907</pin:birthYear>
-        <pin:deathPlace>yogyakarta</pin:deathPlace>
+        <pin:deathPlace>Yogyakarta</pin:deathPlace>
         <pin:deathYear>19/12/1948</pin:deathYear>
-        <pin:island>Sumatera Barat</pin:island>
+        <pin:island>Sumatera</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Amir_Sjarifoeddin.jpg/330px-Amir_Sjarifoeddin.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="http://dbpedia.org/resource/Amir_Sjarifuddin" />
     </pin:hero>
 
       
       <pin:hero rdf:about="https://example.org/hero/dolly salim, ">
-        <rdfs:label>dolly salim</rdfs:label>
+        <rdfs:label>Dolly Salim</rdfs:label>
         <pin:abstract>Dolly Salim adalah aktivis sosial dan pendidik Indonesia yang dikenal karena perjuangannya dalam pemberdayaan perempuan dan anak-anak. Ia juga aktif dalam berbagai organisasi sosial, menginspirasi banyak perempuan untuk berkontribusi dalam pembangunan sosial di Indonesia.</pin:abstract>
-        <pin:battle>Aktivis perempuan Indonesia, perjuangan dalam bidang sosial dan pendidikan, berperan penting dalam organisasi wanita dan gerakan emansipasin</pin:battle>
-        <pin:birthPlace>bukit tinggi</pin:birthPlace>
+        <pin:battle>Aktivis perempuan Indonesia, perjuangan dalam bidang sosial dan pendidikan, berperan penting dalam organisasi wanita dan gerakan emansipasi</pin:battle>
+        <pin:birthPlace>Bukittinggi</pin:birthPlace>
         <pin:birthYear>26/07/1913</pin:birthYear>
-        <pin:deathPlace>jakarta</pin:deathPlace>
+        <pin:deathPlace>Jakarta</pin:deathPlace>
         <pin:deathYear>24/07/1990</pin:deathYear>
-        <pin:island>Jawa Barat</pin:island>
+        <pin:island>Sumatera</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/id/4/42/Dolly_Salim.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="https://id.wikipedia.org/wiki/Dolly_Salim" />
     </pin:hero>
 
       <pin:hero rdf:about="https://example.org/hero/ki_sarmidi_mangunsarkoro, ">
-        <rdfs:label>ki sarmidi mangunsarkoro</rdfs:label>
+        <rdfs:label>Ki Sarmidi Mangunsarkoro</rdfs:label>
         <pin:abstract>Ki Sarmidi adalah tokoh pergerakan kemerdekaan Indonesia yang dikenal sebagai pemimpin dalam perjuangan melawan penjajahan Belanda di Jawa. Ia aktif dalam organisasi Budi Utomo dan berbagai gerakan nasional lainnya. Ki Sarmidi berperan penting dalam memperjuangkan kemerdekaan Indonesia, khususnya di wilayah Jawa Tengah. Sebagai seorang pemimpin yang berdedikasi, ia dikenal atas kontribusinya dalam memajukan semangat kebangsaan dan nasionalisme.</pin:abstract>
         <pin:battle>Perjuangan kemerdekaan Indonesia, pejuang dalam pergerakan Budi Utomo, penggerak kebangkitan nasional dan peran penting dalam pendidikan</pin:battle>
-        <pin:birthPlace>surakarta</pin:birthPlace>
+        <pin:birthPlace>Surakarta</pin:birthPlace>
         <pin:birthYear>23/05/1904</pin:birthYear>
-        <pin:deathPlace>jakarta</pin:deathPlace>
+        <pin:deathPlace>Jakarta</pin:deathPlace>
         <pin:deathYear>08/06/1957</pin:deathYear>
-        <pin:island>Jawa Tengah</pin:island>
+        <pin:island>Jawa</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/3/30/Sarmidi_Mangunsarkoro_PYO.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="https://id.wikipedia.org/wiki/Ki_Sarmidi_Mangunsarkoro" />
     </pin:hero>
 
       <pin:hero rdf:about="https://example.org/hero/johannes_leimena, ">
-        <rdfs:label>johannes leimena</rdfs:label>
+        <rdfs:label>Johannes Leimena</rdfs:label>
         <pin:abstract>Johannes Leimena (1905-1977) adalah seorang tokoh politik Indonesia dan dokter yang berperan penting dalam perjuangan kemerdekaan dan pembangunan negara. Ia menjabat sebagai Menteri Kesehatan dalam Kabinet Republik Indonesia pada masa awal kemerdekaan dan kemudian sebagai Menteri Sosial. Leimena juga dikenal atas dedikasinya dalam bidang kesehatan dan pengabdian sosial, serta kontribusinya dalam memperkuat persatuan dan pembangunan Indonesia pasca-kemerdekaan.</pin:abstract>
         <pin:battle>Perjuangan kemerdekaan Indonesia, peran dalam diplomasi dan pembangunan nasional pasca-kemerdekaan, tokoh politik dan agama</pin:battle>
-        <pin:birthPlace>ambon</pin:birthPlace>
+        <pin:birthPlace>Ambon</pin:birthPlace>
         <pin:birthYear>06/05/1905</pin:birthYear>
-        <pin:deathPlace>jakarta</pin:deathPlace>
+        <pin:deathPlace>Jakarta</pin:deathPlace>
         <pin:deathYear>26/03/1977</pin:deathYear>
         <pin:island>Maluku</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Johannes_Leimena.jpg/800px-Johannes_Leimena.jpg</pin:thumbnail>
@@ -720,11 +690,11 @@
         <rdfs:label>Adnan Kapau Gani</rdfs:label>
         <pin:abstract>Adnan Kapau Gani (1905-1997) adalah tokoh pergerakan kemerdekaan Indonesia yang juga berperan dalam dunia pendidikan dan politik. Ia dikenal sebagai salah satu pendiri Partai Nasional Indonesia (PNI) dan aktif dalam berbagai organisasi pergerakan nasional. Selain itu, Adnan Kapau Gani pernah menjabat sebagai Menteri Penerangan dan berkontribusi dalam memperjuangkan kemerdekaan serta membangun Indonesia pasca-kemerdekaan. Ia juga berperan dalam memperkuat nasionalisme dan persatuan bangsa.</pin:abstract>
         <pin:battle>Perjuangan kemerdekaan Indonesia, pemimpin militer dan politik, peran penting dalam pertahanan Sumatera dan pembentukan Republik Indonesia</pin:battle>
-        <pin:birthPlace>palembayan</pin:birthPlace>
+        <pin:birthPlace>Palembayan</pin:birthPlace>
         <pin:birthYear>16/09/1905</pin:birthYear>
-        <pin:deathPlace>palembang</pin:deathPlace>
+        <pin:deathPlace>Palembang</pin:deathPlace>
         <pin:deathYear>23/12/1968</pin:deathYear>
-        <pin:island>Sumatera Barat</pin:island>
+        <pin:island>Sumatera</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/A.K._Gani.jpg/800px-A.K._Gani.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="https://id.wikipedia.org/wiki/Adnan_Kapau_Gani" />
     </pin:hero>
@@ -733,23 +703,22 @@
         <rdfs:label>Kasman Singodimedjo</rdfs:label>
         <pin:abstract>Kasman Songoodimedjo (1903-1976) adalah tokoh pergerakan kemerdekaan Indonesia dan seorang jurnalis yang aktif dalam perjuangan melawan penjajahan Belanda. Ia dikenal sebagai pendiri dan pimpinan surat kabar "Kebanggaan" yang mendukung semangat nasionalisme dan kemerdekaan. Kasman juga terlibat dalam berbagai organisasi pergerakan, serta berperan dalam memperjuangkan hak-hak rakyat Indonesia. Setelah kemerdekaan, ia terus aktif dalam dunia politik dan sosial, berkontribusi pada pembangunan bangsa.</pin:abstract>
         <pin:battle>Perjuangan kemerdekaan Indonesia, anggota PPKI, berperan dalam perumusan kemerdekaan dan pengakuan kedaulatan Indonesia</pin:battle>
-        <pin:birthPlace>purworejo</pin:birthPlace>
+        <pin:birthPlace>Purworejo</pin:birthPlace>
         <pin:birthYear>25/02/1904</pin:birthYear>
-        <pin:deathPlace>jakarta</pin:deathPlace>
+        <pin:deathPlace>Jakarta</pin:deathPlace>
         <pin:deathYear>25/10/1982</pin:deathYear>
-        <pin:island>Jawa Tengah</pin:island>
+        <pin:island>Jawa</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/c/c0/Kasman_Singodimedjo.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="https://id.wikipedia.org/wiki/Kasman_Singodimedjo" />
     </pin:hero>
 
      <pin:hero rdf:about="https://dbpedia.org/page/Marthen_Indey ">
-        <rdfs:label>marthen indey </rdfs:label>
-        <pin:abstract>Mayor TNI Marthen Indey (1912–1986) adalah seorang perwira polisi kolonial di Nugini, Hindia Belanda, yang kemudian menjadi pejuang nasionalis dalam Revolusi Nasional Indonesia dan pendukung Papua menjadi bagian dari Indonesia. 
-        Ia dinyatakan sebagai Pahlawan Nasional Indonesia pada tahun 1993 bersama dengan dua tokoh lain berdarah Papua, Frans Kaisiepo dan Silas Papare.</pin:abstract>
+        <rdfs:label>Marthen Indey </rdfs:label>
+        <pin:abstract>Mayor TNI Marthen Indey (1912–1986) adalah seorang perwira polisi kolonial di Nugini, Hindia Belanda, yang kemudian menjadi pejuang nasionalis dalam Revolusi Nasional Indonesia dan pendukung Papua menjadi bagian dari Indonesia. Ia dinyatakan sebagai Pahlawan Nasional Indonesia pada tahun 1993 bersama dengan dua tokoh lain berdarah Papua, Frans Kaisiepo dan Silas Papare.</pin:abstract>
         <pin:battle>perjuangan melawan penjajahan dan mendukung integrasi papua ke indonesia</pin:battle>
-        <pin:birthPlace>jayapura</pin:birthPlace>
+        <pin:birthPlace>Jayapura</pin:birthPlace>
         <pin:birthYear>16/03/1913</pin:birthYear>
-        <pin:deathPlace>jayapura</pin:deathPlace>
+        <pin:deathPlace>Jayapura</pin:deathPlace>
         <pin:deathYear>17/07/1986</pin:deathYear>
         <pin:island>Papua</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Marthen_Indey.jpg/330px-Marthen_Indey.jpg</pin:thumbnail>
@@ -758,196 +727,169 @@
 
       <pin:hero rdf:about="https://dbpedia.org/page/Syarif_Kasim_II ">
         <rdfs:label>Sultan Syarif Kasim ii</rdfs:label>
-        <pin:abstract>Yang Dipertuan Besar Syarif Kasim Abdul Jalil Saifuddin atau Sultan Syarif Kasim II (Jawi: شريف قاسم عبدالجليل سيف الدين‎; 1 Desember 1893 – 23 April 1968) adalah sultan ke-12 sekaligus sultan terakhir dari Kesultanan Siak Sri Indrapura. 
-        Ia dinobatkan sebagai sultan pada usia 23 tahun menggantikan ayahnya. Sultan Syarif Kasim II merupakan pendukung perjuangan kemerdekaan Indonesia. 
-        Setelah Indonesia memproklamasikan kemerdekaan, ia menyerahkan Kesultanan Siak untuk menjadi bagian dari Indonesia yang bersatu, 
-        dan ia menyumbangkan kekayaannya sebesar 13 juta gulden (setara dengan 151 juta gulden atau €69 juta pada tahun 2011).</pin:abstract>
-        <pin:battle>mendukung proklamasi kemerdekaan indonesia</pin:battle>
-        <pin:birthPlace>siak</pin:birthPlace>
+        <pin:abstract>Yang Dipertuan Besar Syarif Kasim Abdul Jalil Saifuddin atau Sultan Syarif Kasim II (Jawi: شريف قاسم عبدالجليل سيف الدين‎; 1 Desember 1893 – 23 April 1968) adalah sultan ke-12 sekaligus sultan terakhir dari Kesultanan Siak Sri Indrapura. Ia dinobatkan sebagai sultan pada usia 23 tahun menggantikan ayahnya. Sultan Syarif Kasim II merupakan pendukung perjuangan kemerdekaan Indonesia. Setelah Indonesia memproklamasikan kemerdekaan, ia menyerahkan Kesultanan Siak untuk menjadi bagian dari Indonesia yang bersatu, dan ia menyumbangkan kekayaannya sebesar 13 juta gulden (setara dengan 151 juta gulden atau €69 juta pada tahun 2011).</pin:abstract>
+        <pin:battle>Mendukung proklamasi kemerdekaan Indonesia</pin:battle>
+        <pin:birthPlace>Siak</pin:birthPlace>
         <pin:birthYear>01/12/1893</pin:birthYear>
-        <pin:deathPlace>pekanbaru</pin:deathPlace>
+        <pin:deathPlace>Pekanbaru</pin:deathPlace>
         <pin:deathYear>23/04/1968</pin:deathYear>
-        <pin:island>Riau</pin:island>
+        <pin:island>Sumatera</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/COLLECTIE_TROPENMUSEUM_Sultan_van_Siak_TMnr_60027152.jpg/300px-COLLECTIE_TROPENMUSEUM_Sultan_van_Siak_TMnr_60027152.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="http://dbpedia.org/resource/Syarif_Kasim_II " />
     </pin:hero>
 
        <pin:hero rdf:about="https://dbpedia.org/page/Agustinus_Adisutjipto">
-        <rdfs:label>Agustinus adisutjipto</rdfs:label>
-        <pin:abstract>Agustinus Adisutjipto (Ejaan yang Disempurnakan: Agustinus Adisucipto, 4 Juli 1916 – 29 Juli 1947) lahir di Salatiga, Jawa Tengah, 
-        dan dibesarkan sebagai seorang Katolik Roma. Ia adalah pilot pertama Angkatan Udara Indonesia yang pesawatnya ditembak jatuh oleh Belanda selama Revolusi Nasional Indonesia. 
-        Ia secara anumerta dinyatakan sebagai Pahlawan Nasional Indonesia pada tahun 1974.</pin:abstract>
+        <rdfs:label>Agustinus Adisutjipto</rdfs:label>
+        <pin:abstract>Agustinus Adisutjipto (Ejaan yang Disempurnakan: Agustinus Adisucipto, 4 Juli 1916 – 29 Juli 1947) lahir di Salatiga, Jawa Tengah, dan dibesarkan sebagai seorang Katolik Roma. Ia adalah pilot pertama Angkatan Udara Indonesia yang pesawatnya ditembak jatuh oleh Belanda selama Revolusi Nasional Indonesia. Ia secara anumerta dinyatakan sebagai Pahlawan Nasional Indonesia pada tahun 1974.</pin:abstract>
         <pin:battle>Perjuangan Agustinus Adisutjipto berfokus pada kontribusinya dalam bidang penerbangan selama Revolusi Nasional Indonesia.</pin:battle>
         <pin:birthPlace>Salatiga</pin:birthPlace>
         <pin:birthYear>04/07/1916</pin:birthYear>
-        <pin:deathPlace>yogyakarta</pin:deathPlace>
+        <pin:deathPlace>Yogyakarta</pin:deathPlace>
         <pin:deathYear>29/07/1947</pin:deathYear>
-        <pin:island>Jawa Tengah</pin:island>
+        <pin:island>Jawa</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Potret_Adisucipto.jpg/330px-Potret_Adisucipto.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="https://dbpedia.org/page/Agustinus_Adisutjipto " />
     </pin:hero>
 
       <pin:hero rdf:about="https://dbpedia.org/page/Abdulrahman_Saleh_(physician)">
         <rdfs:label>Abdulrahman Saleh</rdfs:label>
-        <pin:abstract>Abdulrahman Saleh (1 Juli 1909 – 29 Juli 1947) adalah seorang dokter dan penerbang Indonesia yang pesawatnya ditembak jatuh oleh Belanda selama Revolusi Nasional Indonesia. 
-        Ia juga merupakan salah satu pendiri Radio Republik Indonesia. Ia secara anumerta dinyatakan sebagai Pahlawan Nasional Indonesia pada tahun 1974.</pin:abstract>
+        <pin:abstract>Abdulrahman Saleh (1 Juli 1909 – 29 Juli 1947) adalah seorang dokter dan penerbang Indonesia yang pesawatnya ditembak jatuh oleh Belanda selama Revolusi Nasional Indonesia. Ia juga merupakan salah satu pendiri Radio Republik Indonesia. Ia secara anumerta dinyatakan sebagai Pahlawan Nasional Indonesia pada tahun 1974.</pin:abstract>
         <pin:battle>Abdulrahman Saleh adalah tokoh penting dalam sejarah perjuangan Indonesia, terutama dalam bidang kedokteran, penerbangan, dan kemerdekaan.</pin:battle>
-        <pin:birthPlace>jakarta</pin:birthPlace>
+        <pin:birthPlace>Jakarta</pin:birthPlace>
         <pin:birthYear>01/07/1909</pin:birthYear>
-        <pin:deathPlace>yogyakarta</pin:deathPlace>
+        <pin:deathPlace>Yogyakarta</pin:deathPlace>
         <pin:deathYear>29/07/1947</pin:deathYear>
-        <pin:island>Jawa Timur</pin:island>
+        <pin:island>Jawa</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/AbdulrachmanSaleh.jpg/330px-AbdulrachmanSaleh.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="https://dbpedia.org/page/Abdulrahman_Saleh_(physician) " />
     </pin:hero>
 
        <pin:hero rdf:about="https://dbpedia.org/page/Sukarni">
         <rdfs:label>Sukarni</rdfs:label>
-        <pin:abstract>Sukarni Kartodiwirjo (14 Juli 1916 – 7 Mei 1971) adalah seorang pejuang kemerdekaan Indonesia dan aktivis 
-        yang memperjuangkan kemerdekaan Indonesia selama era penjajahan Belanda dan pendudukan Jepang,
-        serta menjabat sebagai ketua Partai Murba hingga wafatnya.</pin:abstract>
-        <pin:battle>berperan dalam Proklamasi Kemerdekaan Indonesia, Menghadapi Agresi Militer Belanda, dan Pngorbanan dan Keteguhan dalam Mempertahankan Kemerdekaan</pin:battle>
-        <pin:birthPlace>blitar</pin:birthPlace>
+        <pin:abstract>Sukarni Kartodiwirjo (14 Juli 1916 – 7 Mei 1971) adalah seorang pejuang kemerdekaan Indonesia dan aktivis yang memperjuangkan kemerdekaan Indonesia selama era penjajahan Belanda dan pendudukan Jepang,serta menjabat sebagai ketua Partai Murba hingga wafatnya.</pin:abstract>
+        <pin:battle>Berperan dalam Proklamasi Kemerdekaan Indonesia, Menghadapi Agresi Militer Belanda, dan Pngorbanan dan Keteguhan dalam Mempertahankan Kemerdekaan</pin:battle>
+        <pin:birthPlace>Blitar</pin:birthPlace>
         <pin:birthYear>14/07/1916</pin:birthYear>
-        <pin:deathPlace>jakarta</pin:deathPlace>
+        <pin:deathPlace>Jakarta</pin:deathPlace>
         <pin:deathYear>07/05/1971</pin:deathYear>
-        <pin:island>Jawa Barat</pin:island>
+        <pin:island>Jawa</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/b/bf/Sukarni_Nasional_24_Aug_1960_p2.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="https://dbpedia.org/page/Sukarni" />
     </pin:hero>
   
        <pin:hero rdf:about="https://dbpedia.org/page/Muhammad_Yasin">
         <rdfs:label>Muhammad Yasin </rdfs:label>
-        <pin:abstract>Komisaris Jenderal Muhammad Jasin (9 Juni 1920 – 3 Mei 2012) adalah Pahlawan Nasional Indonesia yang meninggal pada 3 Mei 2012 di RS Polri Kramat Jati. 
-        Ia dimakamkan di Taman Makam Pahlawan Kalibata. Pada 5 November 2015, ia dianugerahi gelar Pahlawan Nasional Indonesia 
-        bersama Bernard Wilhem Lapian, Mas Isman, I Gusti Ngurah Made Agung, oleh Presiden Joko Widodo.</pin:abstract>
-        <pin:battle>bperjuangan melawan penjajah belanda, berperan dalam organisasi militer, penghargaan sebagai pahlawan nasional</pin:battle>
-        <pin:birthPlace>baubau</pin:birthPlace>
+        <pin:abstract>Komisaris Jenderal Muhammad Jasin (9 Juni 1920 – 3 Mei 2012) adalah Pahlawan Nasional Indonesia yang meninggal pada 3 Mei 2012 di RS Polri Kramat Jati. Ia dimakamkan di Taman Makam Pahlawan Kalibata. Pada 5 November 2015, ia dianugerahi gelar Pahlawan Nasional Indonesia bersama Bernard Wilhem Lapian, Mas Isman, I Gusti Ngurah Made Agung, oleh Presiden Joko Widodo.</pin:abstract>
+        <pin:battle>Perjuangan melawan penjajah Belanda, berperan dalam organisasi militer, penghargaan sebagai pahlawan nasional</pin:battle>
+        <pin:birthPlace>Baubau</pin:birthPlace>
         <pin:birthYear>09/06/1920</pin:birthYear>
-        <pin:deathPlace>jakarta</pin:deathPlace>
+        <pin:deathPlace>Jakarta</pin:deathPlace>
         <pin:deathYear>03/05/2012</pin:deathYear>
-        <pin:island>Banten</pin:island>
+        <pin:island>Sulawesi</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/id/thumb/f/f0/Moehammad_Jasin.jpg/330px-Moehammad_Jasin.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="https://dbpedia.org/page/Muhammad_Yasin" />
     </pin:hero>
 
        <pin:hero rdf:about="https://dbpedia.org/page/Andi_Abdullah_Bau_Massepe">
         <rdfs:label>Andi Abdullah Bau Massepe </rdfs:label>
-        <pin:abstract>Andi Abdullah Bau Massepe (1918 – 2 Februari 1947) adalah seorang bangsawan Bugis-Indonesia yang memimpin serangan terhadap pasukan Belanda selama Revolusi Nasional Indonesia. 
-        Beliau adalah putra dari Andi Mappanyukki. Pada 9 November 2005, Andi Abdullah Bau Massepe dianugerahi gelar Pahlawan Nasional Indonesia secara anumerta 
-        sebagai penghargaan atas perjuangannya dalam mempertahankan kemerdekaan Indonesia.</pin:abstract>
-        <pin:battle>pemimpin perlawanan di sulawesi selatan, menggerakkan pemudan dan gerakan bersenjata, penghargaan sebagai pahlawan nasional</pin:battle>
-        <pin:birthPlace>massepe</pin:birthPlace>
+        <pin:abstract>Andi Abdullah Bau Massepe (1918 – 2 Februari 1947) adalah seorang bangsawan Bugis-Indonesia yang memimpin serangan terhadap pasukan Belanda selama Revolusi Nasional Indonesia. Beliau adalah putra dari Andi Mappanyukki. Pada 9 November 2005, Andi Abdullah Bau Massepe dianugerahi gelar Pahlawan Nasional Indonesia secara anumerta sebagai penghargaan atas perjuangannya dalam mempertahankan kemerdekaan Indonesia.</pin:abstract>
+        <pin:battle>Pemimpin perlawanan di Sulawesi Selatan, menggerakkan pemuda dan gerakan bersenjata, penghargaan sebagai pahlawan nasional</pin:battle>
+        <pin:birthPlace>Massepe</pin:birthPlace>
         <pin:birthYear>1918</pin:birthYear>
-        <pin:deathPlace>sulawesi</pin:deathPlace>
+        <pin:deathPlace>Sulawesi</pin:deathPlace>
         <pin:deathYear>02/02/1947</pin:deathYear>
-        <pin:island>Sulawesi Selatan</pin:island>
+        <pin:island>Sulawesi</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Andi_Abdullah_Bau_Massepe.jpg/330px-Andi_Abdullah_Bau_Massepe.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="https://dbpedia.org/page/Andi_Abdullah_Bau_Massepe" />
     </pin:hero>
 
        <pin:hero rdf:about="https://dbpedia.org/page/Slamet_Rijadi">
         <rdfs:label>Slamet Rijadi </rdfs:label>
-        <pin:abstract>Brigadir Jenderal Ignatius Slamet Rijadi (lahir 26 Juli 1927 – meninggal 4 November 1950) adalah seorang tentara Indonesia. 
-        Rijadi dilahirkan di Surakarta, Jawa Tengah, dari pasangan seorang tentara dan pedagang buah. Pada masa kecilnya, 
-        ia dipindahtangankan ke rumah pamannya dan diberi nama baru untuk mengobati penyakitnya. 
-        Ia dibesarkan di rumah orang tuanya dan belajar di sekolah-sekolah yang dikelola oleh Belanda.</pin:abstract>
+        <pin:abstract>Brigadir Jenderal Ignatius Slamet Rijadi (lahir 26 Juli 1927 – meninggal 4 November 1950) adalah seorang tentara Indonesia. Rijadi dilahirkan di Surakarta, Jawa Tengah, dari pasangan seorang tentara dan pedagang buah. Pada masa kecilnya, ia dipindahtangankan ke rumah pamannya dan diberi nama baru untuk mengobati penyakitnya. Ia dibesarkan di rumah orang tuanya dan belajar di sekolah-sekolah yang dikelola oleh Belanda.</pin:abstract>
         <pin:battle>perlawanan terhadap jepang, peran dalam tentara nasional indonesia, kepemimpinan dalam perang kemerdekaan </pin:battle>
-        <pin:birthPlace>surakarta</pin:birthPlace>
+        <pin:birthPlace>Surakarta</pin:birthPlace>
         <pin:birthYear>26/07/1927</pin:birthYear>
-        <pin:deathPlace>ambon</pin:deathPlace>
+        <pin:deathPlace>Ambon</pin:deathPlace>
         <pin:deathYear>04/11/1950</pin:deathYear>
-        <pin:island>jawa Tengah</pin:island>
+        <pin:island>Jawa</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Zaterdag%2C_12_november_werd_in_het_stadion_te_Solo_een_grote_massabijeenkomst_geh%2C_Bestanddeelnr_924_%28Slamet_Rijadi%2C_cropped%29.jpg/330px-Zaterdag%2C_12_november_werd_in_het_stadion_te_Solo_een_grote_massabijeenkomst_geh%2C_Bestanddeelnr_924_%28Slamet_Rijadi%2C_cropped%29.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="https://dbpedia.org/page/Slamet_Rijadi" />
     </pin:hero>
 
        <pin:hero rdf:about="https://dbpedia.org/page/Eddy_Martadinata">
         <rdfs:label>Eddy Martadinata</rdfs:label>
-        <pin:abstract>Admiral Raden Eddy Martadinata (sering disingkat R. E. Martadinata; lahir 29 Maret 1921 – meninggal 6 Oktober 1966) adalah seorang laksamana Angkatan Laut Indonesia dan diplomat. 
-        Beliau diberikan gelar Pahlawan Nasional Indonesia secara anumerta pada tahun 1966. Martadinata diakui sebagai salah satu pendiri Tentara Nasional Indonesia Angkatan Laut (TNI AL).</pin:abstract>
-        <pin:battle>pendiri tentara nasional angkatan laut indonesia, penguatan pertahanan laut indonesia, pahlawan nasional </pin:battle>
-        <pin:birthPlace>bandung</pin:birthPlace>
+        <pin:abstract>Admiral Raden Eddy Martadinata (sering disingkat R. E. Martadinata; lahir 29 Maret 1921 – meninggal 6 Oktober 1966) adalah seorang laksamana Angkatan Laut Indonesia dan diplomat. Beliau diberikan gelar Pahlawan Nasional Indonesia secara anumerta pada tahun 1966. Martadinata diakui sebagai salah satu pendiri Tentara Nasional Indonesia Angkatan Laut (TNI AL).</pin:abstract>
+        <pin:battle>Pendiri tentara nasional angkatan laut Indonesia, penguatan pertahanan laut Indonesia, pahlawan nasional </pin:battle>
+        <pin:birthPlace>Bandung</pin:birthPlace>
         <pin:birthYear>29/03/1921</pin:birthYear>
-        <pin:deathPlace>cisarua</pin:deathPlace>
+        <pin:deathPlace>Cisarua</pin:deathPlace>
         <pin:deathYear>06/10/1966</pin:deathYear>
-        <pin:island>jawa Barat</pin:island>
+        <pin:island>Jawa</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/R.E_Martadinata_colorized_by_colorbykevin.jpg/330px-R.E_Martadinata_colorized_by_colorbykevin.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="https://dbpedia.org/page/Eddy_Martadinata" />
     </pin:hero>
 
        <pin:hero rdf:about="https://dbpedia.org/page/Iswahyudi">
         <rdfs:label>Iswahyudi</rdfs:label>
-        <pin:abstract>Komodor Udara Iswahyudi (lahir 15 Juli 1918; hilang 14 Desember 1947) adalah seorang penerbang Indonesia dan Pahlawan Nasional. 
-        Pada 14 Desember 1947, pesawat yang ia tumpangi bersama Halim Perdanakusuma jatuh di lepas pantai Bukit Tanjung Hantu, Perak, Uni Malaya. 
-        Jenazah Halim ditemukan kemudian, namun jenazah Iswahyudi tidak pernah ditemukan.</pin:abstract>
-        <pin:battle>pengembangan kekuatan angkatan udara indonesia</pin:battle>
-        <pin:birthPlace>klaten</pin:birthPlace>
+        <pin:abstract>Komodor Udara Iswahyudi (lahir 15 Juli 1918; hilang 14 Desember 1947) adalah seorang penerbang Indonesia dan Pahlawan Nasional. Pada 14 Desember 1947, pesawat yang ia tumpangi bersama Halim Perdanakusuma jatuh di lepas pantai Bukit Tanjung Hantu, Perak, Uni Malaya. Jenazah Halim ditemukan kemudian, namun jenazah Iswahyudi tidak pernah ditemukan.</pin:abstract>
+        <pin:battle>Pengembangan kekuatan angkatan udara Indonesia</pin:battle>
+        <pin:birthPlace>Klaten</pin:birthPlace>
         <pin:birthYear>19/03/1922</pin:birthYear>
-        <pin:deathPlace>malaysia</pin:deathPlace>
+        <pin:deathPlace>Malaysia</pin:deathPlace>
         <pin:deathYear>14/12/1947</pin:deathYear>
-        <pin:island>jawa  Tengah</pin:island>
+        <pin:island>Jawa</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Iswahyudi_dan_keluarga.jpg/330px-Iswahyudi_dan_keluarga.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="https://dbpedia.org/page/Iswahyudi" />
     </pin:hero>
 
        <pin:hero rdf:about="https://dbpedia.org/page/Iwa_Koesoemasoemantri">
-        <rdfs:label>Iwa koesoemasoemantri</rdfs:label>
-        <pin:abstract>Iwa Koesoemasoemantri adalah seorang politikus Indonesia. Lahir di Ciamis, Jawa Barat, 
-        Iwa lulus dari sekolah hukum di Hindia Belanda (sekarang Indonesia) dan Belanda sebelum melanjutkan pendidikan di Uni Soviet. 
-        Setelah kembali ke Indonesia, ia menjadi seorang pengacara, nasionalis, dan kemudian tokoh yang memperjuangkan hak-hak buruh. 
-        Selama dua puluh tahun pertama kemerdekaan Indonesia, Iwa memegang beberapa posisi di kabinet. Setelah pensiun, ia terus menulis. 
-        Pada tahun 2002, Iwa dinyatakan sebagai Pahlawan Nasional Indonesia.</pin:abstract>
-        <pin:battle>pergerakan nasionalisme dan kemerdekaan</pin:battle>
-        <pin:birthPlace>ciamis</pin:birthPlace>
+        <rdfs:label>Iwa Koesoemasoemantri</rdfs:label>
+        <pin:abstract>Iwa Koesoemasoemantri adalah seorang politikus Indonesia. Lahir di Ciamis, Jawa Barat, Iwa lulus dari sekolah hukum di Hindia Belanda (sekarang Indonesia) dan Belanda sebelum melanjutkan pendidikan di Uni Soviet. Setelah kembali ke Indonesia, ia menjadi seorang pengacara, nasionalis, dan kemudian tokoh yang memperjuangkan hak-hak buruh. Selama dua puluh tahun pertama kemerdekaan Indonesia, Iwa memegang beberapa posisi di kabinet. Setelah pensiun, ia terus menulis. Pada tahun 2002, Iwa dinyatakan sebagai Pahlawan Nasional Indonesia.</pin:abstract>
+        <pin:battle>Pergerakan nasionalisme dan kemerdekaan</pin:battle>
+        <pin:birthPlace>Ciamis</pin:birthPlace>
         <pin:birthYear>31/05/1899</pin:birthYear>
-        <pin:deathPlace>malaysia</pin:deathPlace>
+        <pin:deathPlace>Malaysia</pin:deathPlace>
         <pin:deathYear>27/11/1971</pin:deathYear>
-        <pin:island>Jawa Barat</pin:island>
+        <pin:island>Jakarta</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Iwa_Kusumasumantri%2C_Kami_Perkenalkan_%281954%29%2C_p21.jpg/330px-Iwa_Kusumasumantri%2C_Kami_Perkenalkan_%281954%29%2C_p21.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="https://dbpedia.org/page/Iwa_Koesoemasoemantri" />
     </pin:hero>
 
       <pin:hero rdf:about="https://dbpedia.org/page/Arie_Frederik_Lasut">
         <rdfs:label>Arie Frederik Lasut</rdfs:label>
-        <pin:abstract>Arie Frederik Lasut adalah seorang Pahlawan Nasional Indonesia, yang dikenal karena keterlibatannya dalam perjuangan kemerdekaan Indonesia serta upayanya dalam memajukan infrastruktur pertambangan dan geologi negara pada awal-awal kemerdekaannya. 
-        Arie Lasut lahir di Kapataran, sebuah desa di kecamatan Minahasa, provinsi Sulawesi Utara. Ia adalah anak pertama dari delapan bersaudara yang lahir dari pasangan Darius Lasut dan Ingkan Supit. 
-        Saudaranya, Willy Lasut, kelak menjadi gubernur Sulawesi Utara.</pin:abstract>
-        <pin:battle>pergerakan nasionalisme dan kemerdekaan</pin:battle>
-        <pin:birthPlace>sulawesi utara</pin:birthPlace>
+        <pin:abstract>Arie Frederik Lasut adalah seorang Pahlawan Nasional Indonesia, yang dikenal karena keterlibatannya dalam perjuangan kemerdekaan Indonesia serta upayanya dalam memajukan infrastruktur pertambangan dan geologi negara pada awal-awal kemerdekaannya. Arie Lasut lahir di Kapataran, sebuah desa di kecamatan Minahasa, provinsi Sulawesi Utara. Ia adalah anak pertama dari delapan bersaudara yang lahir dari pasangan Darius Lasut dan Ingkan Supit. Saudaranya, Willy Lasut, kelak menjadi gubernur Sulawesi Utara.</pin:abstract>
+        <pin:battle>Pergerakan nasionalisme dan kemerdekaan</pin:battle>
+        <pin:birthPlace>Sulawesi Utara</pin:birthPlace>
         <pin:birthYear>06/07/1918</pin:birthYear>
-        <pin:deathPlace>yogyakarta</pin:deathPlace>
+        <pin:deathPlace>Yogyakarta</pin:deathPlace>
         <pin:deathYear>07/05/1949</pin:deathYear>
-        <pin:island>Sulawesi Utara</pin:island>
+        <pin:island>Sulawesi</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/43/Arie_Frederik_Lasut_%28died_1949%29.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="https://dbpedia.org/page/Arie_Frederik_Lasut" />
     </pin:hero>
 
       <pin:hero rdf:about="https://dbpedia.org/page/Arnold_Mononutu">
         <rdfs:label>Arnoldus Mononutu</rdfs:label>
-        <pin:abstract>Arie Frederik Lasut adalah seorang Pahlawan Nasional Indonesia, yang dikenal karena keterlibatannya dalam perjuangan kemerdekaan Indonesia serta upayanya dalam memajukan infrastruktur pertambangan dan geologi negara pada awal-awal kemerdekaannya. 
-        Arie Lasut lahir di Kapataran, sebuah desa di kecamatan Minahasa, provinsi Sulawesi Utara. Ia adalah anak pertama dari delapan bersaudara yang lahir dari pasangan Darius Lasut dan Ingkan Supit. 
-        Saudaranya, Willy Lasut, kelak menjadi gubernur Sulawesi Utara.</pin:abstract>
-        <pin:battle>pergerakan nasionalisme dan kemerdekaan</pin:battle>
-        <pin:birthPlace>manado</pin:birthPlace>
+        <pin:abstract>Arnoldus Isaac Zacharias Mononutu (4 Desember 1896 – 5 September 1983) adalah seorang nasionalis Indonesia, politisi, dan pahlawan nasional Indonesia asal Sulawesi Utara, yang menjabat sebagai Menteri Penerangan pada 1949 hingga 1950, dan kemudian kembali menjabat pada 1951 hingga 1953. Ia kemudian menjadi Duta Besar pertama Indonesia untuk Tiongkok, serta Rektor ketiga Universitas Hasanuddin. Sebagai anggota Partai Nasional Indonesia, Mononutu juga terlibat dalam perjuangan kemerdekaan Indonesia. Ia mendapatkan rasa nasionalisme-nya selama studi pasca-sekolah menengah di Belanda. Pada tahun 2020, ia dianugerahi gelar Pahlawan Nasional Indonesia secara anumerta.</pin:abstract>
+        <pin:battle>Pergerakan nasionalisme dan kemerdekaan</pin:battle>
+        <pin:birthPlace>Manado</pin:birthPlace>
         <pin:birthYear>04/12/1896</pin:birthYear>
-        <pin:deathPlace>jakarta</pin:deathPlace>
+        <pin:deathPlace>Jakarta</pin:deathPlace>
         <pin:deathYear>05/09/1083</pin:deathYear>
-        <pin:island>Sulawesi Utara</pin:island>
+        <pin:island>Sulawesi</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Arnold_Mononutu%2C_Kami_Perkenalkan_%281954%29%2C_p61.jpg/330px-Arnold_Mononutu%2C_Kami_Perkenalkan_%281954%29%2C_p61.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="https://dbpedia.org/page/Arnold_Mononutu" />
     </pin:hero>
 
      <pin:hero rdf:about="https://dbpedia.org/page/Johannes_Abraham_Dimara">
         <rdfs:label>Johanes Abraham Dimara</rdfs:label>
-        <pin:abstract>AJohannes Abraham Dimara adalah tokoh penting dalam perjuangan kemerdekaan Indonesia, 
-        khususnya dalam usaha pembebasan dan integrasi Irian Barat (sekarang Papua) ke dalam wilayah Indonesia.</pin:abstract>
-        <pin:battle>perjuangan untuk pembebasan irian barat, operasi militer</pin:battle>
-        <pin:birthPlace>biak</pin:birthPlace>
+        <pin:abstract>AJohannes Abraham Dimara adalah tokoh penting dalam perjuangan kemerdekaan Indonesia, khususnya dalam usaha pembebasan dan integrasi Irian Barat (sekarang Papua) ke dalam wilayah Indonesia.</pin:abstract>
+        <pin:battle>Perjuangan untuk pembebasan Irian Barat, operasi militer</pin:battle>
+        <pin:birthPlace>Biak</pin:birthPlace>
         <pin:birthYear>16/04/1916</pin:birthYear>
-        <pin:deathPlace>jakarta</pin:deathPlace>
+        <pin:deathPlace>Jakarta</pin:deathPlace>
         <pin:deathYear>20/10/2000</pin:deathYear>
-        <pin:island>Papua</pin:island>
+        <pin:island>Sulawesi</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Johannes_Abraham_Dimara.jpg/330px-Johannes_Abraham_Dimara.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="https://dbpedia.org/page/Johannes_Abraham_Dimara" />
     </pin:hero>
@@ -955,86 +897,76 @@
       
      <pin:hero rdf:about="https://dbpedia.org/page/Dewi_Sartika">
         <rdfs:label>Dewi Sartika</rdfs:label>
-        <pin:abstract>Dewi Sartika (4 Desember 1884 – 11 September 1947) adalah seorang pejuang dan pelopor pendidikan bagi perempuan di Indonesia. 
-        Ia mendirikan sekolah pertama untuk perempuan di Hindia Belanda. Atas jasanya, Dewi Sartika dianugerahi gelar Pahlawan Nasional Indonesia pada tahun 1966.</pin:abstract>
-        <pin:battle>pendiri sekolah istri, melakukan kampanye untuk pendidikan perempuan, reformasi sosial dan budaya</pin:battle>
-        <pin:birthPlace>cicalengka</pin:birthPlace>
+        <pin:abstract>Dewi Sartika (4 Desember 1884 – 11 September 1947) adalah seorang pejuang dan pelopor pendidikan bagi perempuan di Indonesia. Ia mendirikan sekolah pertama untuk perempuan di Hindia Belanda. Atas jasanya, Dewi Sartika dianugerahi gelar Pahlawan Nasional Indonesia pada tahun 1966.</pin:abstract>
+        <pin:battle>Pendiri sekolah istri, melakukan kampanye untuk pendidikan perempuan, reformasi sosial dan budaya</pin:battle>
+        <pin:birthPlace>Cicalengka</pin:birthPlace>
         <pin:birthYear>04/12/1884</pin:birthYear>
-        <pin:deathPlace>tasikmalaya</pin:deathPlace>
+        <pin:deathPlace>Tasikmalaya</pin:deathPlace>
         <pin:deathYear>11/09/1947</pin:deathYear>
-        <pin:island>Jawa Barat</pin:island>
+        <pin:island>Jawa</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Raden_Dewi_Sartika.jpg/330px-Raden_Dewi_Sartika.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="https://dbpedia.org/page/Dewi_Sartika" />
     </pin:hero>
 
       <pin:hero rdf:about="https://dbpedia.org/page/Djamin_Ginting">
         <rdfs:label>Djamin Ginting</rdfs:label>
-        <pin:abstract>Letnan Jenderal Djamin Ginting (12 Januari 1921 – 23 Oktober 1974) adalah seorang perwira militer Indonesia dan pejuang kemerdekaan yang berasal dari Tanah Karo. 
-        Ia dianugerahi gelar Pahlawan Nasional Indonesia oleh Presiden Joko Widodo pada 7 November 2014.</pin:abstract>
-        <pin:battle>pemimpin dalam revolusi nasional indonesia, kehalian dalam perang gerilya, berperan dalam pertarungan tuntung pulo</pin:battle>
-        <pin:birthPlace>tigapanah</pin:birthPlace>
+        <pin:abstract>Letnan Jenderal Djamin Ginting (12 Januari 1921 – 23 Oktober 1974) adalah seorang perwira militer Indonesia dan pejuang kemerdekaan yang berasal dari Tanah Karo. Ia dianugerahi gelar Pahlawan Nasional Indonesia oleh Presiden Joko Widodo pada 7 November 2014.</pin:abstract>
+        <pin:battle>Pemimpin dalam revolusi nasional Indonesia, keahlian dalam perang gerilya, berperan dalam pertarungan tuntung pulo</pin:battle>
+        <pin:birthPlace>Tigapanah</pin:birthPlace>
         <pin:birthYear>12/01/1921</pin:birthYear>
-        <pin:deathPlace>kanada</pin:deathPlace>
+        <pin:deathPlace>Kanada</pin:deathPlace>
         <pin:deathYear>23/10/1974</pin:deathYear>
-        <pin:island>Sumatera Utara</pin:island>
+        <pin:island>Sumatera</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/c/c0/Djamin_Ginting.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="https://dbpedia.org/page/Djamin_Ginting" />
     </pin:hero>
 
       <pin:hero rdf:about="https://dbpedia.org/page/Djatikoesoemo">
         <rdfs:label>Djatikoesoemo</rdfs:label>
-        <pin:abstract>Goesti Pangeran Harjo Djatikoesoemo (1 Juli 1917 – 4 Juli 1992) adalah seorang perwira dan diplomat Angkatan Darat Indonesia 
-        yang menjabat sebagai Kepala Staf Angkatan Darat Indonesia yang pertama (1948–1949) dan Duta Besar untuk Singapura (1958–1960). 
-        Beliau merupakan anggota Keluarga Kerajaan Surakarta, putra ke-23 Pakubuwono X. Jenazahnya dimakamkan di pekuburan kerajaan di Imogiri, Bantul, Yogyakarta. 
-        Ia diakui sebagai Pahlawan Nasional Indonesia pada tahun 2002.</pin:abstract>
-        <pin:battle>perjuangan dalam perang kemerdekaan, berperan dalam organisasi perjuangan</pin:battle>
-        <pin:birthPlace>surakarta</pin:birthPlace>
+        <pin:abstract>Goesti Pangeran Harjo Djatikoesoemo (1 Juli 1917 – 4 Juli 1992) adalah seorang perwira dan diplomat Angkatan Darat Indonesia yang menjabat sebagai Kepala Staf Angkatan Darat Indonesia yang pertama (1948–1949) dan Duta Besar untuk Singapura (1958–1960). Beliau merupakan anggota Keluarga Kerajaan Surakarta, putra ke-23 Pakubuwono X. Jenazahnya dimakamkan di pekuburan kerajaan di Imogiri, Bantul, Yogyakarta. Ia diakui sebagai Pahlawan Nasional Indonesia pada tahun 2002.</pin:abstract>
+        <pin:battle>Perjuangan dalam perang kemerdekaan, berperan dalam organisasi perjuangan</pin:battle>
+        <pin:birthPlace>Surakarta</pin:birthPlace>
         <pin:birthYear>01/07/1071</pin:birthYear>
-        <pin:deathPlace>jakarta</pin:deathPlace>
+        <pin:deathPlace>Jakarta</pin:deathPlace>
         <pin:deathYear>04/07/1992</pin:deathYear>
-        <pin:island>Jawa Tengah</pin:island>
+        <pin:island>Jawa</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/6/63/Djatikusumo.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="https://dbpedia.org/page/Djatikoesoemo" />
     </pin:hero>
 
       <pin:hero rdf:about="https://dbpedia.org/page/Djuanda_Kartawidjaja">
         <rdfs:label>Djuanda Kartawidjaja</rdfs:label>
-        <pin:abstract>Raden Djuanda Kartawidjaja (EYD: Raden Juanda Kartawijaya; 14 Januari 1911 – 7 November 1963), yang lebih dikenal sebagai Djuanda Kartawidjaja, sering disebut hanya sebagai Djuanda, 
-        adalah seorang politisi Indonesia dan bangsawan Sunda dari keraton Cirebon, yang menjabat sebagai Perdana Menteri Indonesia ke-11 dan terakhir.</pin:abstract>
-        <pin:battle>perjuangan deklarasi djuanda, perjuangan di forum internasional, peran sebagai perdana menteri</pin:battle>
-        <pin:birthPlace>tasikmalaya</pin:birthPlace>
+        <pin:abstract>Raden Djuanda Kartawidjaja (EYD: Raden Juanda Kartawijaya; 14 Januari 1911 – 7 November 1963), yang lebih dikenal sebagai Djuanda Kartawidjaja, sering disebut hanya sebagai Djuanda, adalah seorang politisi Indonesia dan bangsawan Sunda dari keraton Cirebon, yang menjabat sebagai Perdana Menteri Indonesia ke-11 dan terakhir.</pin:abstract>
+        <pin:battle>Perjuangan Deklarasi Djuanda, perjuangan di forum internasional, peran sebagai perdana menteri</pin:battle>
+        <pin:birthPlace>Tasikmalaya</pin:birthPlace>
         <pin:birthYear>14/01/1911</pin:birthYear>
-        <pin:deathPlace>jakarta</pin:deathPlace>
+        <pin:deathPlace>Jakarta</pin:deathPlace>
         <pin:deathYear>7/11/1963</pin:deathYear>
-        <pin:island>Jawa Barat</pin:island>
+        <pin:island>Jawa</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/8/84/Djuanda_Kartawidjaja.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="https://dbpedia.org/page/Djuanda_Kartawidjaja" />
     </pin:hero>
 
       <pin:hero rdf:about="https://dbpedia.org/page/Maria_Walanda_Maramis">
         <rdfs:label>Maria Walanda Maramis</rdfs:label>
-        <pin:abstract>Maria Josephine Catherine Maramis (1 Desember 1872 – 22 April 1924), yang lebih dikenal sebagai Maria Walanda Maramis, 
-        diakui sebagai Pahlawan Nasional Indonesia atas usahanya dalam memperjuangkan hak-hak dan kondisi perempuan di Indonesia pada awal abad ke-20.</pin:abstract>
-        <pin:battle>mendirikan pikat (percintaan ibu kepada anak turunannya), meningkatkan kesadaran akan pentingnya pendidikan perempuan </pin:battle>
-        <pin:birthPlace>sulawesi utara</pin:birthPlace>
+        <pin:abstract>Maria Josephine Catherine Maramis (1 Desember 1872 – 22 April 1924), yang lebih dikenal sebagai Maria Walanda Maramis, diakui sebagai Pahlawan Nasional Indonesia atas usahanya dalam memperjuangkan hak-hak dan kondisi perempuan di Indonesia pada awal abad ke-20.</pin:abstract>
+        <pin:battle>Mendirikan pikat (percintaan ibu kepada anak turunannya), meningkatkan kesadaran akan pentingnya pendidikan perempuan </pin:battle>
+        <pin:birthPlace>Sulawesi Utara</pin:birthPlace>
         <pin:birthYear>01/12/1872</pin:birthYear>
-        <pin:deathPlace>sulawesi utara</pin:deathPlace>
+        <pin:deathPlace>Sulawesi Utara</pin:deathPlace>
         <pin:deathYear>22/04/1924</pin:deathYear>
-        <pin:island>Sulawesi Utara</pin:island>
+        <pin:island>Sulawesi</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Maria_Walanda_Maramis_1999_Indonesia_stamp.jpg/330px-Maria_Walanda_Maramis_1999_Indonesia_stamp.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="https://dbpedia.org/page/Maria_Walanda_Maramis" />
     </pin:hero>
 
       <pin:hero rdf:about="https://dbpedia.org/page/Martha_Christina_Tiahahu">
         <rdfs:label>Martha Christina Tiahahu</rdfs:label>
-        <pin:abstract>Martha Christina Tiahahu (4 Januari 1800 – 2 Januari 1818) adalah pejuang kemerdekaan asal Maluku dan Pahlawan Nasional Indonesia. 
-        Lahir dari seorang kapten militer, Tiahahu aktif dalam urusan militer sejak usia muda. Ia bergabung dalam perang yang dipimpin oleh Pattimura melawan pemerintah kolonial Belanda ketika berusia 17 tahun, 
-        ikut serta dalam beberapa pertempuran. Setelah ditangkap pada Oktober 1817, ia dibebaskan karena usia mudanya. Namun, ia tetap melanjutkan perjuangannya dan kembali ditangkap. 
-        Dikirim ke Jawa untuk dijadikan buruh budak, ia jatuh sakit dalam perjalanan dan, menolak makan atau minum obat, meninggal di atas kapal di Laut Banda.</pin:abstract>
-        <pin:battle>ikut berperang di usia muda, memimpin dan menginspirasi perempuan maluku, melawan hingga akhir hayat </pin:battle>
-        <pin:birthPlace>maluku</pin:birthPlace>
+        <pin:abstract>Martha Christina Tiahahu (4 Januari 1800 – 2 Januari 1818) adalah pejuang kemerdekaan asal Maluku dan Pahlawan Nasional Indonesia. Lahir dari seorang kapten militer, Tiahahu aktif dalam urusan militer sejak usia muda. Ia bergabung dalam perang yang dipimpin oleh Pattimura melawan pemerintah kolonial Belanda ketika berusia 17 tahun, ikut serta dalam beberapa pertempuran. Setelah ditangkap pada Oktober 1817, ia dibebaskan karena usia mudanya. Namun, ia tetap melanjutkan perjuangannya dan kembali ditangkap. Dikirim ke Jawa untuk dijadikan buruh budak, ia jatuh sakit dalam perjalanan dan, menolak makan atau minum obat, meninggal di atas kapal di Laut Banda.</pin:abstract>
+        <pin:battle>Ikut berperang di usia muda, memimpin dan menginspirasi perempuan Maluku, melawan hingga akhir hayat </pin:battle>
+        <pin:birthPlace>Maluku</pin:birthPlace>
         <pin:birthYear>04/01/1800</pin:birthYear>
-        <pin:deathPlace>laut banda</pin:deathPlace>
+        <pin:deathPlace>Laut Banda</pin:deathPlace>
         <pin:deathYear>02/01/1818</pin:deathYear>
         <pin:island>Maluku</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Martha_Christina_Tiahahu.jpg/330px-Martha_Christina_Tiahahu.jpg</pin:thumbnail>
@@ -1043,255 +975,221 @@
 
       <pin:hero rdf:about="https://dbpedia.org/page/Pong_Tiku">
         <rdfs:label>Pong Tiku</rdfs:label>
-        <pin:abstract>Pong Tiku (juga dieja Pontiku dan Pongtiku; 1846 – 10 Juli 1907), yang dikenal di antara sekutu Bugis-nya sebagai Ne' Baso, adalah seorang pemimpin Toraja dan pejuang gerilya 
-        yang beroperasi di Sulawesi Selatan, yang kini merupakan bagian dari Indonesia.</pin:abstract>
-        <pin:battle>perlawanan terhadap penjajahan belanda, kepemimpinan dalam perang rakyat minahasa </pin:battle>
-        <pin:birthPlace>rantepao</pin:birthPlace>
+        <pin:abstract>Pong Tiku (juga dieja Pontiku dan Pongtiku; 1846 – 10 Juli 1907), yang dikenal di antara sekutu Bugis-nya sebagai Ne' Baso, adalah seorang pemimpin Toraja dan pejuang gerilya yang beroperasi di Sulawesi Selatan, yang kini merupakan bagian dari Indonesia.</pin:abstract>
+        <pin:battle>Perlawanan terhadap penjajahan Belanda, kepemimpinan dalam perang rakyat Minahasa</pin:battle>
+        <pin:birthPlace>Rantepao</pin:birthPlace>
         <pin:birthYear>01/01/1846</pin:birthYear>
-        <pin:deathPlace>tondon</pin:deathPlace>
+        <pin:deathPlace>Tondon</pin:deathPlace>
         <pin:deathYear>22/12/1919</pin:deathYear>
-        <pin:island>Sulawesi Utara</pin:island>
+        <pin:island>Sulawesi</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Pong_Tiku.jpg/330px-Pong_Tiku.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="https://dbpedia.org/page/Pong_Tiku" />
     </pin:hero>
 
       <pin:hero rdf:about="https://dbpedia.org/page/Amir_Hamzah">
         <rdfs:label>Tengku Amir Hamzah</rdfs:label>
-        <pin:abstract>Tengku Amir Hamzah (Februari 1911 – 20 Maret 1946) adalah seorang penyair Indonesia dan Pahlawan Nasional Indonesia. 
-        Lahir dalam keluarga bangsawan Melayu di Kesultanan Langkat, Sumatra Utara, ia menerima pendidikan di Sumatra dan Jawa. 
-        Saat menempuh pendidikan di sekolah menengah atas di Surakarta sekitar tahun 1930, 
-        Amir terlibat dalam gerakan nasionalis dan jatuh cinta pada seorang teman sekelas asal Jawa, Ilik Sundari</pin:abstract>
-        <pin:battle>perlawanan melawan belanda, keterlibatan pertempuran di wilayah aceh, upaya mempertahankan islam di aceh </pin:battle>
-        <pin:birthPlace>langkat</pin:birthPlace>
+        <pin:abstract>Tengku Amir Hamzah (Februari 1911 – 20 Maret 1946) adalah seorang penyair Indonesia dan Pahlawan Nasional Indonesia. Lahir dalam keluarga bangsawan Melayu di Kesultanan Langkat, Sumatra Utara, ia menerima pendidikan di Sumatra dan Jawa. Saat menempuh pendidikan di sekolah menengah atas di Surakarta sekitar tahun 1930, Amir terlibat dalam gerakan nasionalis dan jatuh cinta pada seorang teman sekelas asal Jawa, Ilik Sundari</pin:abstract>
+        <pin:battle>Perlawanan melawan Belanda, keterlibatan pertempuran di wilayah Aceh, upaya mempertahankan Islam di Aceh </pin:battle>
+        <pin:birthPlace>Langkat</pin:birthPlace>
         <pin:birthYear>28/02/1911</pin:birthYear>
-        <pin:deathPlace>langkat</pin:deathPlace>
+        <pin:deathPlace>Langkat</pin:deathPlace>
         <pin:deathYear>20/03/1946</pin:deathYear>
-        <pin:island>Aceh</pin:island>
+        <pin:island>Sumatera</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Amir_Hamzah_portrait_edit.jpg/330px-Amir_Hamzah_portrait_edit.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="https://dbpedia.org/page/Amir_Hamzah" />
     </pin:hero>
 
       <pin:hero rdf:about="https://dbpedia.org/page/Kusumah_Atmaja">
         <rdfs:label>Kusumah Atmaja</rdfs:label>
-        <pin:abstract>Sulaiman Effendi Kusumah Atmaja (EVO: Soelaiman Effendi Koesoemah Atmadja; 8 September 1898 – 11 Agustus 1952) adalah seorang hakim dan pahlawan nasional Indonesia 
-        yang menjabat sebagai Ketua Mahkamah Agung Indonesia pertama dari Agustus 1945 hingga Agustus 1952. 
-        Ia lahir dari keluarga bangsawan etnis Sunda di Purwakarta, dan memperoleh gelar hukum dari Rechtschool pada tahun 1913. 
-        Pada tahun 1919, ia bekerja sebagai juru tulis pengadilan di Bandung, sebelum meninggalkan pekerjaan tersebut untuk melanjutkan pendidikan hukumnya di Universitas Leiden. 
-        Setelah lulus dari Leiden pada tahun 1922, ia kembali ke Hindia Belanda, dan menjadi hakim di Batavia dan kemudian di Indramayu.</pin:abstract>
-        <pin:battle>perjuangan melawan penjajahan belanda, memimpin pasukan dalam kemerdekaan, pengaruh dalam memajukan pendidikan </pin:battle>
-        <pin:birthPlace>purwakarta</pin:birthPlace>
+        <pin:abstract>Sulaiman Effendi Kusumah Atmaja (EVO: Soelaiman Effendi Koesoemah Atmadja; 8 September 1898 – 11 Agustus 1952) adalah seorang hakim dan pahlawan nasional Indonesia yang menjabat sebagai Ketua Mahkamah Agung Indonesia pertama dari Agustus 1945 hingga Agustus 1952. Ia lahir dari keluarga bangsawan etnis Sunda di Purwakarta, dan memperoleh gelar hukum dari Rechtschool pada tahun 1913. Pada tahun 1919, ia bekerja sebagai juru tulis pengadilan di Bandung, sebelum meninggalkan pekerjaan tersebut untuk melanjutkan pendidikan hukumnya di Universitas Leiden. Setelah lulus dari Leiden pada tahun 1922, ia kembali ke Hindia Belanda, dan menjadi hakim di Batavia dan kemudian di Indramayu.</pin:abstract>
+        <pin:battle>Perjuangan melawan penjajahan Belanda, memimpin pasukan dalam kemerdekaan, pengaruh dalam memajukan pendidikan </pin:battle>
+        <pin:birthPlace>Purwakarta</pin:birthPlace>
         <pin:birthYear>08/09/1898</pin:birthYear>
-        <pin:deathPlace>jakarta</pin:deathPlace>
+        <pin:deathPlace>Jakarta</pin:deathPlace>
         <pin:deathYear>11/08/1952</pin:deathYear>
-        <pin:island>Banten</pin:island>
+        <pin:island>Jawa</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Kusumah_Atmaja.jpg/330px-Kusumah_Atmaja.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="https://dbpedia.org/page/Kusumah_Atmajah" />
     </pin:hero>
 
       <pin:hero rdf:about="https://dbpedia.org/page/Oerip_Soemohardjo">
         <rdfs:label>Oerip Soemohardjo </rdfs:label>
-        <pin:abstract>Urip Sumoharjo, 22 Februari 1893 – 17 November 1948) adalah seorang jenderal Indonesia dan kepala staf pertama Tentara Nasional Indonesia. 
-        Ia menerima beberapa penghargaan dari pemerintah Indonesia, termasuk gelar Pahlawan Nasional Indonesia pada tahun 1964. 
-        Ia juga seorang Katolik yang diakui oleh Takhta Suci, dimana Paus Paulus VI mendedikasikan sebuah piala peringatan untuknya dengan tulisan Latin yang mengakui keuskupannya.</pin:abstract>
-        <pin:battle>perjuangan di bidang diplomasi, menghadapi agresi militer belanda, diplomasi dalam konferensi meja bundar</pin:battle>
-        <pin:birthPlace>purworejo</pin:birthPlace>
+        <pin:abstract>Urip Sumoharjo, 22 Februari 1893 – 17 November 1948, adalah seorang jenderal Indonesia dan kepala staf pertama Tentara Nasional Indonesia. Ia menerima beberapa penghargaan dari pemerintah Indonesia, termasuk gelar Pahlawan Nasional Indonesia pada tahun 1964. Ia juga seorang Katolik yang diakui oleh Takhta Suci, dimana Paus Paulus VI mendedikasikan sebuah piala peringatan untuknya dengan tulisan Latin yang mengakui keuskupannya.</pin:abstract>
+        <pin:battle>Perjuangan di bidang diplomasi, menghadapi agresi militer Belanda, diplomasi dalam Konferensi Meja Bundar</pin:battle>
+        <pin:birthPlace>Purworejo</pin:birthPlace>
         <pin:birthYear>22/02/1893</pin:birthYear>
-        <pin:deathPlace>yogyakarta</pin:deathPlace>
+        <pin:deathPlace>Yogyakarta</pin:deathPlace>
         <pin:deathYear>17/11/1948</pin:deathYear>
-        <pin:island>Jawa Tengah</pin:island>
+        <pin:island>Jawa</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/e/ea/Oerip_Soemohardjo_5_November_1947_KR.JPG</pin:thumbnail>
         <foaf:homepage rdf:resource="https://dbpedia.org/page/Oerip_Soemohardjo" />
     </pin:hero>
 
       <pin:hero rdf:about="https://example.org/hero/untung_suropati">
         <rdfs:label>Untung Suropati </rdfs:label>
-        <pin:abstract>Untung Suropati terlahir Surawiraaji, lahir di Gelgel, Bali, 1660 – meninggal dunia di Bangil, Pasuruan, Mataram, 5 Desember 1706 pada umur 45/46 tahun.
-        adalah seorang tokoh dalam sejarah Nusantara yang dicatat dalam Babad Tanah Jawi. Kisahnya menjadi legendaris karena mengisahkan seorang anak rakyat jelata dan budak VOC yang menjadi seorang bangsawan dan Tumenggung (Bupati) Pasuruan dengan gelar Tumenggung Wiranegara.
-        Kisah Untung Surapati yang legendaris dan perjuangannya melawan kolonialisme VOC di Pulau Jawa membuatnya dikenal sebagai pahlawan nasional Indonesia. Ia telah ditetapkan sebagai pahlawan nasional Indonesia berdasarkan S.K. Presiden No. 106/TK/1975 tanggal 3 November 1975.  </pin:abstract>
+        <pin:abstract>Untung Suropati terlahir Surawiraaji, lahir di Gelgel, Bali, 1660 – meninggal dunia di Bangil, Pasuruan, Mataram, 5 Desember 1706 pada umur 45/46 tahun.adalah seorang tokoh dalam sejarah Nusantara yang dicatat dalam Babad Tanah Jawi. Kisahnya menjadi legendaris karena mengisahkan seorang anak rakyat jelata dan budak VOC yang menjadi seorang bangsawan dan Tumenggung (Bupati) Pasuruan dengan gelar Tumenggung Wiranegara.Kisah Untung Surapati yang legendaris dan perjuangannya melawan kolonialisme VOC di Pulau Jawa membuatnya dikenal sebagai pahlawan nasional Indonesia. Ia telah ditetapkan sebagai pahlawan nasional Indonesia berdasarkan S.K. Presiden No. 106/TK/1975 tanggal 3 November 1975.  </pin:abstract>
         <pin:battle>pemberontakan melawan Perusahaan Hindia Timur Belanda</pin:battle>
-        <pin:birthPlace>bali</pin:birthPlace>
+        <pin:birthPlace>Bali</pin:birthPlace>
         <pin:birthYear>1660</pin:birthYear>
-        <pin:deathPlace>mataram</pin:deathPlace>
+        <pin:deathPlace>Mataram</pin:deathPlace>
         <pin:deathYear>5/08/1706</pin:deathYear>
-        <pin:island>Banten</pin:island>
+        <pin:island>Bali</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Untung_Surapati.jpg/330px-Untung_Surapati.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="https://id.wikipedia.org/wiki/Untung_Suropati" />
     </pin:hero>
 
       <pin:hero rdf:about="https://dbpedia.org/page/Rajiman_Wediodiningrat">
         <rdfs:label>Rajiman Wediodiningrat </rdfs:label>
-        <pin:abstract>Kanjeng Raden Tumenggung (K.R.T.) Radjiman Wedyodiningrat (21 April 1879 – 20 September 1952) adalah seorang dokter Indonesia dan salah satu tokoh pendiri Republik Indonesia. 
-        Ia merupakan anggota organisasi Budi Utomo, dan pada tahun 1945 terpilih untuk memimpin Badan Penyelidik Usaha-usaha Persiapan Kemerdekaan (BPUPK). 
-        Pada 9 Agustus 1945, sehari setelah pengeboman atom di Nagasaki, Rajiman, bersama dengan tokoh nasionalis Sukarno dan Mohammad Hatta, 
-        diterbangkan ke Saigon untuk bertemu dengan Marsekal Lapangan Hisaichi Terauchi, komandan Tentara Ekspedisi Selatan Jepang.</pin:abstract>
-        <pin:battle>perjuangan dalam bidang pendidikan, peran dalam politik, perjuangan dalam mempersiapkan kemerdekaan</pin:battle>
-        <pin:birthPlace>yoyakarta</pin:birthPlace>
+        <pin:abstract>Kanjeng Raden Tumenggung (K.R.T.) Radjiman Wedyodiningrat (21 April 1879 – 20 September 1952) adalah seorang dokter Indonesia dan salah satu tokoh pendiri Republik Indonesia. Ia merupakan anggota organisasi Budi Utomo, dan pada tahun 1945 terpilih untuk memimpin Badan Penyelidik Usaha-usaha Persiapan Kemerdekaan (BPUPK). Pada 9 Agustus 1945, sehari setelah pengeboman atom di Nagasaki, Rajiman, bersama dengan tokoh nasionalis Sukarno dan Mohammad Hatta, diterbangkan ke Saigon untuk bertemu dengan Marsekal Lapangan Hisaichi Terauchi, komandan Tentara Ekspedisi Selatan Jepang.</pin:abstract>
+        <pin:battle>Perjuangan dalam bidang pendidikan, peran dalam politik, perjuangan dalam mempersiapkan kemerdekaan</pin:battle>
+        <pin:birthPlace>Yoyakarta</pin:birthPlace>
         <pin:birthYear>21/04/1879</pin:birthYear>
-        <pin:deathPlace>ngawi</pin:deathPlace>
+        <pin:deathPlace>Ngawi</pin:deathPlace>
         <pin:deathYear>20/09/1952</pin:deathYear>
-        <pin:island>Jawa Tengah</pin:island>
+        <pin:island>Jawa</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Radjiman_Wediodiningrat%2C_Kami_Perkenalkan_%281952%29%2C_p77.jpg/330px-Radjiman_Wediodiningrat%2C_Kami_Perkenalkan_%281952%29%2C_p77.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="https://dbpedia.org/page/Rajiman_Wediodiningra" />
     </pin:hero>
 
        <pin:hero rdf:about="https://dbpedia.org/page/Rasuna_Said">
         <rdfs:label>Rasuna Said </rdfs:label>
-        <pin:abstract>Hajjah Rangkayo Rasuna Said (14 September 1910 – 2 November 1965) adalah seorang pejuang kemerdekaan Indonesia dan hak-hak perempuan, 
-        khususnya hak mereka untuk mendapatkan pendidikan dan berpartisipasi dalam politik. 
-        Aktif secara politik sebelum dan setelah kemerdekaan Indonesia, Rasuna Said menjadi anggota berbagai organisasi politik dan kemudian 
-        menjabat sebagai anggota Dewan Perwakilan Rakyat Sementara serta Dewan Pertimbangan Agung pada masa pemerintahan Sukarno. 
-        Karena keterlibatannya dalam perjuangan kemerdekaan Indonesia, ia diakui secara anumerta sebagai pahlawan nasional Indonesia.</pin:abstract>
-        <pin:battle>perjuangan dalam bidang politik dan kemerdekaan, perjuangan untuk hak perempuan</pin:battle>
-        <pin:birthPlace>agam</pin:birthPlace>
+        <pin:abstract>Hajjah Rangkayo Rasuna Said (14 September 1910 – 2 November 1965) adalah seorang pejuang kemerdekaan Indonesia dan hak-hak perempuan, khususnya hak mereka untuk mendapatkan pendidikan dan berpartisipasi dalam politik. Aktif secara politik sebelum dan setelah kemerdekaan Indonesia, Rasuna Said menjadi anggota berbagai organisasi politik dan kemudian menjabat sebagai anggota Dewan Perwakilan Rakyat Sementara serta Dewan Pertimbangan Agung pada masa pemerintahan Sukarno. Karena keterlibatannya dalam perjuangan kemerdekaan Indonesia, ia diakui secara anumerta sebagai pahlawan nasional Indonesia.</pin:abstract>
+        <pin:battle>Perjuangan dalam bidang politik dan kemerdekaan, perjuangan untuk hak perempuan</pin:battle>
+        <pin:birthPlace>Agam</pin:birthPlace>
         <pin:birthYear>14/09/1910</pin:birthYear>
-        <pin:deathPlace>jakarta</pin:deathPlace>
+        <pin:deathPlace>Jakarta</pin:deathPlace>
         <pin:deathYear>02/11/1965</pin:deathYear>
-        <pin:island>Sumatera Barat</pin:island>
+        <pin:island>Sumatera</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Rasuna_Said%2C_Kami_Perkenalkan_%281954%29%2C_p111.jpg/330px-Rasuna_Said%2C_Kami_Perkenalkan_%281954%29%2C_p111.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="https://dbpedia.org/page/Rasuna_Said" />
     </pin:hero>
 
        <pin:hero rdf:about="https://dbpedia.org/page/Yos_Sudarso">
         <rdfs:label>Yos Sudarso </rdfs:label>
-        <pin:abstract>Komodor Yosaphat "Yos" Sudarso (24 November 1925 – 15 Januari 1962) adalah seorang perwira angkatan laut Indonesia yang gugur dalam Pertempuran Laut Arafura. 
-        Pada saat kematiannya, Yos Sudarso menjabat sebagai wakil kepala staf angkatan laut Indonesia dan bertanggung jawab atas aksi infiltrasi ke Papua Belanda. 
-        Ia dipromosikan menjadi laksamana madya secara anumerta.</pin:abstract>
+        <pin:abstract>Komodor Yosaphat "Yos" Sudarso (24 November 1925 – 15 Januari 1962) adalah seorang perwira angkatan laut Indonesia yang gugur dalam Pertempuran Laut Arafura. Pada saat kematiannya, Yos Sudarso menjabat sebagai wakil kepala staf angkatan laut Indonesia dan bertanggung jawab atas aksi infiltrasi ke Papua Belanda. Ia dipromosikan menjadi laksamana madya secara anumerta.</pin:abstract>
         <pin:battle>perjuangan kemerdekaan di laut, pertempuran laut arafura, komandan KRI Harimau</pin:battle>
-        <pin:birthPlace>salatiga</pin:birthPlace>
+        <pin:birthPlace>Salatiga</pin:birthPlace>
         <pin:birthYear>24/11/1925</pin:birthYear>
-        <pin:deathPlace>laut arafura</pin:deathPlace>
+        <pin:deathPlace>Laut Arafura</pin:deathPlace>
         <pin:deathYear>15/01/1962</pin:deathYear>
-        <pin:island>Jawa Timur</pin:island>
+        <pin:island>Jawa</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/8/81/Lukisan_Yos_Sudarso.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="https://dbpedia.org/page/Yos_Sudarso" />
     </pin:hero>
 
        <pin:hero rdf:about="https://dbpedia.org/page/Muhammad_Mangundiprojo">
         <rdfs:label>Muhammad Mangundiprojo</rdfs:label>
-        <pin:abstract>Mayor Jenderal Muhammad Mangundiprojo adalah seorang tentara, revolusioner, dan pejabat sipil Indonesia pada abad ke-20. 
-        Lahir di Kabupaten Sragen, pulau Jawa, Mangundiprojo bergabung dengan kelompok nasionalis selama Perang Dunia Kedua. 
-        Ia kemudian berjuang melawan kembalinya kekuasaan kolonial Belanda ke Indonesia, dan kemudian menjadi seorang politisi. 
-        Ia wafat di Bandar Lampung pada tahun 1988.</pin:abstract>
-        <pin:battle>aktivisme dalam bidang pendidikan, perjuangan kemerdekaan indonesia, peran dan pemerintahan republik indonesia</pin:battle>
-        <pin:birthPlace>sragen</pin:birthPlace>
+        <pin:abstract>Mayor Jenderal Muhammad Mangundiprojo adalah seorang tentara, revolusioner, dan pejabat sipil Indonesia pada abad ke-20. Lahir di Kabupaten Sragen, pulau Jawa, Mangundiprojo bergabung dengan kelompok nasionalis selama Perang Dunia Kedua. Ia kemudian berjuang melawan kembalinya kekuasaan kolonial Belanda ke Indonesia, dan kemudian menjadi seorang politisi. Ia wafat di Bandar Lampung pada tahun 1988.</pin:abstract>
+        <pin:battle>Aktivisme dalam bidang pendidikan, perjuangan kemerdekaan Indonesia, peran dan pemerintahan Republik Indonesia</pin:battle>
+        <pin:birthPlace>Sragen</pin:birthPlace>
         <pin:birthYear>05/01/1905</pin:birthYear>
-        <pin:deathPlace>bandar lampung</pin:deathPlace>
+        <pin:deathPlace>Bandar Lampung</pin:deathPlace>
         <pin:deathYear>20/09/1949</pin:deathYear>
-        <pin:island>Jawa Tengah</pin:island>
+        <pin:island>Jawa</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/id/c/cf/Muhammadmangundiprojo.png</pin:thumbnail>
         <foaf:homepage rdf:resource="https://dbpedia.org/page/Muhammad_Mangundiprojo" />
     </pin:hero>
 
        <pin:hero rdf:about="https://dbpedia.org/page/Lafran_Pane">
         <rdfs:label>Lafran Pane</rdfs:label>
-        <pin:abstract>Profesor Lafran Pane (5 Februari 1922 – 25 Januari 1991) adalah seorang akademisi Indonesia
-        yang paling dikenal karena mendirikan Perhimpunan Mahasiswa Muslim Indonesia dan sebagai Pahlawan Nasional Indonesia.</pin:abstract>
-        <pin:battle>pendiri perhimpunan indonesia (PI), aktivitas dalam pergerakan kemerdekaan, peran dalam pendidikan dan penyebaran nasionalisme.</pin:battle>
-        <pin:birthPlace>padang sidempuan</pin:birthPlace>
+        <pin:abstract>Profesor Lafran Pane (5 Februari 1922 – 25 Januari 1991) adalah seorang akademisi Indonesia yang paling dikenal karena mendirikan Perhimpunan Mahasiswa Muslim Indonesia dan sebagai Pahlawan Nasional Indonesia.</pin:abstract>
+        <pin:battle>Pendiri perhimpunan indonesia (PI), aktivitas dalam pergerakan kemerdekaan, peran dalam pendidikan dan penyebaran nasionalisme.</pin:battle>
+        <pin:birthPlace>Padang Sidempuan</pin:birthPlace>
         <pin:birthYear>05/02/1922</pin:birthYear>
-        <pin:deathPlace>yogyakarta</pin:deathPlace>
+        <pin:deathPlace>Yogyakarta</pin:deathPlace>
         <pin:deathYear>20/02/1991</pin:deathYear>
-        <pin:island>Sumatera Utara</pin:island>
+        <pin:island>Sumatera</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/id/4/41/Lafran-pane.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="https://dbpedia.org/page/Lafran_Pane" />
     </pin:hero>
 
       <pin:hero rdf:about="https://dbpedia.org/page/Prince_Antasari">
         <rdfs:label>Pangeran Antasari </rdfs:label>
-        <pin:abstract>Pangeran Antasari (Jawi: ڤڠيرن انتساري‎; 1797 – 11 Oktober 1862), juga dikenal dengan nama Indonesia Pangeran Antasari, 
-        adalah seorang sultan Banjar dan merupakan Pahlawan Nasional Indonesia. Putranya, Pangeran Hijrah, adalah salah satu pemimpin Angkatan Laut.</pin:abstract>
-        <pin:battle>perjuangan melawan penjajah belanda, perlawanan rakyat banjar, Pertempuran di Sungai Tabuk dan Martapura. </pin:battle>
-        <pin:birthPlace>banjarmasin</pin:birthPlace>
+        <pin:abstract>Pangeran Antasari (Jawi: ڤڠيرن انتساري‎; 1797 – 11 Oktober 1862), juga dikenal dengan nama Indonesia Pangeran Antasari, adalah seorang sultan Banjar dan merupakan Pahlawan Nasional Indonesia. Putranya, Pangeran Hijrah, adalah salah satu pemimpin Angkatan Laut.</pin:abstract>
+        <pin:battle>Perjuangan melawan penjajah belanda, perlawanan rakyat banjar, Pertempuran di Sungai Tabuk dan Martapura. </pin:battle>
+        <pin:birthPlace>Banjarmasin</pin:birthPlace>
         <pin:birthYear>02/04/1797</pin:birthYear>
-        <pin:deathPlace>martapura</pin:deathPlace>
+        <pin:deathPlace>Martapura</pin:deathPlace>
         <pin:deathYear>11/10/1862</pin:deathYear>
-        <pin:island>Kalimantan Selatan</pin:island>
+        <pin:island>Kalimantan</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Pangeran_Antasari_Museum_Lambung_Mangkurat.JPG/330px-Pangeran_Antasari_Museum_Lambung_Mangkurat.JPG</pin:thumbnail>
         <foaf:homepage rdf:resource="https://dbpedia.org/page/Prince_Antasari" />
     </pin:hero>
 
       <pin:hero rdf:about="https://example.org/hero/basuki_probowinoto,">
         <rdfs:label>Basuki Probowinoto </rdfs:label>
-        <pin:abstract>Basuki Probowinoto (19 Januari 1917 – 6 Januari 1989) adalah pendiri dan ketua Partai Kristen Indonesia, 
-        serta seorang pendeta dari Gereja Kristen Jawa. Ia juga merupakan anggota Komite Nasional Indonesia Pusat sejak tahun 1945.</pin:abstract>
-        <pin:battle>kepemimpinan di bidang keagamaan, kontribusi dalam perjuangan kemerdekaan, pemikiran tentang pancasila. </pin:battle>
-        <pin:birthPlace>purwodadi</pin:birthPlace>
+        <pin:abstract>Basuki Probowinoto (19 Januari 1917 – 6 Januari 1989) adalah pendiri dan ketua Partai Kristen Indonesia, serta seorang pendeta dari Gereja Kristen Jawa. Ia juga merupakan anggota Komite Nasional Indonesia Pusat sejak tahun 1945.</pin:abstract>
+        <pin:battle>Kepemimpinan di bidang keagamaan, kontribusi dalam perjuangan kemerdekaan, pemikiran tentang pancasila. </pin:battle>
+        <pin:birthPlace>Purwodadi</pin:birthPlace>
         <pin:birthYear>19/01/1917</pin:birthYear>
-        <pin:deathPlace>jakarta</pin:deathPlace>
+        <pin:deathPlace>Jakarta</pin:deathPlace>
         <pin:deathYear>06/01/1989</pin:deathYear>
-        <pin:island>Jawa Tengah</pin:island>
+        <pin:island>Jawa</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Basuki_Probowinoto.jpg/330px-Basuki_Probowinoto.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="https://id.wikipedia.org/wiki/Basuki_Probowinoto" />
     </pin:hero>
 
        <pin:hero rdf:about="https://dbpedia.org/page/Basuki_Rahmat">
         <rdfs:label>Basuki Rahmat </rdfs:label>
-        <pin:abstract>Basuki Rahmat (4 November 1921 – 8 Januari 1969) adalah seorang jenderal Indonesia, Pahlawan Nasional, dan 
-        saksi penandatanganan dokumen Supersemar yang mengalihkan kekuasaan dari Presiden Sukarno kepada Jenderal Soeharto.</pin:abstract>
-        <pin:battle>berperan dalam revolusi kemerdekaan, penggalangan dukungan untuk supersemar. </pin:battle>
-        <pin:birthPlace>tuban</pin:birthPlace>
+        <pin:abstract>Basuki Rahmat (4 November 1921 – 8 Januari 1969) adalah seorang jenderal Indonesia, Pahlawan Nasional, dan saksi penandatanganan dokumen Supersemar yang mengalihkan kekuasaan dari Presiden Sukarno kepada Jenderal Soeharto.</pin:abstract>
+        <pin:battle>Berperan dalam revolusi kemerdekaan, penggalangan dukungan untuk supersemar. </pin:battle>
+        <pin:birthPlace>Tuban</pin:birthPlace>
         <pin:birthYear>04/11/1921</pin:birthYear>
-        <pin:deathPlace>jakarta</pin:deathPlace>
+        <pin:deathPlace>Jakarta</pin:deathPlace>
         <pin:deathYear>08/01/1969</pin:deathYear>
-        <pin:island>Jawa Timur</pin:island>
+        <pin:island>Jawa</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Basuki_Rahmat%2C_Departemen_Dalam_Negeri_dari_Masa_ke_Masa%2C_p121.jpg/330px-Basuki_Rahmat%2C_Departemen_Dalam_Negeri_dari_Masa_ke_Masa%2C_p121.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="https://dbpedia.org/page/Basuki_Rahmat" />
     </pin:hero>
 
       <pin:hero rdf:about="https://dbpedia.org/page/Bernard_Wilhelm_Lapian">
         <rdfs:label>Bernard Wilhelm Lapian</rdfs:label>
-        <pin:abstract>Bernard Wilhelm "B. W." Lapian (30 Juni 1892 – 5 April 1977) adalah seorang nasionalis yang terlibat dalam perjuangan kemerdekaan Indonesia. 
-        Ia menerbitkan beberapa surat kabar yang memberikan suara untuk kesejahteraan rakyat Indonesia dan mempromosikan nasionalisme Indonesia. 
-        Ia juga merupakan bagian dari kelompok yang mendirikan denominasi Kristen terpisah dari institusi gereja resmi Hindia Belanda. 
-        Setelah Indonesia meraih kemerdekaan, Lapian menjabat sebagai kepala distrik (atau wali kota) Manado dan penjabat gubernur Sulawesi. 
-        Pada tahun 2015, ia dianugerahi gelar Pahlawan Nasional Indonesia oleh Presiden Joko Widodo.</pin:abstract>
-        <pin:battle>melawan penjajahan jepang dan belanda, memimpin di masa awal kemerdekaan, penyebaran nasionalisme.</pin:battle>
-        <pin:birthPlace>minahasa</pin:birthPlace>
+        <pin:abstract>Bernard Wilhelm "B. W." Lapian (30 Juni 1892 – 5 April 1977) adalah seorang nasionalis yang terlibat dalam perjuangan kemerdekaan Indonesia. Ia menerbitkan beberapa surat kabar yang memberikan suara untuk kesejahteraan rakyat Indonesia dan mempromosikan nasionalisme Indonesia. Ia juga merupakan bagian dari kelompok yang mendirikan denominasi Kristen terpisah dari institusi gereja resmi Hindia Belanda. Setelah Indonesia meraih kemerdekaan, Lapian menjabat sebagai kepala distrik (atau wali kota) Manado dan penjabat gubernur Sulawesi. Pada tahun 2015, ia dianugerahi gelar Pahlawan Nasional Indonesia oleh Presiden Joko Widodo.</pin:abstract>
+        <pin:battle>Melawan penjajahan Jepang dan Belanda, memimpin di masa awal kemerdekaan, penyebaran nasionalisme.</pin:battle>
+        <pin:birthPlace>Minahasa</pin:birthPlace>
         <pin:birthYear>30/06/1892</pin:birthYear>
-        <pin:deathPlace>jakarta</pin:deathPlace>
+        <pin:deathPlace>Jakarta</pin:deathPlace>
         <pin:deathYear>05/04/19779</pin:deathYear>
-        <pin:island>Sulawesi Utara</pin:island>
+        <pin:island>Sulawesi</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/7/7e/B.W._Lapian.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="https://dbpedia.org/page/Bernard_Wilhelm_Lapian" />
     </pin:hero>
 
       <pin:hero rdf:about="https://dbpedia.org/page/Usmar_Ismail">
         <rdfs:label>Usmar Ismail </rdfs:label>
-        <pin:abstract>Usmar Ismail (20 Maret 1921 – 2 Januari 1971) adalah seorang sutradara film, penulis, jurnalis, dan tokoh revolusioner berdarah Minangkabau. 
-        Ia secara luas dianggap sebagai pelopor asli perfilman Indonesia.</pin:abstract>
-        <pin:battle>mengembangkan film sebagai identitas nasional, mengangkat isu sosisal dan kebangsaan.</pin:battle>
-        <pin:birthPlace>bukit tinggi</pin:birthPlace>
+        <pin:abstract>Usmar Ismail (20 Maret 1921 – 2 Januari 1971) adalah seorang sutradara film, penulis, jurnalis, dan tokoh revolusioner berdarah Minangkabau. Ia secara luas dianggap sebagai pelopor asli perfilman Indonesia.</pin:abstract>
+        <pin:battle>Mengembangkan film sebagai identitas nasional, mengangkat isu sosisal dan kebangsaan.</pin:battle>
+        <pin:birthPlace>Bukittinggi</pin:birthPlace>
         <pin:birthYear>20/03/1921</pin:birthYear>
-        <pin:deathPlace>jakarta</pin:deathPlace>
+        <pin:deathPlace>Jakarta</pin:deathPlace>
         <pin:deathYear>02/01/1971</pin:deathYear>
-        <pin:island>Jawa Tengah</pin:island>
+        <pin:island>Sumatera</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Usmar_Ismail_%281950%29%2C_Peran_Pemuda_dalam_Kebangkitan_Film_Indonesia%2C_p73.jpg/330px-Usmar_Ismail_%281950%29%2C_Peran_Pemuda_dalam_Kebangkitan_Film_Indonesia%2C_p73.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="https://dbpedia.org/page/Usmar_Ismail" />
     </pin:hero>
 
       <pin:hero rdf:about="https://dbpedia.org/page/Melanchton_Siregar">
         <rdfs:label>Melanchton Siregar </rdfs:label>
-        <pin:abstract>Melanchton Siregar (7 Agustus 1912 – 24 Februari 1975) adalah salah satu pendiri sekaligus ketua terakhir Partai Kristen Indonesia (Parkindo), 
-        serta komandan Divisi Panah, sayap militer cabang Sumatera Utara dari Partai Kristen Indonesia. Ia juga menjadi anggota Komite Nasional Indonesia Pusat (KNIP) sejak tahun 1947.</pin:abstract>
-        <pin:battle>aktif dalam politik dan perjuangan kemerdekaan, anggota bpupki dan ppki.</pin:battle>
-        <pin:birthPlace>lumban silo</pin:birthPlace>
+        <pin:abstract>Melanchton Siregar (7 Agustus 1912 – 24 Februari 1975) adalah salah satu pendiri sekaligus ketua terakhir Partai Kristen Indonesia (Parkindo), serta komandan Divisi Panah, sayap militer cabang Sumatera Utara dari Partai Kristen Indonesia. Ia juga menjadi anggota Komite Nasional Indonesia Pusat (KNIP) sejak tahun 1947.</pin:abstract>
+        <pin:battle>Aktif dalam politik dan perjuangan kemerdekaan, anggota bpupki dan ppki.</pin:battle>
+        <pin:birthPlace>Lumban Silo</pin:birthPlace>
         <pin:birthYear>07/08/1912</pin:birthYear>
-        <pin:deathPlace>jakarta</pin:deathPlace>
+        <pin:deathPlace>Jakarta</pin:deathPlace>
         <pin:deathYear>24/02/1975</pin:deathYear>
-        <pin:island>Sumatera Utara</pin:island>
+        <pin:island>Sumatera</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/8/82/Melanchton_Siregar%2C_Hasil_Rakjat_Memilih_Tokoh-tokoh_Parlemen_%28Hasil_Pemilihan_Umum_Pertama_-_1955%29_di_Republik_Indonesia%2C_p346.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="https://dbpedia.org/page/Usmar_Ismail" />
     </pin:hero>
 
       <pin:hero rdf:about="https://dbpedia.org/page/Sahardjo">
-        <rdfs:label>Sahardjo </rdfs:label>
+        <rdfs:label>Sahardjo</rdfs:label>
         <pin:abstract>Dr. Sahardjo LL.B., (EYD: Saharjo; 26 Juni 1909 – 13 November 1963) adalah seorang Pahlawan Nasional dan Menteri Kehakiman Indonesia pada Kabinet Kerja I, II, dan III.</pin:abstract>
-        <pin:battle>mendirikan lembaga hukum, perjuangan dalam proses pembentukan negara hukum.</pin:battle>
-        <pin:birthPlace>surakarta</pin:birthPlace>
+        <pin:battle>Mendirikan lembaga hukum, perjuangan dalam proses pembentukan negara hukum.</pin:battle>
+        <pin:birthPlace>Surakarta</pin:birthPlace>
         <pin:birthYear>26/09/1909</pin:birthYear>
-        <pin:deathPlace>kalibata</pin:deathPlace>
+        <pin:deathPlace>Kalibata</pin:deathPlace>
         <pin:deathYear>13/11/1963</pin:deathYear>
-        <pin:island>Jawa Barat</pin:island>
+        <pin:island>Jawa</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/d/d7/Sahardjo.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="https://dbpedia.org/page/Sahardjo" />
     </pin:hero>
@@ -1299,86 +1197,75 @@
       <pin:hero rdf:about="https://dbpedia.org/page/Said_Soekanto_Tjokrodiatmodjo">
         <rdfs:label>Said Soekanto Tjokrodiatmodjo </rdfs:label>
         <pin:abstract>Jenderal Polisi Said Soekanto Tjokrodiatmodjo (7 Juni 1908 – 24 Agustus 1993) adalah Kepala Kepolisian Negara Republik Indonesia (Kapolri) yang pertama dan Pahlawan Nasional Indonesia.</pin:abstract>
-        <pin:battle>pendiri kepolosian republik indonesia, perjuangan melawan penjajahan.</pin:battle>
-        <pin:birthPlace>buitenzorg</pin:birthPlace>
+        <pin:battle>Pendiri Kepolisian Republik Indonesia, perjuangan melawan penjajahan.</pin:battle>
+        <pin:birthPlace>Buitenzorg</pin:birthPlace>
         <pin:birthYear>07/06/1908</pin:birthYear>
-        <pin:deathPlace>jakartaa</pin:deathPlace>
+        <pin:deathPlace>Jakarta</pin:deathPlace>
         <pin:deathYear>24/08/1993</pin:deathYear>
-        <pin:island>Jawa Barat</pin:island>
+        <pin:island>Jawa</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Police_chief_RS_Soekanto_Tjokrodiatmodjo%2C_Sekilas_Lintas_Kepolisian_Republik_Indonesia%2C_p17.jpg/300px-Police_chief_RS_Soekanto_Tjokrodiatmodjo%2C_Sekilas_Lintas_Kepolisian_Republik_Indonesia%2C_p17.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="https://dbpedia.org/page/Said_Soekanto_Tjokrodiatmodjo" />
     </pin:hero>
 
       <pin:hero rdf:about="https://dbpedia.org/page/Sartono">
-        <rdfs:label>Sartono </rdfs:label>
-        <pin:abstract>Sartono (5 Agustus 1900 – 15 Oktober 1968) adalah seorang politikus dan pengacara Indonesia yang menjabat sebagai Ketua pertama Dewan Perwakilan Rakyat (DPR) dari tahun 1950 hingga 1960. 
-        Lahir dari keluarga bangsawan etnis Jawa, Sartono menempuh pendidikan hukum di Universitas Leiden. Selama masa studinya, ia bergabung dengan asosiasi Perhimpoenan Indonesia dan menjadi pendukung kemerdekaan Indonesia. 
-        Setelah lulus, ia membuka praktik hukum dan membantu mendirikan Partai Nasional Indonesia (PNI) pada tahun 1927.</pin:abstract>
-        <pin:battle>memajukan pendidikan melalui musik, meningkatkan kesadaran akan pentingnya pendidikan.</pin:battle>
-        <pin:birthPlace>wonogiri</pin:birthPlace>
+        <rdfs:label>Sartono</rdfs:label>
+        <pin:abstract>Sartono (5 Agustus 1900 – 15 Oktober 1968) adalah seorang politikus dan pengacara Indonesia yang menjabat sebagai Ketua pertama Dewan Perwakilan Rakyat (DPR) dari tahun 1950 hingga 1960. Lahir dari keluarga bangsawan etnis Jawa, Sartono menempuh pendidikan hukum di Universitas Leiden. Selama masa studinya, ia bergabung dengan asosiasi Perhimpoenan Indonesia dan menjadi pendukung kemerdekaan Indonesia. Setelah lulus, ia membuka praktik hukum dan membantu mendirikan Partai Nasional Indonesia (PNI) pada tahun 1927.</pin:abstract>
+        <pin:battle>Memajukan pendidikan melalui musik, meningkatkan kesadaran akan pentingnya pendidikan.</pin:battle>
+        <pin:birthPlace>Wonogiri</pin:birthPlace>
         <pin:birthYear>05/08/19008</pin:birthYear>
-        <pin:deathPlace>jakartaa</pin:deathPlace>
+        <pin:deathPlace>Jakarta</pin:deathPlace>
         <pin:deathYear>15/10/1968</pin:deathYear>
-        <pin:island>Jawa Tengah</pin:island>
+        <pin:island>Jawa</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Sartono%2C_Kepartaian_dan_Parlementaria_Indonesia_%281954%29.jpg/300px-Sartono%2C_Kepartaian_dan_Parlementaria_Indonesia_%281954%29.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="https://dbpedia.org/page/Sartono" />
     </pin:hero>
 
       <pin:hero rdf:about="https://dbpedia.org/page/Zainal_Mustafa">
         <rdfs:label>Zainul Mustafa </rdfs:label> 
-        <pin:abstract>Kiai Haji Zainal Mustafa (1899 – 25 Oktober 1944), lahir dengan nama Hudaemi, dan juga dikenal sebagai Zainal Mustofa, adalah seorang ulama Indonesia dan Pahlawan Nasional Indonesia. 
-        Ia mendirikan Pesantren Sukamanah pada usia 20 tahun. Ia dianugerahi gelar Pahlawan Nasional pada tahun 1972. </pin:abstract>
-        <pin:battle>melawan penjajahan jepang,  pemberontakan singaparna, membangun kesadaran nasionalisme.</pin:battle>
-        <pin:birthPlace>tasikmalaya</pin:birthPlace>
+        <pin:abstract>Kiai Haji Zainal Mustafa (1899 – 25 Oktober 1944), lahir dengan nama Hudaemi, dan juga dikenal sebagai Zainal Mustofa, adalah seorang ulama Indonesia dan Pahlawan Nasional Indonesia. Ia mendirikan Pesantren Sukamanah pada usia 20 tahun. Ia dianugerahi gelar Pahlawan Nasional pada tahun 1972. </pin:abstract>
+        <pin:battle>Melawan penjajahan Jepang,  Pemberontakan Singaparna, membangun kesadaran nasionalisme.</pin:battle>
+        <pin:birthPlace>Tasikmalaya</pin:birthPlace>
         <pin:birthYear>01/01/1901</pin:birthYear>
-        <pin:deathPlace>jakartaa</pin:deathPlace>
+        <pin:deathPlace>Jakarta</pin:deathPlace>
         <pin:deathYear>25/10/1944</pin:deathYear>
-        <pin:island>Banten</pin:island>
+        <pin:island>Jawa</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/en/b/be/Zainal_Mustafa.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="https://dbpedia.org/page/Zainal_Mustafa" />
     </pin:hero>
 
       <pin:hero rdf:about="https://dbpedia.org/page/Tjilik_Riwut">
         <rdfs:label>Tjilik Riwut</rdfs:label> 
-        <pin:abstract>Anakletus Tjilik Riwut (2 Februari 1918 – 17 Agustus 1987), yang lebih dikenal sebagai Tjilik Riwut, adalah seorang jurnalis, perwira militer, dan politikus Indonesia. 
-        Ia menjabat sebagai Gubernur kedua Kalimantan Tengah dari tahun 1958 hingga 1967 sebagai seorang independen. 
-        Tjilik Riwut juga merupakan tokoh penting dalam Revolusi Nasional Indonesia, menjadi salah satu pemimpin Revolusi Fisik Kalimantan di Borneo Belanda setelah berakhirnya Perang Dunia II, 
-        bersama dengan Idham Chalid, Hasan Basry, Mohammad Noor, dan sejumlah pemimpin terdesentralisasi lainnya. </pin:abstract>
-        <pin:battle>memperjuangkan kemerdekaan indonesia, mengintegrasikan kalimantan ke nkri, memperjuangkan hak-hak masyarakat adat dayat</pin:battle>
-        <pin:birthPlace>katingan</pin:birthPlace>
+        <pin:abstract>Anakletus Tjilik Riwut (2 Februari 1918 – 17 Agustus 1987), yang lebih dikenal sebagai Tjilik Riwut, adalah seorang jurnalis, perwira militer, dan politikus Indonesia. Ia menjabat sebagai Gubernur kedua Kalimantan Tengah dari tahun 1958 hingga 1967 sebagai seorang independen. Tjilik Riwut juga merupakan tokoh penting dalam Revolusi Nasional Indonesia, menjadi salah satu pemimpin Revolusi Fisik Kalimantan di Borneo Belanda setelah berakhirnya Perang Dunia II, bersama dengan Idham Chalid, Hasan Basry, Mohammad Noor, dan sejumlah pemimpin terdesentralisasi lainnya. </pin:abstract>
+        <pin:battle>Memperjuangkan kemerdekaan indonesia, mengintegrasikan kalimantan ke nkri, memperjuangkan hak-hak masyarakat adat dayat</pin:battle>
+        <pin:birthPlace>Katingan</pin:birthPlace>
         <pin:birthYear>02/02/1918</pin:birthYear>
-        <pin:deathPlace>banjarmasin</pin:deathPlace>
+        <pin:deathPlace>Banjarmasin</pin:deathPlace>
         <pin:deathYear>17/08/1987</pin:deathYear>
-        <pin:island>Kalimantan Tengah</pin:island>
+        <pin:island>Kalimantan</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Tjilik_Riwut.jpg/263px-Tjilik_Riwut.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="https://dbpedia.org/page/Tjilik_Riwut" />
     </pin:hero>
 
       <pin:hero rdf:about="https://dbpedia.org/page/Bagindo_Azizchan">
         <rdfs:label>Bagindo Azizchan</rdfs:label> 
-        <pin:abstract>Bagindo Azizchan (30 September 1910 – 19 Juli 1947) adalah seorang pejuang kemerdekaan Indonesia dan Wali Kota Padang kedua setelah kemerdekaan. 
-        Ia dilantik pada 15 Agustus 1946, menggantikan Abubakar Jaar. Ia meninggal pada usia 36 tahun setelah terlibat dalam pertempuran melawan pasukan Belanda. 
-        Jenazahnya dimakamkan di Taman Makam Pahlawan Bahagia, Bukittinggi. Pada 9 November 2005, Bagindo Azizchan dinyatakan sebagai Pahlawan Nasional Indonesia.</pin:abstract>
-        <pin:battle>menolak ultimatum belanda, memimpin perlawanan melalui gerilya, mempertahankan semangat nasionalismet</pin:battle>
-        <pin:birthPlace>padang </pin:birthPlace>
+        <pin:abstract>Bagindo Azizchan (30 September 1910 – 19 Juli 1947) adalah seorang pejuang kemerdekaan Indonesia dan Wali Kota Padang kedua setelah kemerdekaan. Ia dilantik pada 15 Agustus 1946, menggantikan Abubakar Jaar. Ia meninggal pada usia 36 tahun setelah terlibat dalam pertempuran melawan pasukan Belanda. Jenazahnya dimakamkan di Taman Makam Pahlawan Bahagia, Bukittinggi. Pada 9 November 2005, Bagindo Azizchan dinyatakan sebagai Pahlawan Nasional Indonesia.</pin:abstract>
+        <pin:battle>Menolak ultimatum Belanda, memimpin perlawanan melalui gerilya, mempertahankan semangat nasionalismet</pin:battle>
+        <pin:birthPlace>Padang </pin:birthPlace>
         <pin:birthYear>30/09/1910</pin:birthYear>
-        <pin:deathPlace>padang</pin:deathPlace>
+        <pin:deathPlace>Padang</pin:deathPlace>
         <pin:deathYear>19/07/1947</pin:deathYear>
-        <pin:island>Sumatera Barat</pin:island>
+        <pin:island>Sumatera</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Bagindo_Azizchan.jpg/330px-Bagindo_Azizchan.jpg</pin:thumbnail>
         <foaf:homepage rdf:resource="https://dbpedia.org/page/Bagindo_Azizchan" />
     </pin:hero>
 
       <pin:hero rdf:about="https://dbpedia.org/page/I_Gusti_Ketut_Jelantik">
-        <rdfs:label>I_Gusti Ketut Jelantik</rdfs:label> 
-        <pin:abstract>I Gusti Ketut Jelantik (-1849) adalah seorang Perdana Menteri Bali di negara bagian Buleleng, yang menolak pemberlakuan perjanjian Belanda. 
-        Ia menjadi pemimpin perlawanan terhadap invasi Belanda ke Bali, melawan mereka dalam beberapa intervensi militer Belanda: intervensi Belanda di Bali Utara pada tahun 1846, 1848, dan 1849. 
-        Pada tahun 1849, ia lolos dari serangan Belanda di Buleleng bersama penguasa Buleleng, lalu melarikan diri ke sekutu Karangasem, namun ia akhirnya terbunuh dalam penyergapan oleh pasukan Lombok, 
-        sekutu Belanda. Ia telah ditetapkan sebagai Pahlawan Nasional Indonesia.</pin:abstract>
+        <rdfs:label>I Gusti Ketut Jelantik</rdfs:label> 
+        <pin:abstract>I Gusti Ketut Jelantik (-1849) adalah seorang Perdana Menteri Bali di negara bagian Buleleng, yang menolak pemberlakuan perjanjian Belanda. Ia menjadi pemimpin perlawanan terhadap invasi Belanda ke Bali, melawan mereka dalam beberapa intervensi militer Belanda: intervensi Belanda di Bali Utara pada tahun 1846, 1848, dan 1849. Pada tahun 1849, ia lolos dari serangan Belanda di Buleleng bersama penguasa Buleleng, lalu melarikan diri ke sekutu Karangasem, namun ia akhirnya terbunuh dalam penyergapan oleh pasukan Lombok, sekutu Belanda. Ia telah ditetapkan sebagai Pahlawan Nasional Indonesia.</pin:abstract>
         <pin:battle>Perang Jagaraga (1848–1849)</pin:battle>
-        <pin:birthPlace>buleleng</pin:birthPlace>
+        <pin:birthPlace>Buleleng</pin:birthPlace>
         <pin:birthYear>1800</pin:birthYear>
-        <pin:deathPlace>buleleng</pin:deathPlace>
+        <pin:deathPlace>Buleleng</pin:deathPlace>
         <pin:deathYear>1849</pin:deathYear>
         <pin:island>Bali</pin:island>
         <pin:thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Goesti_Ngoerah_Ketoet_Djilantik%2C_radja_van_Boeleleng%2C_tijdens_zijn_bezoek_aan_Batavia%2C_KITLV_30501.tiff/lossy-page1-330px-Goesti_Ngoerah_Ketoet_Djilantik%2C_radja_van_Boeleleng%2C_tijdens_zijn_bezoek_aan_Batavia%2C_KITLV_30501.tiff.jpg</pin:thumbnail>
@@ -1387,10 +1274,7 @@
       
        <pin:hero rdf:about="https://dbpedia.org/page/Silas_Papare">
         <rdfs:label>Silas Papare</rdfs:label> 
-        <pin:abstract>Silas Ayari Donrai Papare (18 Desember 1918 – 7 Maret 1978) adalah seorang politikus Papua-Indonesia dan pemimpin gerilya yang merupakan Pahlawan Nasional Indonesia. 
-        Berasal dari Kepulauan Yapen, Papare dilatih dan bekerja sebagai perawat sebelum Perang Dunia Kedua, di mana ia mengorganisir perlawanan lokal dan mengumpulkan intelijen untuk melawan pasukan pendudukan Jepang. 
-        Meskipun awalnya ia berpandangan pro-Belanda setelah perang, namun hal ini berubah setelah ia terlibat dalam pemberontakan pro-Indonesia dan mengakibatkan tidak didelegasikan ke Konferensi Malino, 
-        kemudian ia dipengaruhi oleh Sam Ratulangi untuk mendirikan Irian Indonesia yang pro-Indonesia. Partai Kemerdekaan.</pin:abstract>
+        <pin:abstract>Silas Ayari Donrai Papare (18 Desember 1918 – 7 Maret 1978) adalah seorang politikus Papua-Indonesia dan pemimpin gerilya yang merupakan Pahlawan Nasional Indonesia. Berasal dari Kepulauan Yapen, Papare dilatih dan bekerja sebagai perawat sebelum Perang Dunia Kedua, di mana ia mengorganisir perlawanan lokal dan mengumpulkan intelijen untuk melawan pasukan pendudukan Jepang. Meskipun awalnya ia berpandangan pro-Belanda setelah perang, namun hal ini berubah setelah ia terlibat dalam pemberontakan pro-Indonesia dan mengakibatkan tidak didelegasikan ke Konferensi Malino, kemudian ia dipengaruhi oleh Sam Ratulangi untuk mendirikan Irian Indonesia yang pro-Indonesia. Partai Kemerdekaan.</pin:abstract>
         <pin:battle>perjuangan menuju integrasi Papua ke dalam wilayah Indonesia, penyatuan Papua dengan Indonesia, melawan propaganda Belanda yang ingin mempertahankan Papua sebagai bagian dari kerajaan kolonial mereka. </pin:battle>
         <pin:birthPlace>Serui</pin:birthPlace>
         <pin:birthYear>18/12/1918</pin:birthYear>
@@ -1402,31 +1286,4 @@
     </pin:hero>
 </rdf:RDF>
 
-       
-
-
-
-
-
-
-      
-      
-
-      
-      
-
-    
-      
-
-
-         
-      
-     
-
-
-
-
-
-
-      
 
