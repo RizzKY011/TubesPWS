@@ -1300,5 +1300,17 @@
     </pin:hero>
 </rdf:RDF>
 
-
+<pin:hero rdf:about="https://dbpedia.org/page/Harun_Thohir">
+        <rdfs:label>Harun Thohir</rdfs:label> 
+        <pin:abstract>Harun Thohir atau Harun Bin Said (nama lahir Tahir Bin Mandir) (1943–1968) adalah seorang tentara Indonesia yang lahir di Pulau Bawean, Jawa Timur, pada 4 April 1943 dari pasangan Mahdar dan Aswiyani, meskipun sumber lain menyebutkan bahwa ia lahir pada 14 April 1943. Ia merupakan salah satu anggota dari tim pasukan khusus yang terdiri dari tiga orang dalam Korps Marinir Indonesia (bersama Usman bin Haji Muhammad Ali, alias "Janatin," dan Gani Bin Arup) yang melakukan pengeboman di MacDonald House, Singapura, selama Konfrontasi Indonesia-Malaysia, yang mengakibatkan tewasnya tiga warga sipil. Setelah ditangkap, ia dihukum gantung atas tuduhan pembunuhan.</pin:abstract>
+        <pin:battle>Berperan sebagai anggota Korps Marinir Indonesia dalam Konfrontasi Indonesia-Malaysia</pin:battle>
+        <pin:birthPlace>Pulau Bawean</pin:birthPlace>
+        <pin:birthYear>04/04/1943</pin:birthYear>
+        <pin:deathPlace>Singapura</pin:deathPlace>
+        <pin:deathYear>17/10/1968</pin:deathYear>
+        <pin:island>Jawa</pin:island>
+        <pin:thumbnail>https://id.wikipedia.org/wiki/Berkas:Harun_Tohir_-_TMP_Kalibata(1).jpg</pin:thumbnail>
+        <foaf:homepage rdf:resource="https://id.wikipedia.org/wiki/Harun_Thohir" />
+    </pin:hero>
+</rdf:RDF>
 
