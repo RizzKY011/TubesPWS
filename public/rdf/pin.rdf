@@ -1286,4 +1286,19 @@
     </pin:hero>
 </rdf:RDF>
 
+<pin:hero rdf:about="https://example.org/hero/machmud_singgirei_rumagesan">
+        <rdfs:label>Machmud Singgirei Rumagesan</rdfs:label> 
+        <pin:abstract>Machmud Singgirei Rumagesan (27 Desember 1885 – 5 Juli 1964) adalah seorang pejuang asal Papua, dan merupakan seorang Raja di Kerajaan Sekar, salah satu petuanan di Semenanjung Onin yang bergelar Raja al-Alam Ugar Pik-Pik Sekar.ia juga dikenal dengan julukan "Jago Tua dari Irian Barat". Dalam rangka melawan Belanda, ia mendirikan Gerakan Tjendrawasih Revolusioner Irian Barat (GTRIB).Pada tanggal 10 November 2020, ia diangkat menjadi Pahlawan Nasional oleh Presiden Indonesia Joko Widodo.</pin:abstract>
+        <pin:battle>perjuangan menuju integrasi Papua ke dalam wilayah Indonesia, penyatuan Papua dengan Indonesia, melawan propaganda Belanda yang ingin mempertahankan Papua sebagai bagian dari kerajaan kolonial mereka. </pin:battle>
+        <pin:birthPlace>Kokas</pin:birthPlace>
+        <pin:birthYear>27/12/1885</pin:birthYear>
+        <pin:deathPlace>Jakarta</pin:deathPlace>
+        <pin:deathYear>05/07/1964</pin:deathYear>
+        <pin:island>Papua</pin:island>
+        <pin:thumbnail>https://id.wikipedia.org/wiki/Berkas:Machmud_Singgirei_Rumagesan.jpg</pin:thumbnail>
+        <foaf:homepage rdf:resource="https://id.m.wikipedia.org/wiki/Machmud_Singgirei_Rumagesan" />
+    </pin:hero>
+</rdf:RDF>
+
+
 
