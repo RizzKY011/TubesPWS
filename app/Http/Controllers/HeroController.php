@@ -45,6 +45,7 @@ class HeroController extends Controller
                 CONTAINS(LCASE(str(?name)), LCASE('$keyword')) ||
                 CONTAINS(LCASE(str(?island)), LCASE('$keyword')) ||
                 CONTAINS(LCASE(str(?deathPlace)), LCASE('$keyword')) ||
+                CONTAINS(LCASE(str(?birthPlace)), LCASE('$keyword')) ||
                 CONTAINS(str(?birthYear), '$keyword')
             )
         }
